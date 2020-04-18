@@ -1,0 +1,23 @@
+state={
+	id=798
+	name="Barents Coast"
+	history={
+		owner = IND
+		buildings = {
+			infrastructure = 1
+			3338 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			3338 10 
+		}
+		add_core_of = IND
+	}
+	provinces={
+		3338 9041 312 3168 3080 9248 3092 11038 9055 6159 3086 3 26 11137 140 6102 11171 3075 180 6105
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+} 
