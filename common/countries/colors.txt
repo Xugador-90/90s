@@ -81,66 +81,61 @@ I04 = {
 }
 
 I05 = {
-	color = rgb { 160 17 35 }
-	color_ui = rgb { 160 17 35 }
+	color = rgb { 62 98 89 }
+	color_ui = rgb { 62 98 89 }
 }
 
 I06 = {
-	color = rgb { 160 17 35 }
-	color_ui = rgb { 160 17 35 }
+	color = rgb { 62 98 89 }
+	color_ui = rgb { 62 98 89 }
 }
 
 I07 = {
-	color = rgb { 160 17 35 }
-	color_ui = rgb { 160 17 35 }
+	color = rgb { 62 98 89 }
+	color_ui = rgb { 62 98 89 }
 }
 
 I08 = {
-	color = rgb { 160 17 35 }
-	color_ui = rgb { 160 17 35 }
+	color = rgb { 62 98 89 }
+	color_ui = rgb { 62 98 89 }
 }
 
 I09 = {
-	color = rgb { 160 17 35 }
-	color_ui = rgb { 160 17 35 }
-}
-
-I10 = {
-	color = rgb { 160 17 35 }
-	color_ui = rgb { 160 17 35 }
-}
-
-I11 = {
 	color = rgb { 62 98 89 }
 	color_ui = rgb { 62 98 89 }
 }
 
-I12 = {
-	color = rgb { 62 98 89 }
-	color_ui = rgb { 62 98 89 }
+CRI = {
+	color = rgb { 130 43 24 }
+	color_ui = rgb { 130 43 24 }
 }
 
-I13 = {
-	color = rgb { 62 98 89 }
-	color_ui = rgb { 62 98 89 }
+BFS = {
+	color = rgb { 112 46 52 }
+	color_ui = rgb { 112 46 52 }
 }
 
-I14 = {
-	color = rgb { 62 98 89 }
-	color_ui = rgb { 62 98 89 }
+RFM = {
+	color = rgb { 22 77 62 }
+	color_ui = rgb { 22 77 62 }
 }
 
-I15 = {
-	color = rgb { 62 98 89 }
-	color_ui = rgb { 62 98 89 }
+SCO = {
+	color = rgb { 48 25 52 }
+	color_ui = rgb { 48 25 52 }
 }
 
-I16 = {
-	color = rgb { 62 98 89 }
-	color_ui = rgb { 62 98 89 }
+LON = {
+	color = rgb { 82 19 38 }
+	color_ui = rgb { 82 19 38 }
 }
 
-I17 = {
-	color = rgb { 62 98 89 }
-	color_ui = rgb { 62 98 89 }
+CAM = {
+	color = rgb { 138 43 0 }
+	color_ui = rgb { 138 43 0 }
+}
+
+WCB = {
+	color = rgb { 60 125 89 }
+	color_ui = rgb { 60 125 89 }
 }

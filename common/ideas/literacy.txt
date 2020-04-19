@@ -20,3 +20,71 @@ ideas = {
    				factor = 0.5
    			}
 		}
+
+		#Literate Elites
+		literacy_literate_elites = {
+			
+
+			modifier = {
+				
+			}
+
+			cost = 150
+			
+			cancel_if_invalid = no
+			
+			ai_will_do = {
+   				factor = 0.5
+   			}
+		}
+
+		#Moderate Literacy
+		literacy_moderate_literacy = {
+			
+
+			modifier = {
+				
+			}
+
+			cost = 300
+			
+			cancel_if_invalid = no
+			
+			ai_will_do = {
+   				factor = 0.5
+   			}
+		}
+
+		#Literate Masses
+		literacy_literate_masses = {
+			
+
+			modifier = {
+				
+			}
+
+			cost = 450
+			
+			cancel_if_invalid = no
+			
+			ai_will_do = {
+   				factor = 0.5
+   			}
+		}
+
+		#Commonplace Literacy
+		literacy_commonplace_literacy = {
+			
+
+			modifier = {
+				
+			}
+
+			cost = 600
+			
+			cancel_if_invalid = no
+			
+			ai_will_do = {
+   				factor = 0.5
+   			}
+		}
