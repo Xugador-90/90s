@@ -1,0 +1,34 @@
+bookmarks = {
+	bookmark = {
+		name = "REMNANTS_OF_A_FORGOTTEN_WORLD_NAME"
+		desc = "REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+		date = 1991.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "BAL"
+		default = yes
+		
+		"BAL"={
+			history = "BAL_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = republicanism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		
+		"---"={
+			history = "OTHER_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+		}
+
+
+		# minors ####
+	
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
