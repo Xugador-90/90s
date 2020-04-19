@@ -1,0 +1,22 @@
+ideas = {
+
+	literacy = { 
+	
+		law = yes
+		
+		#Illiterate Society
+		literacy_illiterate_society = {
+			
+
+			modifier = {
+				
+			}
+
+			cost = 0
+			
+			cancel_if_invalid = no
+			
+			ai_will_do = {
+   				factor = 0.5
+   			}
+		}

@@ -1,5 +1,5 @@
 BAL = "countries/Baltic Commonwealth"
-FIN = "countries/Finish Khaganate"
+FIN = "countries/Finnish Khaganate"
 KIE = "countries/Kievan Rus"
 RUH = "countries/Russian Hegemony"
 DEA = "countries/Dead Circle"
