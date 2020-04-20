@@ -1,0 +1,17 @@
+state={
+	id=802
+	name="Bidzhan Steppes"
+	history={
+		owner = FER
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = FER
+	}
+	provinces={
+		10722 12678 4246 7616 4829 4779 4725 1802 7801 10655 12654 7763
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -139,3 +139,38 @@ WCB = {
 	color = rgb { 60 125 89 }
 	color_ui = rgb { 60 125 89 }
 }
+
+CHR = {
+	color = rgb { 34 143 105 }
+	color_ui = rgb { 34 143 105 }
+}
+
+GAZ = {
+	color = rgb { 84 34 79 }
+	color_ui = rgb { 84 34 79 }
+}
+
+VLA = {
+	color = rgb { 24 32 67 }
+	color_ui = rgb { 24 32 67 }
+}
+
+IRK = {
+	color = rgb { 123 76 121 }
+	color_ui = rgb { 123 76 121 }
+}
+
+FER = {
+	color = rgb { 13 54 12 }
+	color_ui = rgb { 13 54 12 }
+}
+
+KAZ = {
+	color = rgb { 188 131 70 }
+	color_ui = rgb { 188 131 70 }
+}
+
+NIR = {
+	color = rgb { 108 82 57 }
+	color_ui = rgb { 108 82 57 }
+}

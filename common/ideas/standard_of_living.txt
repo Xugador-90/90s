@@ -5,7 +5,7 @@ ideas = {
 		law = yes
 		use_list_view = yes
 		
-		#Midieval
+		#Medieval
 		standard_of_living_medieval = {
 			
 
