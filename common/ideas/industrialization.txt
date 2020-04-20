@@ -1,12 +1,12 @@
 ideas = {
 
-	literacy = { 
+	industrialization = { 
 	
 		law = yes
 		use_list_view = yes
 		
-		#Illiterate Society
-		literacy_illiterate_society = {
+		#Agrarian Society
+		industrialization_agrarian_society = {
 			
 
 			modifier = {
@@ -22,8 +22,8 @@ ideas = {
    			}
 		}
 
-		#Literate Elites
-		literacy_literate_elites = {
+		#Rural Industry
+		industrialization_rural_industry = {
 			
 
 			modifier = {
@@ -39,8 +39,8 @@ ideas = {
    			}
 		}
 
-		#Moderate Literacy
-		literacy_moderate_literacy = {
+		#Small-Scale Factories
+		industrialization_small_scale_factories = {
 			
 
 			modifier = {
@@ -56,8 +56,8 @@ ideas = {
    			}
 		}
 
-		#Literate Masses
-		literacy_literate_masses = {
+		#Factory Complexes
+		industrialization_factory_complexes = {
 			
 
 			modifier = {
@@ -73,8 +73,8 @@ ideas = {
    			}
 		}
 
-		#Commonplace Literacy
-		literacy_commonplace_literacy = {
+		#Expansive Industrialization
+		industrialization_expansive_industrialization = {
 			
 
 			modifier = {

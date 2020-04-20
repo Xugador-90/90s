@@ -1,12 +1,12 @@
 ideas = {
 
-	literacy = { 
+	standard_of_living = { 
 	
 		law = yes
 		use_list_view = yes
 		
-		#Illiterate Society
-		literacy_illiterate_society = {
+		#Midieval
+		standard_of_living_medieval = {
 			
 
 			modifier = {
@@ -22,8 +22,8 @@ ideas = {
    			}
 		}
 
-		#Literate Elites
-		literacy_literate_elites = {
+		#Reniassance
+		standard_of_living_reniassance = {
 			
 
 			modifier = {
@@ -39,8 +39,8 @@ ideas = {
    			}
 		}
 
-		#Moderate Literacy
-		literacy_moderate_literacy = {
+		#Victorian
+		standard_of_living_victorian = {
 			
 
 			modifier = {
@@ -56,8 +56,8 @@ ideas = {
    			}
 		}
 
-		#Literate Masses
-		literacy_literate_masses = {
+		#Interwar
+		standard_of_living_interwar = {
 			
 
 			modifier = {
@@ -73,8 +73,8 @@ ideas = {
    			}
 		}
 
-		#Commonplace Literacy
-		literacy_commonplace_literacy = {
+		#Pre-Decline
+		standard_of_living_pre_decline = {
 			
 
 			modifier = {
@@ -82,6 +82,23 @@ ideas = {
 			}
 
 			cost = 600
+			
+			cancel_if_invalid = no
+			
+			ai_will_do = {
+   				factor = 0.5
+   			}
+		}
+
+		#Modern
+		standard_of_living_modern = {
+			
+
+			modifier = {
+				
+			}
+
+			cost = 750
 			
 			cancel_if_invalid = no
 			
