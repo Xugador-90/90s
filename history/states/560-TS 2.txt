@@ -1,0 +1,23 @@
+
+state={
+	id=560
+	name="STATE_560" # Nikolayevsk
+	manpower = 97663
+	
+	state_category = rural
+	resources={
+		steel=18 # was: 24
+	}
+
+	history={
+		owner = VLA
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = VLA
+	}
+
+	provinces={
+		3664 4290 4841 4844 7748 7868 9659 10571 10577 12559 12569 12638 
+	}
+}
