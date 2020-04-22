@@ -23,3 +23,14 @@ set_popularities = {
 	techno_dictatorship = 5
 	proletarian_dictatorship = 21
 }
+
+create_country_leader = {
+	name = "Margaret Thatcher"
+	desc = "POLITICS_MARGARET_THATCHER_DESC"
+	picture = GFX_Portrait_LON_Margaret_Thatcher
+	expire = "2030.1.1"
+	ideology = plutocratic_oligarchy
+	traits = {
+		#
+	}
+}

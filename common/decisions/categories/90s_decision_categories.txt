@@ -1,0 +1,16 @@
+90s_iron_lords = {
+	picture = GFX_decision_category_generic
+	visible = {
+		OR = {
+			AND = {
+				TAG = BAL
+				is_puppet = no
+			}
+			AND = {
+				TAG = SAM
+				is_puppet = no
+			}
+			
+		}
+	}
+}

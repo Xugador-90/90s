@@ -1,5 +1,15 @@
 ﻿capital = 587
 
+set_variable = {
+    var = I09_support_republicanism
+    value = 0
+}
+
+set_variable = {
+    var = I09_support_atomic_dictatorship
+    value = 50
+}
+
 oob = ""
 
 # Starting tech

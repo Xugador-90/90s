@@ -8,6 +8,18 @@ set_technology = {
 
 set_convoys = 0
 
+puppet = I01
+puppet = I02
+puppet = I03
+puppet = I04
+
+create_faction = "Talinin Pact"
+add_to_faction = BAL
+add_to_faction = I01
+add_to_faction = I02
+add_to_faction = I03
+add_to_faction = I04
+
 set_politics = {
 	ruling_party = republicanism
 	last_election = "1987.5.6"

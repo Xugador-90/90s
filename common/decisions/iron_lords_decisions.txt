@@ -1,0 +1,1176 @@
+90s_iron_lords = {
+
+	sway_mozyr = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I01
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 194
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I01 = {
+					add_to_variable = {
+   						var = I01_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I01 = {
+						add_to_variable = {
+   							var = I01_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_chernigov = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I02
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 193
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I02 = {
+					add_to_variable = {
+   						var = I02_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I02 = {
+						add_to_variable = {
+   							var = I02_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_bryansk = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I03
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 224
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I03 = {
+					add_to_variable = {
+   						var = I03_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I03 = {
+						add_to_variable = {
+   							var = I03_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_kursk = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I04
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 220
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I04 = {
+					add_to_variable = {
+   						var = I04_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I04 = {
+						add_to_variable = {
+   							var = I04_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_tula = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I05
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 223
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I05 = {
+					add_to_variable = {
+   						var = I05_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I05 = {
+						add_to_variable = {
+   							var = I05_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_tambov = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I06
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 257
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I06 = {
+					add_to_variable = {
+   						var = I06_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I06 = {
+						add_to_variable = {
+   							var = I06_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_stalino = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I07
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 227
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I07 = {
+					add_to_variable = {
+   						var = I07_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I07 = {
+						add_to_variable = {
+   							var = I07_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_akhtubinsk = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I08
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 402
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I08 = {
+					add_to_variable = {
+   						var = I08_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I08 = {
+						add_to_variable = {
+   							var = I08_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	sway_ust_urt = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+		}
+
+		cost = 50
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I09
+		}
+
+		cancel_if_not_visible = yes
+
+		highlight_state_targets = {
+			state = 587
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					TAG = BAL
+				}
+				I09 = {
+					add_to_variable = {
+   						var = I09_support_republicanism
+   						value = 5
+					}
+				}
+
+				else = {
+					I09 = {
+						add_to_variable = {
+   							var = I09_support_atomic_dictatorship
+   							value = 5
+						}
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_mozyr = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I01 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I01_support_republicanism > I01_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I01 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I01_support_atomic_dictatorship > I01_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I01
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I01
+				remove_from_faction = I01
+				I01 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I01_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I01_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I01
+			puppet = I01
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_chernigov = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I02 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I02_support_republicanism > I02_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I02 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I02_support_atomic_dictatorship > I02_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I02
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I02
+				remove_from_faction = I02
+				I02 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I02_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I02_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I02
+			puppet = I02
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_bryansk = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I03 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I03_support_republicanism > I03_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I03 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I03_support_atomic_dictatorship > I03_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I03
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I03
+				remove_from_faction = I03
+				I03 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I03_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I03_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I03
+			puppet = I03
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_kursk = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I04 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I04_support_republicanism > I04_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I04 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I04_support_atomic_dictatorship > I04_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I04
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I04
+				remove_from_faction = I04
+				I04 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I04_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I04_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I04
+			puppet = I04
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_tula = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I05 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I05_support_republicanism > I05_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I05 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I05_support_atomic_dictatorship > I05_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I05
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I05
+				remove_from_faction = I05
+				I05 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I05_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I05_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I05
+			puppet = I05
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_tambov = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I06 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I06_support_republicanism > I06_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I06 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I06_support_atomic_dictatorship > I06_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I06
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I06
+				remove_from_faction = I06
+				I06 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+						set_cosmetic_tag = I06_REP
+						add_popularity = { ideology = republicanism popularity = 0.2 }
+						set_politics = {
+							ruling_party = republicanism
+							elections_allowed = yes
+						}
+
+						else = {								
+							set_cosmetic_tag = I06_ATM
+							add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+							set_politics = {
+								ruling_party = atomic_dictatorship
+								elections_allowed = no
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I06
+			puppet = I06
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_stalino = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I07 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I07_support_republicanism > I07_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I07 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I07_support_atomic_dictatorship > I07_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I07
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I07
+				remove_from_faction = I07
+				I07 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I07_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I07_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I07
+			puppet = I07
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_aktubinsk = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I08 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I08_support_republicanism > I08_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I08 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I08_support_atomic_dictatorship > I08_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I08
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I08
+				remove_from_faction = I08
+				I08 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I08_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I08_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I08
+			puppet = I08
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	flip_ust_urt = {
+
+		icon = eng_propaganda_campaigns
+
+		available = {
+			OR = {
+				AND = {
+					has_government = republicanism
+					I09 = {
+						NOT = {
+							has_government = republicanism
+						}
+						check_variable = {
+   							I09_support_republicanism > I09_support_atomic_dictatorship
+						}
+					}
+				}
+				AND = {
+					has_government = atomic_dictatorship
+					I09 = {
+						NOT = {
+							has_government = atomic_dictatorship
+						}
+						check_variable = {
+   							I09_support_atomic_dictatorship > I09_support_republicanism
+						}
+					}
+				}
+			}
+		}
+
+		cost = 100
+
+		fire_only_once = no
+
+		visible = {
+			country_exists = I09
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			hidden_effect = {
+				release_puppet = I09
+				remove_from_faction = I09
+				I09 = {
+					if = {
+						limit = {
+							has_government = atomic_dictatorship
+						}
+
+						hidden_effect = {
+							set_cosmetic_tag = I09_REP
+							add_popularity = { ideology = republicanism popularity = 0.2 }
+							set_politics = {
+								ruling_party = republicanism
+								elections_allowed = yes
+							}
+						}
+
+						else = {
+							hidden_effect = {
+								set_cosmetic_tag = I09_ATM
+								add_popularity = { ideology = atomic_dictatorship popularity = 0.2 }
+								set_politics = {
+									ruling_party = atomic_dictatorship
+									elections_allowed = no
+								}
+							}
+						}
+					}
+				}
+			}
+			add_to_faction = I09
+			puppet = I09
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

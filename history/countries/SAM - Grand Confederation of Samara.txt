@@ -8,10 +8,22 @@ set_technology = {
 
 set_convoys = 0
 
+puppet = I05
+puppet = I06
+puppet = I07
+puppet = I08
+puppet = I09
+
+create_faction = "Russian National Unity"
+add_to_faction = SAM
+add_to_faction = I05
+add_to_faction = I06
+add_to_faction = I07
+add_to_faction = I08
+add_to_faction = I09
+
 set_politics = {
-	ruling_party = republicanism
-	last_election = "1987.5.6"
-	election_frequency = 48
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
