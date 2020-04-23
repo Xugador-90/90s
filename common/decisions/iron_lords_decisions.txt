@@ -7,7 +7,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -20,6 +20,10 @@
 		highlight_state_targets = {
 			state = 194
 		}
+
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -56,7 +60,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -69,6 +73,9 @@
 		highlight_state_targets = {
 			state = 193
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -105,7 +112,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -118,6 +125,9 @@
 		highlight_state_targets = {
 			state = 224
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -154,7 +164,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -167,6 +177,9 @@
 		highlight_state_targets = {
 			state = 220
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -203,7 +216,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -216,6 +229,9 @@
 		highlight_state_targets = {
 			state = 223
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -252,7 +268,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -265,6 +281,9 @@
 		highlight_state_targets = {
 			state = 257
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -301,7 +320,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -314,6 +333,9 @@
 		highlight_state_targets = {
 			state = 227
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -350,7 +372,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -363,6 +385,9 @@
 		highlight_state_targets = {
 			state = 402
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -399,7 +424,7 @@
 		available = {
 		}
 
-		cost = 50
+		cost = 25
 
 		fire_only_once = no
 
@@ -412,6 +437,9 @@
 		highlight_state_targets = {
 			state = 587
 		}
+
+		days_remove = 14
+		days_re_enable = 0
 
 		complete_effect = {
 			if = {
@@ -443,7 +471,7 @@
 
 	flip_mozyr = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -484,7 +512,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I01
 				remove_from_faction = I01
 				I01 = {
 					if = {
@@ -514,18 +541,17 @@
 					}
 				}
 			}
-			add_to_faction = I01
-			puppet = I01
+			add_to_faction = I02
 		}
 
-		ai_will_do = {
+		ai_will_do = {	
 			factor = 0
 		}
 	}
 
 	flip_chernigov = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -566,7 +592,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I02
 				remove_from_faction = I02
 				I02 = {
 					if = {
@@ -597,7 +622,6 @@
 				}
 			}
 			add_to_faction = I02
-			puppet = I02
 		}
 
 		ai_will_do = {
@@ -607,7 +631,7 @@
 
 	flip_bryansk = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -648,7 +672,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I03
 				remove_from_faction = I03
 				I03 = {
 					if = {
@@ -679,7 +702,6 @@
 				}
 			}
 			add_to_faction = I03
-			puppet = I03
 		}
 
 		ai_will_do = {
@@ -689,7 +711,7 @@
 
 	flip_kursk = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -730,7 +752,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I04
 				remove_from_faction = I04
 				I04 = {
 					if = {
@@ -761,7 +782,6 @@
 				}
 			}
 			add_to_faction = I04
-			puppet = I04
 		}
 
 		ai_will_do = {
@@ -771,7 +791,7 @@
 
 	flip_tula = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -812,7 +832,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I05
 				remove_from_faction = I05
 				I05 = {
 					if = {
@@ -843,7 +862,6 @@
 				}
 			}
 			add_to_faction = I05
-			puppet = I05
 		}
 
 		ai_will_do = {
@@ -853,7 +871,7 @@
 
 	flip_tambov = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -894,7 +912,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I06
 				remove_from_faction = I06
 				I06 = {
 					if = {
@@ -920,7 +937,6 @@
 				}
 			}
 			add_to_faction = I06
-			puppet = I06
 		}
 
 		ai_will_do = {
@@ -930,7 +946,7 @@
 
 	flip_stalino = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -971,7 +987,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I07
 				remove_from_faction = I07
 				I07 = {
 					if = {
@@ -1002,7 +1017,6 @@
 				}
 			}
 			add_to_faction = I07
-			puppet = I07
 		}
 
 		ai_will_do = {
@@ -1010,9 +1024,9 @@
 		}
 	}
 
-	flip_aktubinsk = {
+	flip_akhtubinsk = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -1053,7 +1067,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I08
 				remove_from_faction = I08
 				I08 = {
 					if = {
@@ -1084,7 +1097,6 @@
 				}
 			}
 			add_to_faction = I08
-			puppet = I08
 		}
 
 		ai_will_do = {
@@ -1094,7 +1106,7 @@
 
 	flip_ust_urt = {
 
-		icon = eng_propaganda_campaigns
+		icon = generic_political_rally
 
 		available = {
 			OR = {
@@ -1135,7 +1147,6 @@
 
 		complete_effect = {
 			hidden_effect = {
-				release_puppet = I09
 				remove_from_faction = I09
 				I09 = {
 					if = {
@@ -1166,7 +1177,6 @@
 				}
 			}
 			add_to_faction = I09
-			puppet = I09
 		}
 
 		ai_will_do = {

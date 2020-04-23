@@ -8,12 +8,6 @@ set_technology = {
 
 set_convoys = 0
 
-puppet = I05
-puppet = I06
-puppet = I07
-puppet = I08
-puppet = I09
-
 create_faction = "Russian National Unity"
 add_to_faction = SAM
 add_to_faction = I05

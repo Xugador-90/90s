@@ -1,5 +1,6 @@
 90s_iron_lords = {
-	picture = GFX_decision_category_generic
+	icon = eng_move_to_secure_the_dominions
+	desc = 90s_iron_lord_desc
 	visible = {
 		OR = {
 			AND = {

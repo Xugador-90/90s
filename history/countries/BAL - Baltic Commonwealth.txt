@@ -8,11 +8,6 @@ set_technology = {
 
 set_convoys = 0
 
-puppet = I01
-puppet = I02
-puppet = I03
-puppet = I04
-
 create_faction = "Talinin Pact"
 add_to_faction = BAL
 add_to_faction = I01
