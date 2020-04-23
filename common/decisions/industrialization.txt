@@ -1,4 +1,4 @@
-scavaging_category = {
+90s_scavaging_category = {
 	
 	gather_firearms = {
 		icon = {}
