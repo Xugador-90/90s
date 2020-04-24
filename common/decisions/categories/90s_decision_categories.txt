@@ -15,10 +15,12 @@
 		}
 	}
 }
-90's_scavenging = {
-	icon = 
-	desc = 90's_scavenging_desc
+
+90s_scavenging = {
+	icon = GFX
+	desc = 90s_scavenging_desc
 	visible = {
 		num_factories < 10
+		
 	}
 }
