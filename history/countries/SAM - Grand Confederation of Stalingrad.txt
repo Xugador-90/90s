@@ -22,10 +22,21 @@ set_politics = {
 }
 set_popularities = {
 	republicanism = 0
-	atomic_dictatorship = 53
+	atomic_dictatorship = 43
 	messianism = 20
-	neo_medievalism = 0 
+	neo_medievalism = 10 
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 27
+}
+
+create_country_leader = {
+	name = "Yuri Knorozov"
+	desc = "POLITICS_YURI_KNOROZOV_DESC"
+	picture = "Portrait_SAM_Yuri_Knorozov.dds"
+	expire = "2020.1.1"
+	ideology = occult_dictatorship
+	traits = {
+		#
+	}
 }
