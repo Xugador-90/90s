@@ -179,3 +179,38 @@ SOL = {
 	color = rgb { 232 97 0 }
 	color_ui = rgb { 232 97 0 }
 }
+
+JAI = {
+	color = rgb { 154 34 41 }
+	color_ui = rgb { 154 34 41 }
+}
+
+DY1 = {
+	color = rgb { 180 28 48 }
+	color_ui = rgb { 180 28 48 }
+}
+
+DY2 = {
+	color = rgb { 180 28 48 }
+	color_ui = rgb { 180 28 48 }
+}
+
+DY3 = {
+	color = rgb { 180 28 48 }
+	color_ui = rgb { 180 28 48 }
+}
+
+DY4 = {
+	color = rgb { 180 28 48 }
+	color_ui = rgb { 180 28 48 }
+}
+
+DY5 = {
+	color = rgb { 180 28 48 }
+	color_ui = rgb { 180 28 48 }
+}
+
+KYU = {
+	color = rgb { 75 136 162 }
+	color_ui = rgb { 75 136 162 }
+}
