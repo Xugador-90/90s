@@ -1,0 +1,38 @@
+﻿capital = 833
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+create_faction = "The New USA Project"
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1988.11.8"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	republicanism = 61
+	atomic_dictatorship = 5
+	messianism = 1
+	neo_medievalism = 2
+	tribalism = 0
+	techno_dictatorship = 10
+	proletarian_dictatorship = 21
+}
+
+create_country_leader = {
+	name = "Michael Dukakis"
+	desc = "POLITICS_MICHAEL_DUKAKIS_DESC"
+	picture = "Portrait_SAM_Yuri_Knorozov.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}
