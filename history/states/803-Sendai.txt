@@ -11,7 +11,7 @@ state={
 		add_core_of = DY1
 	}
 	provinces={
-		4118 1024 7169 1165 4153
+		4118 1024 7169 1165 4153 4122
 	}
 	victory_points = {
 		7169 15 
