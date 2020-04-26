@@ -1,0 +1,9 @@
+state={
+	id=847
+	name="Canton"
+	provinces={
+		827 3829 4442 6874 9808 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

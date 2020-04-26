@@ -1,0 +1,23 @@
+state={
+	id=834
+	name="Annaopolis"
+	provinces={
+		6984 
+	}
+	manpower=98065
+	
+	state_category = town
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = {
+			6984 10
+		}
+		buildings = {
+			infastructure = 6
+			industrial_complex = 2
+		}
+	}
+}
+

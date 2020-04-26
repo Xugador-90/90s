@@ -1,0 +1,9 @@
+state={
+	id=845
+	name="Cincinatii"
+	provinces={
+		971 4601 7528 9760 9775 11890 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

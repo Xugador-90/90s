@@ -1,0 +1,23 @@
+state={
+	id=816
+	name="Pleasant"
+	provinces={
+		598 3602 9754 10381 11662 11665 11722 
+	}
+	manpower=345871
+	
+	state_category = large_city
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			11662 10
+
+		}
+		buildings = {
+			infastructure = 7
+			industrial_complex = 3
+		}
+	}
+}

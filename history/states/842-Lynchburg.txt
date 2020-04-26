@@ -1,0 +1,9 @@
+state={
+	id=842
+	name="Lynchburg"
+	provinces={
+		1506 7558 9779 10439 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=827
+	name="Lancaster"
+	provinces={
+		822 3824 
+	}
+	manpower=102348
+	
+	state_category = large_town
+
+	history = {
+		owner = UST
+		add_core_of
+		victory points = { 
+			822 10
+		}
+		buildings = {
+			infastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+		}
+	}
+}

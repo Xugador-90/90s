@@ -1,0 +1,23 @@
+state={
+	id=805
+	name="Augusta" 
+	provinces={
+		3732 6719 7462 10318 12202 12459 
+	}
+	manpower=197831
+	
+	state_category = town
+
+	history = {
+		owner = UST
+		victory points = { 
+			3732 15
+			7462 5 
+		}
+		buildings = {
+			infastructure = 5
+			industrial_complex = 1
+		}
+		add_core_of = UST
+	}
+}

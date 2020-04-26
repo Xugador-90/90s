@@ -1,0 +1,23 @@
+state={
+	id=831
+	name="Harrisburg"
+	provinces={
+		847 3847 3850 9804 11758 11769 
+	}
+	manpower=1245890
+	
+	state_category = large_town
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			847 10
+		}
+		buildings = {
+			infastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+		}
+	}
+}

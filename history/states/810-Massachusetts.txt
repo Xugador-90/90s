@@ -1,0 +1,25 @@
+state={
+	id=810
+	name="Worcester"
+	provinces={
+		715 718 908 3710 
+	}
+	manpower=198345
+	
+	state_category = large_town
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			3710 5 
+		}
+		buildings = {
+			infastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			
+		}
+	}
+}
+

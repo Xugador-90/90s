@@ -1,0 +1,24 @@
+state={
+	id=838
+	name="Norfolk"
+	provinces={
+		788 11738 
+	}
+	manpower=68907
+	
+	state_category = large_town
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = {
+			788 15
+		}
+		buildings = {
+			infastructure = 10
+			industrial_complex = 4
+			arms_factory = 3
+			dockyard = 6
+		}
+	}
+}

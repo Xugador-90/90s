@@ -1,0 +1,9 @@
+state={
+	id=854
+	name="Grand Rapids"
+	provinces={
+		9684 11685 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

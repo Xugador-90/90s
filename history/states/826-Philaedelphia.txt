@@ -1,0 +1,24 @@
+state={
+	id=826
+	name="Philaedelphia"
+	provinces={
+		6845 
+	}
+	manpower=1154678
+	
+	state_category = megalopolis
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			6845 50
+
+		}
+		buildings = {
+			infastructure = 8
+			industrial_complex = 10
+			arms_factory = 3
+		}
+	}
+}

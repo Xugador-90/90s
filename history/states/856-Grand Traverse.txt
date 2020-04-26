@@ -1,0 +1,9 @@
+state={
+	id=856
+	name="Grand Traverse"
+	provinces={
+		7420 9747 13155 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

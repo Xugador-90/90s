@@ -1,0 +1,9 @@
+state={
+	id=858
+	name="Alpena"
+	provinces={
+		3766 10303 11731 13199 13200 13201 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

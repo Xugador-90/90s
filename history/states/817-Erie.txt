@@ -1,0 +1,23 @@
+state={
+	id=817
+	name="Erie"
+	provinces={
+		734 3687 6705 6707 9662 9664 11648 11654 
+	}
+	manpower=345871
+	
+	state_category = metropolis
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			734 10
+
+		}
+		buildings = {
+			infastructure = 7
+			industrial_complex = 3
+		}
+	}
+}
