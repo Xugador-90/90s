@@ -1,6 +1,6 @@
 state={
 	id=866
-	name="Gävleborg"
+	name="Helsingland"
 	history={
 		owner = SMI
 		buildings = {
@@ -11,7 +11,7 @@ state={
 		add_core_of = SMI
 	}
 	provinces={
-		6023 11053 11209
+		49 125 3045 6023 9051 11040 11091 11147 11209
 	}
 	victory_points = {
 		11209 15
