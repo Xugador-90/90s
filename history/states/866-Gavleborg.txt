@@ -1,0 +1,22 @@
+state={
+	id=866
+	name="Gävleborg"
+	history={
+		owner = SMI
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = SMI
+	}
+	provinces={
+		6023 11053 11209
+	}
+	victory_points = {
+		11209 15
+	}
+	manpower=4000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

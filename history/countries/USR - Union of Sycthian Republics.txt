@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 35
 	proletarian_dictatorship = 45
 }
+
+create_country_leader = {
+	name = "The Chairman"
+	desc = "USR_The_Chairman_desc"
+	picture = "USR_The_Chairman.tga"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}

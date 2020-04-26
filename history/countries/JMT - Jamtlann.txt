@@ -1,0 +1,36 @@
+﻿capital = 206
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = tribalism
+	last_election = "1987.5.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0 
+	tribalism = 100
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+}
+
+create_country_leader = {
+	name = "Ewert Ljusberg"
+	desc = "JMT_Ewert_Ljusberg_desc"
+	picture = "JMT_Ewert_Ljusberg.tga"
+	expire = "2020.1.1"
+	ideology = radical_tribalists
+	traits = {
+		#
+	}
+}

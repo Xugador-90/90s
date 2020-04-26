@@ -1,0 +1,22 @@
+state={
+	id=864
+	name="Jamtlann"
+	history={
+		owner = JMT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = JMT
+	}
+	provinces={
+		46 49 113 114 125 168 3039 3045 3070 3108 3111 3162 3191 6010 6093 6123 6126 6129 6185 6207 9051 9066 9117 9141 9148 9154 9171 9182 9229 11040 11049 11052 11091 11116 11129 11147 11148 11187 11197 13099 13117
+	}
+	victory_points = {
+		9171 15 
+	}
+	manpower=4000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
