@@ -214,3 +214,8 @@ KYU = {
 	color = rgb { 75 136 162 }
 	color_ui = rgb { 75 136 162 }
 }
+
+UST = {
+	color = rgb { 0 96 169 }
+	color_ui = rgb { 0 96 169 }
+}
