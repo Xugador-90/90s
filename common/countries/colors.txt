@@ -219,3 +219,33 @@ UST = {
 	color = rgb { 0 96 169 }
 	color_ui = rgb { 0 96 169 }
 }
+
+SLA = {
+	color = rgb { 130 97 70 }
+	color_ui = rgb { 130 97 70 }
+}
+
+CRO = {
+	color = rgb { 176 160 132 }
+	color_ui = rgb { 176 160 132 }
+}
+
+SEK = {
+	color = rgb { 144 50 61 }
+	color_ui = rgb { 144 50 61 }
+}
+
+SES = {
+	color = rgb { 56 95 113 }
+	color_ui = rgb { 56 95 113 }
+}
+
+SEC = {
+	color = rgb { 0 72 124 }
+	color_ui = rgb { 0 72 124 }
+}
+
+NRB = {
+	color = rgb { 64 62 108 }
+	color_ui = rgb { 64 62 108 }
+}

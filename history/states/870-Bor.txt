@@ -1,0 +1,20 @@
+state={
+	id=870
+	name="Bor"
+	history = {
+		owner = SEC
+		add_core_of = SEC
+	}
+	provinces={
+		630 6634 9602 9756 11583 11586 11868 11887 
+	}
+	manpower=1000000
+	buildings = {
+		infrastructure = 5
+
+	}
+	victory_points = {
+			9602 3 
+		}
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=869
+	name="Hrvatsko"
+
+	history={
+		owner = HUN
+		add_core_of = HUN
+
+	}
+
+	provinces={
+		3627 9595 11594 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+}
