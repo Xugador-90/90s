@@ -249,3 +249,18 @@ NRB = {
 	color = rgb { 64 62 108 }
 	color_ui = rgb { 64 62 108 }
 }
+
+NOR = {
+	color = rgb { 158 1 66 }
+	color_ui = rgb { 158 1 66 }
+}
+
+JMT = {
+	color = rgb { 26 152 80 }
+	color_ui = rgb { 26 152 80 }
+}
+
+SMI = {
+	color = rgb { 253 184 99 }
+	color_ui = rgb { 253 184 99 }
+}
