@@ -28,7 +28,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Michael Dukakis"
-	desc = "POLITICS_MICHAEL_DUKAKIS_DESC"
+	desc = "michael_dukakis_desc"
 	picture = "Portrait_UST_Michael_Dukakis.tga"
 	expire = "2020.1.1"
 	ideology = pre_collapse_constitutionalism
