@@ -36,3 +36,9 @@ create_country_leader = {
 		#
 	}
 }
+add_ideas = {
+	UST_electrification_1
+	UST_stable_food_supply
+	UST_ineffectual_army
+	UST_land_of_the_free
+}
