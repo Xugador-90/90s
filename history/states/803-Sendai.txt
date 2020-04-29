@@ -9,13 +9,14 @@ state={
 			air_base = 6
 		}
 		add_core_of = DY1
+		victory_points = {
+			7169 15 
+		}
 	}
 	provinces={
 		4118 1024 7169 1165 4153 4122
 	}
-	victory_points = {
-		7169 15 
-	}
+	
 	manpower=4000000
 	buildings_max_level_factor=1.000
 	state_category=rural
