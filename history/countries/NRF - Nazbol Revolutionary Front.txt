@@ -9,15 +9,25 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = proletarian_dictatorship
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 20
-	atomic_dictatorship = 15
+	atomic_dictatorship = 55
 	messianism = 0
 	neo_medievalism = 10 
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 55
+	proletarian_dictatorship = 15
+}
+create_country_leader = {
+	name = "Eduard Limonov"
+	desc = "NRF_Eduard_Limonov_desc"
+	picture = "NRF_Eduard_Limonov.tga"
+	expire = "2020.1.1"
+	ideology = post_punk_dictatorship
+	traits = {
+
+	}
 }

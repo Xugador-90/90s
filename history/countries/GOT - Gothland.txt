@@ -1,4 +1,4 @@
-﻿capital = 666
+﻿capital = 140
 
 oob = ""
 
@@ -9,28 +9,25 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = neo_medievalism
-	last_election = "1987.5.6"
-	election_frequency = 48
+	ruling_party = proletarian_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 0
 	atomic_dictatorship = 0
 	messianism = 0
-	neo_medievalism = 100 
+	neo_medievalism = 0 
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 0
+	proletarian_dictatorship = 100
 }
-
 create_country_leader = {
-	name = "Erik III Blücher"
-	desc = "NOR_Erik_III_desc"
-	picture = "NOR_Erik_III.tga"
+	name = "Sven Wollter"
+	desc = "GOT_Sven_Wollter_desc"
+	picture = "GOT_Sven_Wollter.tga"
 	expire = "2020.1.1"
-	ideology = absolutism
+	ideology = centralized_socialism
 	traits = {
-		#
+
 	}
 }
