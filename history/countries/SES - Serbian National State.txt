@@ -1,0 +1,33 @@
+﻿capital = 868
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+set_politics = {
+	ruling_party = atomic_dictatorship
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 43
+	messianism = 20
+	neo_medievalism = 10 
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 27
+}
+
+create_country_leader = {
+	name = "Željko Ražnatović"
+	desc = "SES_Zeljko_Raznatovic_desc"
+	picture = "SES_Zeljko_Raznatovic.tga"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
+}
