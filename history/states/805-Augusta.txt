@@ -2,7 +2,7 @@ state={
 	id=805
 	name="Augusta" 
 	provinces={
-		3732 6719 7462 10318 12202 12459 
+		3732 6719 7462
 	}
 	manpower=197831
 	

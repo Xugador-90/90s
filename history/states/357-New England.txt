@@ -1,0 +1,26 @@
+state={
+	id=357
+	name="STATE_357"
+	resources={
+		steel=12 # was: 20.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = UST
+		buildings = {
+			infrastructure = 7
+
+		}
+		add_core_of = UST
+
+	}
+
+	provinces={
+		10318 12202 12459
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+}

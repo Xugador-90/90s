@@ -10,7 +10,9 @@ ideas = {
 			
 
 			modifier = {
-				
+				conscription = 0.01
+				non_core_manpower =
+				consumer_goods =
 			}
 
 			cost = 0
