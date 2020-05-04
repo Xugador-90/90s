@@ -1,0 +1,36 @@
+﻿capital = 867
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = techno-dictatorship
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 5
+	atomic_dictatorship = 1
+	messianism = 1
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 87
+	proletarian_dictatorship = 6
+}
+
+create_country_leader = {
+	name = "Raymond Kroc"
+	desc = "raymond_kroc_desc"
+	picture = "ray_kroc.tga"
+	expire = "2020.1.1"
+	ideology = techno_fuedalism
+	traits = {
+		#
+	}
+add_ideas = {
+
+}
