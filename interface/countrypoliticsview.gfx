@@ -650,7 +650,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_ideology_messianism_group"
-		texturefile = "gfx/interface/ideologies/_messianism_group.dds"
+		texturefile = "gfx/interface/ideologies/messianism_group.dds"
 	}
 
 	spriteType = {

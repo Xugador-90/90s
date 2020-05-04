@@ -1,4 +1,4 @@
-﻿capital = 586
+﻿capital = 867
 
 oob = ""
 
@@ -10,16 +10,16 @@ set_convoys = 0
 
 set_politics = {
 	ruling_party = republicanism
-	last_election = "1987.5.6"
+	last_election = "1989.11.2"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 2
-	atomic_dictatorship = 0
+	republicanism = 86
+	atomic_dictatorship = 4
 	messianism = 0
-	neo_medievalism = 0 
-	tribalism = 93
+	neo_medievalism = 0
+	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 5
+	proletarian_dictatorship = 10
 }

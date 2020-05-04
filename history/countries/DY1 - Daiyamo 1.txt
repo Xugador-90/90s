@@ -1,4 +1,4 @@
-﻿capital = 330
+﻿capital = 803
 
 oob = ""
 
@@ -9,15 +9,15 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = atomic_dictatorship
+	ruling_party = neo_medievalism
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 5
-	atomic_dictatorship = 63
-	messianism = 5
-	neo_medievalism = 0 
-	tribalism = 7
+	atomic_dictatorship = 2
+	messianism = 2
+	neo_medievalism = 71
+	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 20
 }

@@ -176,8 +176,8 @@ NIR = {
 }
 
 SOL = {
-	color = rgb { 232 97 0 }
-	color_ui = rgb { 232 97 0 }
+	color = rgb { 191 87 0 }
+	color_ui = rgb { 191 87 0 }
 }
 
 JAI = {
@@ -245,6 +245,11 @@ SEC = {
 	color_ui = rgb { 0 72 124 }
 }
 
+SCI = {
+	color = rgb { 218 165 32 }
+	color_ui = rgb { 218 165 32 }
+}
+
 NRB = {
 	color = rgb { 64 62 108 }
 	color_ui = rgb { 64 62 108 }
@@ -285,19 +290,19 @@ DEN = {
 	color_ui = rgb { 191 129 45 }
 }
 
-CBU = {
-	color = rgb { 145 10 10 }
-	color_ui = rgb { 135 0 0 }
-}
+#CBU = {
+#	color = rgb { 145 10 10 }
+#	color_ui = rgb { 135 0 0 }
+#}
 
 INR = {
-	color = rgb { 173 83 3}
-	color_ui = rgb { 163 73 0}
+	color = rgb { 173 83 3 }
+	color_ui = rgb { 163 73 0 }
 }
 
 ACE = {
-	color = rgb { 105 173 3}
-	color_ui = rgb { 95 163 0}
+	color = rgb { 105 173 3 }
+	color_ui = rgb { 95 163 0 }
 }
 
 SUL = {
