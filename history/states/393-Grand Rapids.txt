@@ -1,0 +1,13 @@
+state={
+	id=393
+	name="Grand Rapids"
+	provinces={
+		9684 11685 
+	}
+	manpower=1
+	state_category = rural
+	history = {
+		owner = TAG
+		add_core_of = TAG
+	}
+}

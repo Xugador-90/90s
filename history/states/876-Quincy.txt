@@ -1,0 +1,9 @@
+state={
+	id=876
+	name="Quincy"
+	provinces={
+		4590 12365 
+	}
+	manpower=1
+	state_category = rural
+}
