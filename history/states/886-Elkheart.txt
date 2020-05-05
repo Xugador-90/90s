@@ -1,0 +1,9 @@
+state={
+	id=886
+	name="Elkheart"
+	provinces={
+		9653 9654 11637 870
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=359
+	name="Newark"
+	provinces={
+		3693 3863 6882 
+	}
+	manpower=1045890
+	
+	state_category = megalopolis
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			3863 1
+
+		}
+		buildings = {
+			infastructure = 7
+			industrial_complex = 5
+			arms_factory = 1
+			dockyard = 3
+		}
+	}
+}

@@ -1,9 +1,0 @@
-state={
-	id=891
-	name="Nashville"
-	provinces={
-		8083 10281 10824 12501 12670 
-	}
-	manpower=1
-	state_category = rural
-}

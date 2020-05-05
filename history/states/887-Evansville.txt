@@ -1,0 +1,9 @@
+state={
+	id=887
+	name="Evansville"
+	provinces={
+		11635 11621
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
