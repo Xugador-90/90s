@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = atomic_dictatorship
+	ruling_party = messianism
 	elections_allowed = no
 }
 set_popularities = {
@@ -20,4 +20,15 @@ set_popularities = {
 	tribalism = 0
 	techno_dictatorship = 10
 	proletarian_dictatorship = 10
+}
+
+create_country_leader = {
+	name = "Franco Freda"
+	desc = "SOL_Franco_Freda_desc"
+	picture = "SOL_Franco_Freda.tga"
+	expire = "2020.1.1"
+	ideology = nazi_messianism
+	traits = {
+		#
+	}
 }
