@@ -1,24 +1,22 @@
-
 state={
-	id=753
-	name="STATE_753"
+	id=744
+	name="STATE_744"
+	provinces={
+		1976 2006 4167 4256 4295 5092 7301 7406 7418 10257 12713 
+	}
 
 	history={
 		owner = CWU
 		add_core_of = CWU
 		victory_points = {
-			2045 1 
+			7418 1 
 		}
 		buildings = {
 			infrastructure = 3
-
 		}
-	}
 
-	provinces={
-		531 1257 2045 4375 4403 5193 9966 10787 10903 
 	}
-	manpower=3000000
+	manpower=9000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category = town
 }
