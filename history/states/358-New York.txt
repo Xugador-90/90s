@@ -1,23 +1,27 @@
 state={
 	id=358
 	name="STATE_358"
-	provinces={
-		1436 3702 3733 3747 6717 6778 6795 6916 9708 9721 11650 11680 
+	resources={
+		steel=13 # was: 24.000
 	}
-	manpower=546780
 	
-	state_category = metropolis
+	state_category = megalopolis
 
-	history = {
-		owner = UST
-		add_core_of = UST
-		victory points = { 
-			3702 10
-			3733 15
-		}
+	history={
+		owner = USA
 		buildings = {
-			infastructure = 7
-			industrial_complex = 3
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 7
+			dockyard = 3
+			air_base = 10
 		}
+		add_core_of = USA
 	}
+
+	provinces={
+		3733 11680 11650 3702 3747 6795 6916 6778 9708 9721 6717 1436
+	}
+	manpower=12588061
+	buildings_max_level_factor=1.000
 }

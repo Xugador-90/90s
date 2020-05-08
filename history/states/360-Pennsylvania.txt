@@ -1,20 +1,26 @@
 
 state={
 	id=360
-	name="Pennsylvania"
-	provinces={
-		702 862 880 3697 3880 6872 6885 6899 9836 11817 12405 
+	name="STATE_360"
+	resources={
+		steel=44.000
 	}
-	manpower=68907
-	
-	state_category = town
 
-	history = {
-		owner = UST
-		add_core_of = UST
+	history={
+		owner = USA
 		buildings = {
-			infastructure = 4
-			industrial_complex = 1
+			infrastructure = 8
+			industrial_complex = 5
+			dockyard = 7
+			air_base = 2
 		}
+		add_core_of = USA
 	}
+
+	provinces={
+		6899 880 12405 3880 9836 702 6872 6885 11817 3697 862
+	}
+	manpower=9631346
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
 }

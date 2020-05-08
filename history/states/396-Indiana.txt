@@ -2,9 +2,19 @@
 state={
 	id=396
 	name="STATE_396"
-	provinces={
-		1595 4531 7551 12437 
+	manpower = 3238501
+	state_category = large_city
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+		}
+		add_core_of = USA
 	}
-	manpower=1
-	state_category = rural
+
+	provinces={
+		4531 7551 1595 12437
+	}
 }

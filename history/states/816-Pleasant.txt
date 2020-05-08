@@ -2,7 +2,7 @@ state={
 	id=816
 	name="Pleasant"
 	provinces={
-		598 3602 9754 10381 11662 11665 11722 
+		598 3602 9754 10381 11662 11665 11722 13158
 	}
 	manpower=345871
 	
@@ -12,7 +12,7 @@ state={
 		owner = UST
 		add_core_of = UST
 		victory points = { 
-			11662 10
+			11662 10 
 
 		}
 		buildings = {
