@@ -248,7 +248,7 @@ ideologies = {
 	
 		types = {
 		
-			techo_feudalism  = {
+			techno_feudalism  = {
 			}
 			
 			techno_avantgarde  = {
@@ -300,8 +300,7 @@ ideologies = {
 			centralized_socialism  = {
 			}
 
-			anarcho_socialism = {
-				
+			anarcho_socialism = {		
 			}
 		}
 
@@ -309,6 +308,196 @@ ideologies = {
 		}
 		
 		color = { 153 71 65 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes # 
+	}
+
+	neo_fascism = {
+	
+		types = {
+
+			revolutionary_neo_fascism = {
+				can_be_randomly_selected = yes
+			}
+
+			esoteric_hitlerism = {
+			}
+
+		}
+
+		dynamic_faction_names = {
+		}
+		
+		color = { 86 54 53 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes # 
+	}
+
+	autocracy = {
+	
+		types = {
+
+			military_junta = {
+				can_be_randomly_selected = yes
+			}
+
+			criminal_dictatorship = {
+			}
+
+		}
+
+		dynamic_faction_names = {
+		}
+		
+		color = { 91 96 87 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes # 
+	}
+
+	bureaucratic_socialism = {
+	
+		types = {
+
+			military_socialism = {
+			}
+
+			party_oligarchy = {
+				can_be_randomly_selected = yes
+			}
+
+		}
+
+		dynamic_faction_names = {
+		}
+		
+		color = { 125 29 63 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes # 
+	}
+
+	maoism_ideology = {
+	
+		types = {
+
+			radical_maoism = {
+			}
+
+			national_maoism = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+		
+		color = { 82 12 31 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger

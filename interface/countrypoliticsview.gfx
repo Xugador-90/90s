@@ -647,6 +647,25 @@ spriteTypes = {
 	}
 
 	### Custom Ideologies ###
+	spriteType = {
+		name = "GFX_ideology_autocracy_group"
+		texturefile = "gfx/interface/ideologies/autocracy_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_neo_fascism_group"
+		texturefile = "gfx/interface/ideologies/neo_fascism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_bureaucratic_socialism_group"
+		texturefile = "gfx/interface/ideologies/bureaucratic_socialism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_maoism_ideology_group"
+		texturefile = "gfx/interface/ideologies/maoism_ideology_group.dds"
+	}
 
 	spriteType = {
 		name = "GFX_ideology_messianism_group"

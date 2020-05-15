@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 }
+
+create_country_leader = {
+	name = "Yukio Mishima"
+	desc = "POLITICS_YUKIO_MISHIMA_DESC"
+	picture = "gfx/leaders/JAI/Portrait_JAI_Yukio_Mishima.dds"
+	expire = "2030.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
