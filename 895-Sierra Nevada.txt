@@ -1,0 +1,9 @@
+state={
+	id=895
+	name="Sierra Nevada"
+	provinces={
+		710 941 1432 1601 1651 7667 11763 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

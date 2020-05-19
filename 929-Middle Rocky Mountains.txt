@@ -1,0 +1,9 @@
+state={
+	id=929
+	name="Middle Rocky Mountains"
+	provinces={
+		4668 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

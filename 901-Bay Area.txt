@@ -1,0 +1,9 @@
+state={
+	id=901
+	name="Bay Area"
+	provinces={
+		677 3678 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

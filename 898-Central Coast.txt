@@ -1,0 +1,9 @@
+state={
+	id=898
+	name="Central Coast"
+	provinces={
+		986 3840 6881 11859 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

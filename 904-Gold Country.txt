@@ -1,0 +1,9 @@
+state={
+	id=904
+	name="Gold Country"
+	provinces={
+		766 9697 9713 11698 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

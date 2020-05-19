@@ -1,0 +1,9 @@
+state={
+	id=910
+	name="Whitepine"
+	provinces={
+		10591 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
