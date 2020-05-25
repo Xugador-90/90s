@@ -1,0 +1,31 @@
+﻿capital = 59
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = neo_fascism
+	elections_allowed = no
+}
+
+puppet = FRI
+
+set_popularities = {
+	republicanism = 3
+	atomic_dictatorship = 3
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 19
+	neo_fascism = 33
+	autocracy = 14
+	bureaucratic_socialism = 21
+	maoism_ideology = 7
+}
+

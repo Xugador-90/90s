@@ -379,3 +379,53 @@ KOR = {
 	color = rgb { 178 68 95 }
 	color_ui = rgb { 178 68 95 }
 }
+
+PRF = {
+	color = rgb { 193 46 38 }
+	color_ui = rgb { 193 46 38 }
+}
+
+FFT = {
+	color = rgb { 196 33 61 }
+	color_ui = rgb { 196 33 61 }
+}
+
+FRS = {
+	color = rgb { 50 87 117 }
+	color_ui = rgb { 50 87 117 }
+}
+
+BRI = {
+	color = rgb { 104 86 120 }
+	color_ui = rgb { 104 86 120 }
+}
+
+SGR = {
+	color = rgb { 98 134 168 }
+	color_ui = rgb { 98 134 168 }
+}
+
+EGE = {
+	color = rgb { 37 89 87 }
+	color_ui = rgb { 37 89 87 }
+}
+
+FRI = {
+	color = rgb { 174 21 64 }
+	color_ui = rgb { 174 21 64 }
+}
+
+SRE = {
+	color = rgb { 71 166 132 }
+	color_ui = rgb { 71 166 132 }
+}
+
+CSG = {
+	color = rgb { 2 34 101 }
+	color_ui = rgb { 2 34 101 }
+}
+
+DNS = {
+	color = rgb { 157 87 3 }
+	color_ui = rgb { 157 87 3 }
+}
