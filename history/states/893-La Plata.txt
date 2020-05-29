@@ -1,0 +1,9 @@
+state={
+	id=893
+	name="La Plata"
+	provinces={
+		4457 10362 12336 12496 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

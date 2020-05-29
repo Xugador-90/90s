@@ -1,0 +1,25 @@
+state={
+	id=813
+	name="New York City"
+	provinces={
+		3878 
+	}
+	manpower=1245890
+	
+	state_category = megalopolis
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			3878 50
+
+		}
+		buildings = {
+			infastructure = 9
+			industrial_complex = 10
+			arms_factory = 5
+			dockyard = 5
+		}
+	}
+}

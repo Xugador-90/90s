@@ -1,0 +1,27 @@
+
+state={
+	id=136
+	name="STATE_136"
+	resources={
+		tungsten=4.000
+		aluminium=3.000
+	}
+
+	history={
+		owner = SCO
+		buildings = {
+			infrastructure = 6
+			dockyard = 2
+
+		}
+		add_core_of = SCO
+
+	}
+
+	provinces={
+		159 200 3150 6300 9161 11055 11136 11207 11306 
+	}
+	manpower=745466
+	buildings_max_level_factor=1.000
+	state_category=town
+}

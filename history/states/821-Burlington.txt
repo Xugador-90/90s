@@ -1,0 +1,19 @@
+state={
+	id=821
+	name="Burlington"
+	provinces={
+		7629 
+	}
+	manpower=45231
+	
+	state_category = rural
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 7629 1 }
+		buildings = {
+			infastructure = 2
+		}
+	}
+}

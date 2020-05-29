@@ -1,0 +1,22 @@
+state={
+	id=823
+	name="Trenton"
+	provinces={
+		11782 
+	}
+	manpower=246790
+	
+	state_category = metropolis
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			11762 10
+		}
+		buildings = {
+			infastructure = 7
+			industrial_complex = 3
+		}
+	}
+}

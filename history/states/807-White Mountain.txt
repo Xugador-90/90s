@@ -1,0 +1,19 @@
+state={
+	id=807
+	name="White Mountain"
+	provinces={
+		10481 
+	}
+	manpower=11001
+	
+	state_category = rural
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		buildings = {
+			infastructure = 1
+			industrial_complex = 1
+		}
+	}
+}

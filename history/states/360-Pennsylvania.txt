@@ -1,0 +1,26 @@
+
+state={
+	id=360
+	name="STATE_360"
+	resources={
+		steel=44.000
+	}
+
+	history={
+		owner = UST
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 5
+			dockyard = 7
+			air_base = 2
+		}
+		add_core_of = UST
+	}
+
+	provinces={
+		6899 880 12405 3880 9836 702 6872 6885 11817 3697 862
+	}
+	manpower=9631346
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=214
+	name="STATE_214"
+
+	history={
+		owner = IND
+		victory_points = {
+			3338 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			3338 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = IND
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		6 99 108 186 3000 3041 3102 3177 6110 6121 6190 6202 6213 9145 9155 9210 9232 10200 11025 11110 11133 11179 11192 11203 
+	}
+	manpower=1050883
+	buildings_max_level_factor=1.000
+	state_category=town
+}

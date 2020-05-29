@@ -1,0 +1,23 @@
+state={
+	id=828
+	name="Allentown"
+	provinces={
+		6869 11785 
+	}
+	manpower=345690
+	
+	state_category = city
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = { 
+			6869 10
+		}
+		buildings = {
+			infastructure = 5
+			industrial_complex = 5
+			arms_factory = 2
+		}
+	}
+}

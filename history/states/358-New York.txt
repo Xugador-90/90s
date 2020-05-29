@@ -1,0 +1,27 @@
+state={
+	id=358
+	name="STATE_358"
+	resources={
+		steel=13 # was: 24.000
+	}
+	
+	state_category = megalopolis
+
+	history={
+		owner = UST
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 7
+			dockyard = 3
+			air_base = 10
+		}
+		add_core_of = UST
+	}
+
+	provinces={
+		3733 11680 11650 3702 3747 6795 6916 6778 9708 9721 6717 1436
+	}
+	manpower=12588061
+	buildings_max_level_factor=1.000
+}

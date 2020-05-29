@@ -1,0 +1,22 @@
+
+state={
+	id=886
+	name="Saigon"
+
+	history={
+		owner = IOC
+		add_core_of = IOC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		4401 7238 10261 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+}

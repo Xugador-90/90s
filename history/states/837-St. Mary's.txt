@@ -1,0 +1,19 @@
+state={
+	id=837
+	name="St. Mary's"
+	provinces={
+		11892 
+	}
+	manpower=34506
+	
+	state_category = town
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		buildings = {
+			infastructure = 4
+			industrial_complex = 1
+		}
+	}
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=246
+	name="STATE_246"
+	resources={
+		steel=16.000
+	}
+
+	history={
+		owner = BAL
+		victory_points = {
+			11349 1 
+		}
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = BAL
+
+	}
+
+	provinces={
+		187 194 226 333 2999 3101 3176 3215 3321 6264 9060 9111 9153 9177 9242 9265 9333 9343 11048 11154 11224 11315 11326 11349 
+	}
+	manpower=1025458
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

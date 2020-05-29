@@ -1,0 +1,22 @@
+
+state={
+	id=505
+	name="STATE_505"
+
+	history={
+		owner = PAL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PAL
+
+	}
+
+	provinces={
+		2168 5151 5174 5204 5208 8129 8140 12947 12959 
+	}
+	manpower=1662200
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

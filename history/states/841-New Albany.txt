@@ -1,0 +1,9 @@
+state={
+	id=841
+	name="New Albany"
+	provinces={
+		10448 1881 4527
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

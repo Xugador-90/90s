@@ -1,0 +1,24 @@
+
+state={
+	id=361
+	name="Annaopolis"
+	manpower = 2118394
+	
+	state_category = city
+
+	history={
+		owner = UST
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			dockyard = 1
+			air_base = 6
+		}
+		add_core_of = UST
+
+	}
+
+	provinces={
+		6984 
+	}
+}

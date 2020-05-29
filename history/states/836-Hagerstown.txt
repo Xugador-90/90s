@@ -1,0 +1,22 @@
+state={
+	id=836
+	name="Hagerstown"
+	provinces={
+		6823 6929 
+	}
+	manpower=68907
+	
+	state_category = town
+
+	history = {
+		owner = UST
+		add_core_of = UST
+		victory points = {
+			6823 5
+		}
+		buildings = {
+			infastructure = 4
+			industrial_complex = 1
+		}
+	}
+}

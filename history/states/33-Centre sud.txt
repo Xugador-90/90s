@@ -1,0 +1,25 @@
+
+state={
+	id=33
+	name="STATE_33"
+
+	history={
+		victory_points = {
+			651 1 
+		}
+		owner = FFT
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = FFT
+
+	}
+
+	provinces={
+		620 625 3626 11869 
+	}
+	manpower=636400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,21 @@
+state={
+	id=800
+	name="Upper Russian Wastes"
+	history={
+		owner = IND
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			6016 1
+		}
+		add_core_of = IND
+	}
+	provinces={
+		6016 87 11089 9099 3081 7330 11200 3155 154 1295 9225 11042
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
