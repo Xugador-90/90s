@@ -1,9 +1,0 @@
-state={
-	id=857
-	name="Muskegon"
-	provinces={
-		6782 11714 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

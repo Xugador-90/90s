@@ -1,9 +1,0 @@
-state={
-	id=860
-	name="Sault Ste. Marie"
-	provinces={
-		751 5205 12582 13159 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

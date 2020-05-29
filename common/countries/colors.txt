@@ -429,3 +429,70 @@ DNS = {
 	color = rgb { 157 87 3 }
 	color_ui = rgb { 157 87 3 }
 }
+
+#####
+
+COL = {
+	color = rgb { 245 216 0 }
+	color_ui = rgb { 245 216 0 }
+}
+
+FAR = {
+	color = rgb { 177 27 37 }
+	color_ui = rgb { 177 27 37 }
+}
+
+ZUL = {
+	color = rgb { 140 92 3 }
+	color_ui = rgb { 140 92 3 }
+}
+
+BRV = {
+	color = rgb { 240 158 5 }
+	color_ui = rgb { 240 158 5 }
+}
+
+CAR = {
+	color = rgb { 255 119 0 }
+	color_ui = rgb { 255 119 0 }
+}
+
+AMA = {
+	color = rgb { 38 166 113 }
+	color_ui = rgb { 38 166 113 }
+}
+
+ARE = {
+	color = rgb { 107 170 117 }
+	color_ui = rgb { 107 170 117 }
+}
+
+PAL = {
+	color = rgb { 132 221 89 }
+	color_ui = rgb { 132 221 89 }
+}
+
+CUI = {
+	color = rgb { 203 255 77 }
+	color_ui = rgb { 203 255 77 }
+}
+
+EQU = {
+	color = rgb { 255 112 112 }
+	color_ui = rgb { 255 112 112 }
+}
+
+MAC = {
+	color = rgb { 59 193 74 }
+	color_ui = rgb { 59 193 74 }
+}
+
+SAN = {
+	color = rgb { 115 119 130 }
+	color_ui = rgb { 115 119 130 }
+}
+
+RIO = {
+	color = rgb { 245 233 96 }
+	color_ui = rgb { 245 233 96 }
+}

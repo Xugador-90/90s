@@ -26,3 +26,15 @@ set_popularities = {
 	bureaucratic_socialism = 7
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "David Wilson"
+	desc = "HKG_DAVID_WILSON_DESC"
+	picture = "Portrait_HKG_David_Wilson.dds"
+	expire = "2020.1.1"
+	ideology = techno_avantgarde
+	traits = {
+		#
+	}
+}
+

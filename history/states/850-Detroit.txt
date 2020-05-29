@@ -1,9 +1,0 @@
-state={
-	id=850
-	name="Detroit"
-	provinces={
-		6710 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

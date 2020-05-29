@@ -1,9 +1,0 @@
-state={
-	id=853
-	name="Lansing"
-	provinces={
-		6769 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

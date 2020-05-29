@@ -1,9 +1,0 @@
-state={
-	id=859
-	name="Mackinaw City"
-	provinces={
-		10233 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

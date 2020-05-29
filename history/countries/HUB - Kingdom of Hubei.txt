@@ -26,3 +26,15 @@ set_popularities = {
 	bureaucratic_socialism = 18
 	maoism_ideology = 46
 }
+
+create_country_leader = {
+	name = "Huang Ho"
+	desc = "HUB_HUANG_HO_DESC"
+	picture = "Portrait_HUB_Huang_Ho.dds"
+	expire = "2020.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+

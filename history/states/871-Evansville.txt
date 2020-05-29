@@ -1,9 +1,0 @@
-state={
-	id=871
-	name="Evansville"
-	provinces={
-		1881 4527 10448 11621 11635 
-	}
-	manpower=1
-	state_category = rural
-}

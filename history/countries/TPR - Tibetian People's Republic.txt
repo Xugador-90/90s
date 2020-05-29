@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 21
 	maoism_ideology = 10
 }
+
+create_country_leader = {
+	name = "Hu Jintao"
+	desc = "TPR_HU_JINTAO_DESC"
+	picture = "Portrait_TPR_Hu_Jintao.dds"
+	expire = "2020.1.1"
+	ideology = party_oligarchy
+	traits = {
+		#
+	}
+}
