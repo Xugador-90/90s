@@ -26,3 +26,15 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 6
 }
+
+create_country_leader = {
+	name = "Isa Yusuf Alptekin"
+	desc = "XIN_ISA_YUSUF_ALPTEKIN_DESC"
+	picture = "Portrait_XIN_Isa_Yusuf_Alptekin.dds"
+	expire = "2020.1.1"
+	ideology = theocracy
+	traits = {
+		#
+	}
+}
+

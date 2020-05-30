@@ -26,3 +26,15 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 28
 }
+
+create_country_leader = {
+	name = "Huan Ju"
+	desc = "JIA_HUAN_JU_DESC"
+	picture = "Portrait_JIA_Huan_Ju.dds"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
+}
+

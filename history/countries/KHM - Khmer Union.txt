@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = maoism_ideology
+	ruling_party = proletarian_dictatorship
 	elections_allowed = no
 }
 
@@ -20,9 +20,20 @@ set_popularities = {
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 23
+	proletarian_dictatorship = 57
 	neo_fascism = 0
 	autocracy = 0
 	bureaucratic_socialism = 10
-	maoism_ideology = 57
+	maoism_ideology = 23
+}
+
+create_country_leader = {
+	name = "Võ Chí Công"
+	desc = "KHM_VO_CHI_CONG_DESC"
+	picture = "Portrait_KHM_Vo_Chi_Cong.dds"
+	expire = "2020.1.1"
+	ideology = cultural_socialism
+	traits = {
+		#
+	}
 }

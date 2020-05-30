@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 8
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Xian Guanyu"
+	desc = "GYU_XIAN_GUANYU_DESC"
+	picture = "Portrait_GYU_Xian_Guanyu.dds"
+	expire = "2020.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}

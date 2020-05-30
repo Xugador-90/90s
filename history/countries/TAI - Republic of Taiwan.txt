@@ -28,3 +28,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Lee Teng Hui"
+	desc = "TAI_LEE_TENG_HUI_DESC"
+	picture = "Portrait_TAI_Lee_Teng_Hui.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

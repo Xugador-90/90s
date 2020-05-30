@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 9
 	maoism_ideology = 2
 }
+
+create_country_leader = {
+	name = "Chi Haotian"
+	desc = "FUZ_CHI_HAOTIAN_DESC"
+	picture = "Portrait_FUZ_Chi_Haotian.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}

@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 15
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Guo Boxiong"
+	desc = "GUI_GUO_BOXIONG_DESC"
+	picture = "Portrait_GUI_Guo_Boxiong.dds"
+	expire = "2020.1.1"
+	ideology = revolutionary_neo_fascism
+	traits = {
+		#
+	}
+}

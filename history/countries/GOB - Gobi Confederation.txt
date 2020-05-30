@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Khurchakhus Khan"
+	desc = "GOB_KHURCHAKHUS_KHAN_DESC"
+	picture = "Portrait_GOB_Khurchakhus_Khan.dds"
+	expire = "2020.1.1"
+	ideology = tribal_revivalists
+	traits = {
+		#
+	}
+}

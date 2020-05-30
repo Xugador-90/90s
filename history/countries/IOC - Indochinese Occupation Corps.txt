@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 61
 }
+
+create_country_leader = {
+	name = "Li Zuocheng"
+	desc = "IOC_LI_ZUOCHENG_DESC"
+	picture = "Portrait_IOC_Li_Zuocheng.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}

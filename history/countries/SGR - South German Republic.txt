@@ -27,3 +27,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Richard von Weizsäcker"
+	desc = "SGR_RICHARD_VON_WEIZSACKER_DESC"
+	picture = "Portrait_SGR_Richard_von_Weizsacker.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

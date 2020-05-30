@@ -28,3 +28,14 @@ set_popularities = {
 }
 
 puppet = KOR
+
+create_country_leader = {
+	name = "Zhang Chunqiao"
+	desc = "PRC_ZHANG_CHUNQIAO_DESC"
+	picture = "Portrait_PRC_Zhang_Chunqiao.dds"
+	expire = "2020.1.1"
+	ideology = radical_maoism
+	traits = {
+		#
+	}
+}

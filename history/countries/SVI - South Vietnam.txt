@@ -28,3 +28,14 @@ set_popularities = {
 	bureaucratic_socialism = 5
 	maoism_ideology = 22
 }
+
+create_country_leader = {
+	name = "Nguyễn Cao Kỳ"
+	desc = "SVI_NGUYEN_CAO_KY_DESC"
+	picture = "Portrait_SVI_Nguyen_Cao_Ky.dds"
+	expire = "2020.1.1"
+	ideology = plutocratic_oligarchy
+	traits = {
+		#
+	}
+}

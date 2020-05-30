@@ -26,3 +26,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 10
 }
+
+create_country_leader = {
+	name = "Zhang Youxia"
+	desc = "KOR_ZHANG_YOUXIA"
+	picture = "Portrait_KOR_Zhang_Youxia.dds"
+	expire = "2020.1.1"
+	ideology = radical_maoism
+	traits = {
+		#
+	}
+}

@@ -28,3 +28,15 @@ set_popularities = {
 	bureaucratic_socialism = 3
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Feng Condge"
+	desc = "RCC_FENG_CONDGE_DESC"
+	picture = "Portrait_RCC_Feng_Condge.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}
+
