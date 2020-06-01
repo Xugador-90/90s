@@ -1,0 +1,29 @@
+﻿capital = 501
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1982.5.12"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	republicanism = 96
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 2
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 2
+	maoism_ideology = 0
+}

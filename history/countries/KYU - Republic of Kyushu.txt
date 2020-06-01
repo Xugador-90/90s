@@ -10,7 +10,9 @@ set_convoys = 0
 
 set_politics = {
 	ruling_party = republicanism
-	elections_allowed = no
+	last_election = "1989.1.31"
+	election_frequency = 48
+	elections_allowed = yes
 }
 set_popularities = {
 	republicanism = 72
@@ -20,4 +22,15 @@ set_popularities = {
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
+}
+
+create_country_leader = {
+	name = "Takako Doi"
+	desc = "KYU_TAKAKO_DOI_DESC"
+	picture = "Portrait_KYU_Takako_Doi.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
 }

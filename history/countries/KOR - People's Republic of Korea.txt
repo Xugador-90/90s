@@ -29,7 +29,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Zhang Youxia"
-	desc = "KOR_ZHANG_YOUXIA"
+	desc = "KOR_ZHANG_YOUXIA_DESC"
 	picture = "Portrait_KOR_Zhang_Youxia.dds"
 	expire = "2020.1.1"
 	ideology = radical_maoism

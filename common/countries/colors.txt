@@ -496,3 +496,78 @@ RIO = {
 	color = rgb { 245 233 96 }
 	color_ui = rgb { 245 233 96 }
 }
+
+PAT = {
+	color = rgb { 76 51 112 }
+	color_ui = rgb { 76 51 112 }
+}
+
+CHL = {
+	color = rgb { 34 42 104 }
+	color_ui = rgb { 34 42 104 }
+}
+
+ISA = {
+	color = rgb { 5 130 202 }
+	color_ui = rgb { 5 130 202 }
+}
+
+BUE = {
+	color = rgb { 0 84 122 }
+	color_ui = rgb { 0 84 122 }
+}
+
+BIO = {
+	color = rgb { 12 9 13 }
+	color_ui = rgb { 12 9 13 }
+}
+
+MON = {
+	color = rgb { 183 21 64 }
+	color_ui = rgb { 183 21 64 }
+}
+
+KIR = {
+	color = rgb { 83 179 203 }
+	color_ui = rgb { 83 179 203 }
+}
+
+PAR = {
+	color = rgb { 27 82 154 }
+	color_ui = rgb { 27 82 154 }
+}
+
+BOL = {
+	color = rgb { 171 144 182 }
+	color_ui = rgb { 171 144 182 }
+}
+
+KAT = {
+	color = rgb { 107 121 62 }
+	color_ui = rgb { 107 121 62 }
+}
+
+PRU = {
+	color = rgb { 224 4 0 }
+	color_ui = rgb { 224 4 0 }
+}
+
+SHI = {
+	color = rgb { 144 19 36 }
+	color_ui = rgb { 144 19 36 }
+}
+
+ACR = {
+	color = rgb { 219 187 169 }
+	color_ui = rgb { 219 187 169 }
+}
+
+ESG = {
+	color = rgb { 210 191 85 }
+	color_ui = rgb { 210 191 85 }
+}
+
+GAL = {
+	color = rgb { 19 111 99 }
+	color_ui = rgb { 19 111 99 }
+}

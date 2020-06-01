@@ -1,0 +1,27 @@
+﻿capital = 500
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = atomic_dictatorship
+	elections_allowed = no
+}
+set_popularities = {
+	atomic_dictatorship = 38
+	republicanism = 5
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 14
+	neo_fascism = 5
+	autocracy = 38
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
+}
