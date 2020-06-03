@@ -1,4 +1,4 @@
-﻿capital = 495
+﻿capital = 891
 
 oob = ""
 
@@ -13,17 +13,15 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 34
-	atomic_dictatorship = 9
+	republicanism = 0
+	atomic_dictatorship = 0
 	messianism = 0
 	neo_medievalism = 0
-	tribalism = 21
+	tribalism = 10
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 	neo_fascism = 0
-	autocracy = 36
+	autocracy = 67
 	bureaucratic_socialism = 0
-	maoism_ideology = 0
+	maoism_ideology = 23
 }
-
-puppet = ACR

@@ -1,4 +1,4 @@
-﻿capital = 598
+﻿capital = 510
 
 oob = ""
 
@@ -12,29 +12,27 @@ set_politics = {
 	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
-
 set_popularities = {
-	republicanism = 10
-	atomic_dictatorship = 52
+	republicanism = 6
+	atomic_dictatorship = 58
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 0
-	neo_fascism = 0
-	autocracy = 10
+	proletarian_dictatorship = 4
+	neo_fascism = 13
+	autocracy = 19
 	bureaucratic_socialism = 0
-	maoism_ideology = 28
+	maoism_ideology = 0
 }
 
 create_country_leader = {
-	name = "Huang Ju"
-	desc = "JIA_HUANG_JU_DESC"
-	picture = "Portrait_JIA_Huang_Ju.dds"
+	name = "Isabel Martinez Peron"
+	desc = "ISA_ISABEL_MARTINEZ_PERON_DESC"
+	picture = "Portrait_ISA_Isabel_Martinez_Peron.dds"
 	expire = "2020.1.1"
-	ideology = paramilitary_dictatorship
+	ideology = post_punk_dictatorship
 	traits = {
 		#
 	}
 }
-

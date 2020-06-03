@@ -1,0 +1,40 @@
+﻿capital = 278
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1986.11.27"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 82
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 7
+	proletarian_dictatorship = 0
+	neo_fascism =  0
+	autocracy = 11
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Carlos Menem"
+	desc = "BUE_CARLOS_MENEM_DESC"
+	picture = "Portrait_BUE_Carlos_Menem.dds"
+	expire = "2020.1.1"
+	ideology = plutocratic_oligarchy
+	traits = {
+		#
+	}
+}

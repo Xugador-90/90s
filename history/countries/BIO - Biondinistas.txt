@@ -1,4 +1,4 @@
-﻿capital = 598
+﻿capital = 895
 
 oob = ""
 
@@ -9,32 +9,30 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = atomic_dictatorship
+	ruling_party = neo_fascism
 	elections_allowed = no
 }
-
 set_popularities = {
-	republicanism = 10
-	atomic_dictatorship = 52
+	republicanism = 0
+	atomic_dictatorship = 3
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
-	neo_fascism = 0
-	autocracy = 10
+	neo_fascism = 97
+	autocracy = 0
 	bureaucratic_socialism = 0
-	maoism_ideology = 28
+	maoism_ideology = 0
 }
 
 create_country_leader = {
-	name = "Huang Ju"
-	desc = "JIA_HUANG_JU_DESC"
-	picture = "Portrait_JIA_Huang_Ju.dds"
+	name = "Alejandro Biondini"
+	desc = "BIO_ALEJANDRO_BIODINI_DESC"
+	picture = "Portrait_BIO_Alejandro_Biondini.dds"
 	expire = "2020.1.1"
-	ideology = paramilitary_dictatorship
+	ideology = esoteric_hitlerism
 	traits = {
 		#
 	}
 }
-

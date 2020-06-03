@@ -1,4 +1,4 @@
-﻿capital = 495
+﻿capital = 494
 
 oob = ""
 
@@ -9,21 +9,19 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = maoism_ideology
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 34
-	atomic_dictatorship = 9
+	republicanism = 0
+	atomic_dictatorship = 0
 	messianism = 0
 	neo_medievalism = 0
-	tribalism = 21
+	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 	neo_fascism = 0
-	autocracy = 36
-	bureaucratic_socialism = 0
-	maoism_ideology = 0
+	autocracy = 12
+	bureaucratic_socialism = 10
+	maoism_ideology = 78
 }
-
-puppet = ACR

@@ -1,0 +1,40 @@
+﻿capital = 511
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1986.11.27"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 41
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 11
+	neo_fascism =  10
+	autocracy = 5
+	bureaucratic_socialism = 23
+	maoism_ideology = 10
+}
+
+create_country_leader = {
+	name = "Nestor Kirchner"
+	desc = "KIR_NESTOR_KIRCHNER_DESC"
+	picture = "Portrait_KIR_Nestor_Kirchner.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

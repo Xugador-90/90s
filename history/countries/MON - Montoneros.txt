@@ -1,0 +1,38 @@
+﻿capital = 509
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = proletarian_dictatorship
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 51
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 32
+	maoism_ideology = 17
+}
+
+create_country_leader = {
+	name = "Che Guevara"
+	desc = "MON_CHE_GUEVARA_DESC"
+	picture = "Portrait_MON_Che_Guevara.dds"
+	expire = "2020.1.1"
+	ideology = anarcho_socialism
+	traits = {
+		#
+	}
+}
