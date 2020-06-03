@@ -31,7 +31,7 @@ create_country_leader = {
 	desc = "ISA_ISABEL_MARTINEZ_PERON_DESC"
 	picture = "Portrait_ISA_Isabel_Martinez_Peron.dds"
 	expire = "2020.1.1"
-	ideology = post_punk_dictatorship
+	ideology = paramilitary_dictatorship
 	traits = {
 		#
 	}

@@ -335,7 +335,7 @@ RCC = {
 	color_ui = rgb { 70 61 134 }
 }
 
-GYU = {
+YSG = {
 	color = rgb { 50 89 65 }
 	color_ui = rgb { 50 89 65 }
 }

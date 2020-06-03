@@ -28,9 +28,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Xian Guanyu"
-	desc = "GYU_XIAN_GUANYU_DESC"
-	picture = "Portrait_GYU_Xian_Guanyu.dds"
+	name = "Shi Yunsheng"
+	desc = "YSG_SHI_YUNSHENG_DESC"
+	picture = "Portrait_YSG_Shi_Yunsheng.dds"
 	expire = "2020.1.1"
 	ideology = absolutism
 	traits = {

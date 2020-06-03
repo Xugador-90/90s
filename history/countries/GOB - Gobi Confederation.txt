@@ -28,9 +28,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Khurchakhus Khan"
-	desc = "GOB_KHURCHAKHUS_KHAN_DESC"
-	picture = "Portrait_GOB_Khurchakhus_Khan.dds"
+	name = "Sharavyn Khan"
+	desc = "GOB_SHARAVYN_KHAN_DESC"
+	picture = "Portrait_GOB_Sharavyn_Khan.dds"
 	expire = "2020.1.1"
 	ideology = tribal_revivalists
 	traits = {

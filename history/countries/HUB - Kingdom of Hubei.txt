@@ -28,9 +28,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Huang Ho"
-	desc = "HUB_HUANG_HO_DESC"
-	picture = "Portrait_HUB_Huang_Ho.dds"
+	name = "Wang Ruilin"
+	desc = "HUB_WANG_RUILIN_DESC"
+	picture = "Portrait_HUB_Wang_Ruilin.dds"
 	expire = "2020.1.1"
 	ideology = absolutism
 	traits = {
