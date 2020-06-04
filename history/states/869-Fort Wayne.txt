@@ -6,8 +6,4 @@ state={
 	}
 	manpower=1
 	state_category = rural
-	history = {
-		owner = TAG
-		add_core_of = TAG
-	}
 }
