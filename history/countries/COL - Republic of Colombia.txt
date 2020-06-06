@@ -27,3 +27,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Álvaro Gómez Hurtado"
+	desc = "COL_ALVARO_GOMEZ_HURTADO_DESC"
+	picture = "Portrait_COL_Alvaro_Gomez_Hurtado.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

@@ -9,8 +9,8 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = bureaucratic_socialism
-	elections_allowed = yes
+	ruling_party = proletarian_dictatorship
+	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 7
@@ -19,9 +19,20 @@ set_popularities = {
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 8
+	proletarian_dictatorship = 82
 	neo_fascism = 0
 	autocracy = 3
-	bureaucratic_socialism = 82
+	bureaucratic_socialism = 8
 	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Jacobo Arenas"
+	desc = "FAR_JACOBO_ARENAS_DESC"
+	picture = "Portrait_FAR_Jacobo_Arenas.dds"
+	expire = "2020.1.1"
+	ideology = cultural_socialism
+	traits = {
+		#
+	}
 }

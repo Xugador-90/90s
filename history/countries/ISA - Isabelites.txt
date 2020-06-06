@@ -27,7 +27,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Isabel Martinez Peron"
+	name = "Isabel Martínez Perón"
 	desc = "ISA_ISABEL_MARTINEZ_PERON_DESC"
 	picture = "Portrait_ISA_Isabel_Martinez_Peron.dds"
 	expire = "2020.1.1"

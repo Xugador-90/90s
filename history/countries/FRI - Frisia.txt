@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 21
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Hendrik ten Hoeve"
+	desc = "DNS_HENDRIK_TEN_HOEVE_DESC"
+	picture = "Portrait_DNS_Hendrik_ten_Hoeve.dds"
+	expire = "2020.1.1"
+	ideology = esoteric_hitlerism
+	traits = {
+		#
+	}
+}

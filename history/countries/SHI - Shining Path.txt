@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 10
 	maoism_ideology = 78
 }
+
+create_country_leader = {
+	name = "Abimael Guzmán "
+	desc = "SHI_ABIMAEL_GUZMAN_DESC"
+	picture = "Portrait_SHI_Abimael_Guzman.dds"
+	expire = "2020.1.1"
+	ideology = radical_maoism
+	traits = {
+		#
+	}
+}

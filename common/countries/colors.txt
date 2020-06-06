@@ -571,3 +571,8 @@ GAL = {
 	color = rgb { 19 111 99 }
 	color_ui = rgb { 19 111 99 }
 }
+
+GUY = {
+	color = rgb { 43 34 170 }
+	color_ui = rgb { 43 34 170 }
+}

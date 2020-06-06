@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 94
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Hugo Chávez Frías"
+	desc = "BRV_HUGO_CHAVEZ_FRIAS_DESC"
+	picture = "Portrait_BRV_Hugo_Chavez_Frias.dds"
+	expire = "2020.1.1"
+	ideology = military_socialism
+	traits = {
+		#
+	}
+}

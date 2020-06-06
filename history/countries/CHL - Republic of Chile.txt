@@ -9,19 +9,28 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = republicanism
-	last_election = "1990.4.18"
-	election_frequency = 48
-	elections_allowed = yes
+	ruling_party = techno_dictatorship
+	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 77
+	republicanism = 20
 	atomic_dictatorship = 0
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
-	autocracy = 18
-	techno_dictatorship = 0
-	proletarian_dictatorship = 0
+	autocracy = 9
+	techno_dictatorship = 57
+	proletarian_dictatorship = 9
 	bureaucratic_socialism = 5
+}
+
+create_country_leader = {
+	name = "Isabel Allende Bussi"
+	desc = "CHL_ISABEL_ALLENDE_BUSSI_DESC"
+	picture = "Portrait_CHL_Isabel_Allende_Bussi.dds"
+	expire = "2020.1.1"
+	ideology = techno_avantgarde
+	traits = {
+		#
+	}
 }

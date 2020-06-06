@@ -9,20 +9,29 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = republicanism
-	last_election = "1990.4.18"
-	election_frequency = 48
-	elections_allowed = yes
+	ruling_party = autocracy
+	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 31
+	republicanism = 27
 	atomic_dictatorship = 23
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
-	autocracy = 27
+	autocracy = 31
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 	bureaucratic_socialism = 7
 	maoism_ideology = 12
+}
+
+create_country_leader = {
+	name = "Alfredo Stroessner"
+	desc = "PAR_ALFREDO_STROESSNER_DESC"
+	picture = "Portrait_PAR_Alfredo_Stroessner.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
 }

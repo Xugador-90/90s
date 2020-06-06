@@ -29,3 +29,14 @@ set_popularities = {
 	maoism_ideology = 7
 }
 
+create_country_leader = {
+	name = "Alex Stoll"
+	desc = "SRE_ALEX_STOLL_DESC"
+	picture = "Portrait_SRE_Alex_Stoll.dds"
+	expire = "2020.1.1"
+	ideology = esoteric_hitlerism
+	traits = {
+		#
+	}
+}
+

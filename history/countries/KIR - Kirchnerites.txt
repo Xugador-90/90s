@@ -29,7 +29,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Nestor Kirchner"
+	name = "Néstor Kirchner"
 	desc = "KIR_NESTOR_KIRCHNER_DESC"
 	picture = "Portrait_KIR_Nestor_Kirchner.dds"
 	expire = "2020.1.1"

@@ -1,0 +1,38 @@
+﻿capital = 687
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1983.8.12"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 27
+	atomic_dictatorship = 23
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	autocracy = 8
+	techno_dictatorship = 0
+	proletarian_dictatorship = 36
+	bureaucratic_socialism = 6
+}
+
+create_country_leader = {
+	name = "Michael Rose"
+	desc = "GUY_MICHAEL_ROSE_DESC"
+	picture = "Portrait_GUY_Michael_Rose.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

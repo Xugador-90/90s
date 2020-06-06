@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 43
 }
+
+create_country_leader = {
+	name = "Christel Wegner"
+	desc = "CSG_CHRISTEL_WEGNER_DESC"
+	picture = "Portrait_CSG_Christel_Wegner.dds"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}

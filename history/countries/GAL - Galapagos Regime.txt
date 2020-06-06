@@ -27,3 +27,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Sixto Durán Ballén"
+	desc = "GAL_SIXTO_DURAN_BALLEN_DESC"
+	picture = "Portrait_GAL_Sixto_Duran_Ballen.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 21
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Fernadndo Ocho Antich"
+	desc = "CAR_FERNANDO_OCHOA_ANTICH_DESC"
+	picture = "Portrait_CAR_Fernando_Ochoa_Antich.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}

@@ -9,14 +9,12 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = republicanism
-	last_election = "1988.5.10"
-	election_frequency = 48
-	elections_allowed = yes
+	ruling_party = atomic_dictatorship
+	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 51
-	atomic_dictatorship = 0
+	republicanism = 0
+	atomic_dictatorship = 51
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 19
@@ -26,4 +24,15 @@ set_popularities = {
 	autocracy = 0
 	bureaucratic_socialism = 0
 	maoism_ideology = 24
+}
+
+create_country_leader = {
+	name = "Alberto Fujimori"
+	desc = "PRU_ALBERTO_FUJIMORI_DESC"
+	picture = "Portrait_PRU_Alberto_Fujimori.dds"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
 }

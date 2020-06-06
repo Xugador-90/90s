@@ -27,3 +27,14 @@ set_popularities = {
 	bureaucratic_socialism = 4
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Rafael Caldera"
+	desc = "ZUL_RAFAEL_CALDERA_DESC"
+	picture = "Portrait_ZUL_Rafael_Caldera.dds"
+	expire = "2020.1.1"
+	ideology = trader_republic
+	traits = {
+		#
+	}
+}

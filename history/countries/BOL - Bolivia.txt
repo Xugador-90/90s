@@ -9,18 +9,27 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = republicanism
-	last_election = "1989.10.2"
-	election_frequency = 48
-	elections_allowed = yes
+	ruling_party = neo_fascism
+	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 58
+	republicanism = 0
 	atomic_dictatorship = 0
 	messianism = 0
-	neo_medievalism = 0
+	neo_fascism = 58
 	tribalism = 12
 	autocracy = 24
 	techno_dictatorship = 0
 	proletarian_dictatorship = 6
+}
+
+create_country_leader = {
+	name = "Celso Torrelio Villa"
+	desc = "BOL_CELSO_TORRELIO_VILLA_DESC"
+	picture = "Portrait_BOL_Celso_Torrelio_Villa.dds"
+	expire = "2020.1.1"
+	ideology = esoteric_hitlerism
+	traits = {
+		#
+	}
 }
