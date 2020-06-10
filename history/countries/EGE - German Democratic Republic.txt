@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 17
 	maoism_ideology = 18
 }
+
+create_country_leader = {
+	name = "Erich Honecker"
+	desc = "EGE_ERICH_HONECKER_DESC"
+	picture = "Portrait_EGE_Erich_Honecker.dds"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}

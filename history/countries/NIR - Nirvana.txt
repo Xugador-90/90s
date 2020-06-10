@@ -21,3 +21,15 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 20
 }
+
+create_country_leader = {
+	name = "Victory Pelevin"
+	desc = "NIR_VICTOR_PELEVIN_DESC"
+	picture = "Portrait_NIR_Victor_Pelevin.dds"
+	expire = "2020.1.1"
+	ideology = occult_dictatorship
+	traits = {
+		#
+	}
+}
+
