@@ -4,7 +4,7 @@ state={
 	name="STATE_125"
 
 	history={
-		owner = LON
+		owner = BFS
 		victory_points = {
 			271 5 
 		}
@@ -21,7 +21,7 @@ state={
 			}
 
 		}
-		add_core_of = LON
+		add_core_of = BFS
 	}
 
 	provinces={
