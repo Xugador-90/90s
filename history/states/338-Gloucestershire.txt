@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CRI
+		owner = RFM
 		victory_points = {
 			3369 5 
 		}
@@ -22,7 +22,7 @@ state={
 			}
 
 		}
-		add_core_of = CRI
+		add_core_of = RFM
 
 	}
 

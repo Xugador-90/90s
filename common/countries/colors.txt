@@ -576,3 +576,23 @@ GUY = {
 	color = rgb { 43 34 170 }
 	color_ui = rgb { 43 34 170 }
 }
+
+KER = {
+	color = rgb { 11 11 11 }
+	color_ui = rgb { 11 11 11 }
+}
+
+MNX = {
+	color = rgb { 196 99 74 }
+	color_ui = rgb { 196 99 74 }
+}
+
+ULS = {
+	color = rgb { 255 168 16 }
+	color_ui = rgb { 255 168 16 }
+}
+
+FGB = {
+	color = rgb { 28 63 145 }
+	color_ui = rgb { 28 63 145 }
+}

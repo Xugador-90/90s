@@ -1,0 +1,16 @@
+state={
+	id=899
+	name="Dyfed"
+	provinces={
+		253 407 3274 11361 
+	}
+	history={
+		owner = RFM
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = RFM
+	}
+	manpower=158954
+	buildings_max_level_factor=1.000
+}
