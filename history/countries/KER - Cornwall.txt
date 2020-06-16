@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 5
 }
+
+create_country_leader = {
+	name = "James Whetter"
+	desc = "KER_James_Whetter_DESC"
+	picture = "KER_James_Whetter.dds"
+	expire = "2020.1.1"
+	ideology = plutocratic_oligarchy
+	traits = {
+		#
+	}
+}

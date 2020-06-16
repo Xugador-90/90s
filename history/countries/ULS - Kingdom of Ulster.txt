@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 }
+
+create_country_leader = {
+	name = "Vissarion"
+	desc = "ULS_Ian_Paisley_desc"
+	picture = "ULS_Ian_Paisley.dds"
+	expire = "2020.1.1"
+	ideology = utopian_messianism
+	traits = {
+		#
+	}
+}

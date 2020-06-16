@@ -9,15 +9,26 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = neo_medievalism
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 10
-	atomic_dictatorship = 0
-	messianism = 17
-	neo_medievalism = 58 
+	atomic_dictatorship = 60
+	messianism = 15
+	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 5
 	proletarian_dictatorship = 10
+}
+
+create_country_leader = {
+	name = "Robert Fripp"
+	desc = "CRI_Robert_Fripp_desc"
+	picture = "CRI_Robert_Fripp.dds"
+	expire = "2020.1.1"
+	ideology = occult_dictatorship
+	traits = {
+		#
+	}
 }

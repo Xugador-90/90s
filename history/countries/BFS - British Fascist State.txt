@@ -14,10 +14,22 @@ set_politics = {
 }
 set_popularities = {
 	republicanism = 30
-	atomic_dictatorship = 40
+	atomic_dictatorship = 20
 	messianism = 0
-	neo_medievalism = 30
+	neo_medievalism = 10
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
+neo_fascism = 40
+}
+
+create_country_leader = {
+	name = "David Bowie"
+	desc = "BFS_David_Bowie_desc"
+	picture = "BFS_David_Bowie.dds"
+	expire = "2020.1.1"
+	ideology = post_punk_dictatorship
+	traits = {
+		#
+	}
 }

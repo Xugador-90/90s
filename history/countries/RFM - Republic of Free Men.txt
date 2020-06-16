@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 45
 }
+
+create_country_leader = {
+	name = "Joe Gormley"
+	desc = "RFM_Joe_Gormley_desc"
+	picture = "RFM_Joe_Gormley.dds"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}

@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 4
 }
+
+create_country_leader = {
+	name = "Andrew Bruce"
+	desc = "CLA_Andrew_Bruce_DESC"
+	picture = "CLA_Andrew_Bruce.dds"
+	expire = "2020.1.1"
+	ideology = tribal_revivalists
+	traits = {
+		#
+	}
+}

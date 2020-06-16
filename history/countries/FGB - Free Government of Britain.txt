@@ -9,15 +9,27 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = atomic_dictatorship
+	ruling_party = autocracy
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 30
-	atomic_dictatorship = 40
+	republicanism = 5
+	atomic_dictatorship = 5
 	messianism = 0
-	neo_medievalism = 30
-	tribalism = 0
+	neo_medievalism = 5
+	tribalism = 5
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
+autocracy = 80
+}
+
+create_country_leader = {
+	name = "Jermey Moore"
+	desc = "FGB_Jeremy_Moore_desc"
+	picture = "FGB_Jeremy_Moore.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
 }

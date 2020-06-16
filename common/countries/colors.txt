@@ -120,7 +120,7 @@ RFM = {
 	color_ui = rgb { 22 77 62 }
 }
 
-SCO = {
+CLA = {
 	color = rgb { 48 25 52 }
 	color_ui = rgb { 48 25 52 }
 }
@@ -588,8 +588,8 @@ MNX = {
 }
 
 ULS = {
-	color = rgb { 255 168 16 }
-	color_ui = rgb { 255 168 16 }
+	color = rgb { 204 102 0 }
+	color_ui = rgb { 204 102 0 }
 }
 
 FGB = {

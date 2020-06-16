@@ -8,13 +8,13 @@ state={
 	}
 
 	history={
-		owner = SCO
+		owner = CLA
 		buildings = {
 			infrastructure = 6
 			dockyard = 2
 
 		}
-		add_core_of = SCO
+		add_core_of = CLA
 
 	}
 
