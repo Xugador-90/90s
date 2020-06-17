@@ -86,6 +86,10 @@ technology_categories = {
 	naval_minesweeping
 	naval_minelaying
 	cat_scout_plane
+	cat_helicopter
+	cat_transport_helicopter
+	guerillas_tech
+	rangers_tech
 }
 
 technology_folders = {
