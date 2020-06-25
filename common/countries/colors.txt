@@ -597,13 +597,12 @@ FGB = {
 	color_ui = rgb { 28 63 145 }
 }
 
-GRL = {
+ICE = {
 	color = rgb { 100 125 175 }
 	color_ui = rgb { 100 125 175 }
 }
 
-
-ICE = {
+GRL = {
 	color = rgb { 108 175 100 }
 	color_ui = rgb { 108 175 100 }
 }
