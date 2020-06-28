@@ -5,6 +5,9 @@ state={
 		3369 
 	}
 	history={
+		victory_points = {
+			3369 20
+		}
 		owner = LON
 		buildings = {
 			infrastructure = 5

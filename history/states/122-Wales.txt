@@ -9,6 +9,9 @@ state={
 
 	history={
 		owner = CAM
+		victory_points = {
+			6363 10 
+		}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

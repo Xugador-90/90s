@@ -5,6 +5,9 @@ state={
 		3311 
 	}
 	history={
+		victory_points = {
+			3311 1 
+		}
 		owner = MNX
 		buildings = {
 			infrastructure = 5

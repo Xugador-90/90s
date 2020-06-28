@@ -10,9 +10,6 @@ state={
 
 	history={
 		owner = CLA
-		victory_points = {
-			11064 1 
-		}
 		buildings = {
 			infrastructure = 4
 			anti_air_building = 2
