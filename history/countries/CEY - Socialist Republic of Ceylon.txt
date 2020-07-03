@@ -1,0 +1,38 @@
+﻿capital = 422
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = maoism_ideology
+	elections_allowed = no
+}
+set_popularities = {
+	atomic_dictatorship = 0
+	republicanism = 15
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 28
+	maoism_ideology = 57
+}
+
+create_country_leader = {
+	name = "Rohana Wijeweera"
+	desc = "CEY_ROHANA_WIJEWEERA_DESC"
+	picture = "Portrait_CEY_Rohana_Wijeweera.dds"
+	expire = "2020.1.1"
+	ideology = radical_maoism
+	traits = {
+		#
+	}
+}

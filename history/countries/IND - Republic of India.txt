@@ -1,0 +1,40 @@
+﻿capital = 439
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1986.10.2"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	atomic_dictatorship = 9
+	republicanism = 36
+	messianism = 14
+	neo_medievalism = 11
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 22
+	autocracy = 0
+	bureaucratic_socialism = 8
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Sonia Gandhi"
+	desc = "IND_SONIA_GANDHI_DESC"
+	picture = "Portrait_IND_Sonia_Gandhi.dds"
+	expire = "2020.1.1"
+	ideology = plutocratic_oligarchy
+	traits = {
+		#
+	}
+}

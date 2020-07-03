@@ -1,0 +1,27 @@
+
+state={
+	id=427
+	name="STATE_427"
+	resources={
+		chromium=6.000
+	}
+
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+
+	}
+
+	provinces={
+		5019 5063 10311 10511 12226 
+	}
+	manpower=14013400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

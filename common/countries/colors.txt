@@ -10,7 +10,7 @@ FIN = {
 	color_ui = rgb { 147 225 216 }
 }
 
-IND = {
+INW = {
 	color = rgb { 136 41 47 }
 	color_ui = rgb { 136 41 47 }
 }
@@ -605,4 +605,53 @@ ICE = {
 GRL = {
 	color = rgb { 108 175 100 }
 	color_ui = rgb { 108 175 100 }
+}
+AHN = {
+	color = rgb { 84 120 108 }
+	color_ui = rgb { 84 120 108 }
+}
+
+IND = {
+	color = rgb { 139 153 30 }
+	color_ui = rgb { 139 153 30 }
+}
+
+BHA = {
+	color = rgb { 113 91 100 }
+	color_ui = rgb { 113 91 100 }
+}
+
+TRA = {
+	color = rgb { 159 86 140 }
+	color_ui = rgb { 159 86 140 }
+}
+
+CEY = {
+	color = rgb { 170 150 116 }
+	color_ui = rgb { 170 150 116 }
+}
+
+RAS = {
+	color = rgb { 181 41 3 }
+	color_ui = rgb { 181 41 3 }
+}
+
+RSS = {
+	color = rgb { 210 70 15 }
+	color_ui = rgb { 210 70 15 }
+}
+
+NEP = {
+	color = rgb { 167 153 183 }
+	color_ui = rgb { 167 153 183 }
+}
+
+PUN = {
+	color = rgb { 64 68 100 }
+	color_ui = rgb { 64 68 100 }
+}
+
+PSR = {
+	color = rgb { 147 31 29 }
+	color_ui = rgb { 147 31 29 }
 }

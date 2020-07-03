@@ -1,0 +1,38 @@
+﻿capital = 440
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = proletarian_dictatorship
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 0
+	messianism = 10
+	neo_medievalism = 19
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 41
+	neo_fascism = 0
+	autocracy = 17
+	bureaucratic_socialism = 13
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Valentin Varennikov"
+	desc = "PSR_VALENTIN_VARENNIKOV_DESC"
+	picture = "Portrait_PSR_Valentin_Varennikov.dds"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}

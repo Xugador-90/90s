@@ -1,0 +1,38 @@
+﻿capital = 444
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = autocracy
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 8
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 12
+	neo_fascism = 0
+	autocracy = 58
+	bureaucratic_socialism = 22
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Mirza Aslam Baig"
+	desc = "PUN_MIRZA_ASLAM_BAIG_DESC"
+	picture = "Portrait_PUN_Mirza_Aslam_Baig.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}

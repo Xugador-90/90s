@@ -1,0 +1,38 @@
+﻿capital = 425
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = messianism
+	elections_allowed = no
+}
+set_popularities = {
+	atomic_dictatorship = 0
+	republicanism = 2
+	messianism = 96
+	neo_medievalism = 2
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Kalki Bhagwan"
+	desc = "BHA_KALKI_BHAGWAN_DESC"
+	picture = "Portrait_BHA_Kalki_Bhagwan.dds"
+	expire = "2020.1.1"
+	ideology = utopian_messianism
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=437
+	name="STATE_437"
+
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1199 1949 2036 2054 2092 2105 4106 4915 4971 7080 7150 7165 7205 7905 8076 10807 10816 11952 11993 11995 12080 12743 12829 
+	}
+	manpower=8402500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,38 @@
+﻿capital = 423
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = proletarian_dictatorship
+	elections_allowed = no
+}
+set_popularities = {
+	atomic_dictatorship = 0
+	republicanism = 18
+	messianism = 33
+	neo_medievalism = 6
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 37
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 0
+	maoism_ideology = 6
+}
+
+create_country_leader = {
+	name = "Harkishan Singh Surjeet"
+	desc = "AHN_HARKISHAN_SINGH_SURJEET"
+	picture = "Portrait_AHN_Harkishan_Singh_Surjeet.dds"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}
