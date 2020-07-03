@@ -6,7 +6,7 @@ oob = ""
 set_technology = {
 }
 
-set_convoys = 0
+set_convoys = 300
 
 set_politics = {
 	ruling_party = republicanism
@@ -23,6 +23,14 @@ set_popularities = {
 	techno_dictatorship = 5
 	proletarian_dictatorship = 21
 }
+
+
+create_faction = "League of Saint Paul"
+add_to_faction = LON
+add_to_faction = BFS
+add_to_faction = CRI
+
+
 
 create_country_leader = {
 	name = "Margaret Thatcher"

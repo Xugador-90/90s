@@ -23,7 +23,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Margaret Thatcher"
+	name = "Laurence New"
 	desc = "MNX_Laurence_New_DESC"
 	picture = "MNX_Laurence_New.dds"
 	expire = "2020.1.1"

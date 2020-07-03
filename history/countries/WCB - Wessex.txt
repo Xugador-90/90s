@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 }
+
+create_country_leader = {
+	name = "The Council"
+	desc = "WCB_The_Council_desc"
+	picture = "WCB_The_council.dds"
+	expire = "2020.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}

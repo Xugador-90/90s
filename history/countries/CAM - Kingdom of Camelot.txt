@@ -21,3 +21,14 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 10
 }
+
+create_country_leader = {
+	name = "Julian Cayo-Evans "
+	desc = "CAM_Julian_Cayo-Evans_desc"
+	picture = "CAM_Julian_Cayo-Evans.dds"
+	expire = "2020.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}

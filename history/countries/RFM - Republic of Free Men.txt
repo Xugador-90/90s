@@ -1,4 +1,4 @@
-﻿capital = 133
+﻿capital = 130
 
 oob = ""
 
