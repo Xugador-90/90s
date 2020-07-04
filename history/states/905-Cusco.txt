@@ -1,3 +1,4 @@
+
 state={
 	id=905
 	name="Cusco"
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		2182 5166 8160 8191 10940 12953 
+		2182 5166 8160 8191 10940 12953 13238 13240 13241 
 	}
 	manpower=70020
 	buildings_max_level_factor=1.000

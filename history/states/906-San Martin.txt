@@ -1,3 +1,4 @@
+
 state={
 	id=906
 	name="San Martin"
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		5162 8149 10970 12869 
+		5162 8149 10970 12869 13246 13247 13249 13250 13253 13254 13255 13256 
 	}
 	manpower=70020
 	buildings_max_level_factor=1.000
