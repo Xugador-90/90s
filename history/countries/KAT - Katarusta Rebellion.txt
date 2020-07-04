@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 11
 }
+
+create_country_leader = {
+	name = "Victor Hugo Cardenas"
+	desc = "KAT_VICTOR_HUGO_CARDENAS_DESC"
+	picture = "Portrait_KAT_Victor_Hugo_Cardenas.dds"
+	expire = "2020.1.1"
+	ideology = techno_feudalism
+	traits = {
+		#
+	}
+}

@@ -1,30 +1,22 @@
-
 state={
-	id=492
-	name="STATE_492"
-	resources={
-		tungsten=2.000
-	}
+	id=906
+	name="San Martin"
 
 	history={
 		owner = PRU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			air_base = 1
 
 		}
 		add_core_of = PRU
-		victory_points = {
-			2210 1 
-		}
 
 	}
 
 	provinces={
-		2210 2225 13086 13175 
+		5162 8149 10970 12869 
 	}
-	manpower=1601278
+	manpower=70020
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

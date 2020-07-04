@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = techno_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
@@ -18,10 +18,21 @@ set_popularities = {
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 10
-	techno_dictatorship = 0
+	techno_dictatorship = 67
 	proletarian_dictatorship = 0
 	neo_fascism = 0
-	autocracy = 67
+	autocracy = 0
 	bureaucratic_socialism = 0
 	maoism_ideology = 23
+}
+
+create_country_leader = {
+	name = "National Council for the Technological Progress of the World"
+	desc = "ACR_NCTPW_DESC"
+	picture = "Portrait_ACR_NCTPW.dds"
+	expire = "2020.1.1"
+	ideology = techno_feudalism
+	traits = {
+		#
+	}
 }

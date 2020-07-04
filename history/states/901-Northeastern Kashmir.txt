@@ -1,6 +1,6 @@
 state={
 	id=901
-	name="STATE_901"
+	name="Northeastern Kashmir"
 	state_category = rural
 	
 	history={

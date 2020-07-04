@@ -27,3 +27,14 @@ set_popularities = {
 	bureaucratic_socialism = 2
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "José Sarney"
+	desc = "SAN_JOSE_SARNEY_DESC"
+	picture = "Portrait_SAN_Jose_Sarney.dds"
+	expire = "2020.1.1"
+	ideology = pre_collapse_constitutionalism
+	traits = {
+		#
+	}
+}

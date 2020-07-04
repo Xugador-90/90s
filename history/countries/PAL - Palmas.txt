@@ -9,19 +9,30 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 24
-	atomic_dictatorship = 16
+	atomic_dictatorship = 27
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 21
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 	neo_fascism = 0
-	autocracy = 27
+	autocracy = 16
 	bureaucratic_socialism = 12
 	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Enzo Martins Peri"
+	desc = "PAL_ENZO_MARTINS_PERI_DESC"
+	picture = "Portrait_PAL_Enzo_Martins_Peri.dds"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
 }

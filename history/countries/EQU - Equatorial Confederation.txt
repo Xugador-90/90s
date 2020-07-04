@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 31
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "José Maria de Almeida"
+	desc = "EQU_JOSE_MARIA_DE_ALMEIDA_DESC"
+	picture = "Portrait_EQU_Jose_Maria_de_Almeida.dds"
+	expire = "2020.1.1"
+	ideology = cultural_socialism
+	traits = {
+		#
+	}
+}

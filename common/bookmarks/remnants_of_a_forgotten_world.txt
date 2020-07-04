@@ -6,10 +6,77 @@ bookmarks = {
 		picture = "GFX_select_date_1936"
 		default_country = "BAL"
 		default = yes
+
+		"UST"={
+			history = "IND_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = republicanism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"ARE"={
+			history = "ARE_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = atomic_dictatorship
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"RFM"={
+			history = "RFM_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = proletarian_dictatorship
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
 		
+		"EGE"={
+			history = "EGE_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = proletarian_dictatorship
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
 		"BAL"={
 			history = "BAL_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
 			ideology = republicanism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"IND"={
+			history = "IND_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = republicanism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+
+		"PRC"={
+			history = "PRC_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
+			ideology = maoism_ideology
 			ideas = {
 				
 			}
@@ -25,7 +92,6 @@ bookmarks = {
 
 		# minors ####
 	
-		
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }

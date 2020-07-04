@@ -9,21 +9,32 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 34
-	atomic_dictatorship = 9
+	atomic_dictatorship = 36
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 21
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
 	neo_fascism = 0
-	autocracy = 36
+	autocracy = 9
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
 
 puppet = ACR
+
+create_country_leader = {
+	name = "Jair Bolsonaro"
+	desc = "AMA_JAIR_BOLSONARO_DESC"
+	picture = "Portrait_AMA_Jair_Bolsonaro.dds"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
+}

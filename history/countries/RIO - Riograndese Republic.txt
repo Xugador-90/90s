@@ -9,21 +9,30 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = republicanism
-	last_election = "1975.9.17"
-	election_frequency = 48
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
-	atomic_dictatorship = 0
+	atomic_dictatorship = 54
 	republicanism = 39
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 7
-	neo_fascism = 54
+	neo_fascism = 0
 	autocracy = 0
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Leonel Brizola"
+	desc = "SAN_LEONEL_BRIZOLA_DESC"
+	picture = "Portrait_RIO_Leonel_Brizola.dds"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
 }
