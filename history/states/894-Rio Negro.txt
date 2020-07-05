@@ -1,3 +1,4 @@
+
 state={
 	id=894
 	name="Rio Negro"
@@ -13,7 +14,7 @@ state={
 	}
 
 	provinces={
-		2149 10935 12494 12998 
+		2149 10935 12494 12998 13249 13250 13251 13252 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
