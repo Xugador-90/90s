@@ -9,19 +9,30 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = atomic_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 12
-	atomic_dictatorship = 10
+	atomic_dictatorship = 45
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 10
 	neo_fascism = 0
-	autocracy = 45
+	autocracy = 10
 	bureaucratic_socialism = 23
 	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Fernando Azevedo e Silva"
+	desc = "CUI_FERNANDO_AZEVEDO_E_SILVA_DESC"
+	picture = "Portrait_CUI_Fernando_Azevedo_e_Silva.dds"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
 }

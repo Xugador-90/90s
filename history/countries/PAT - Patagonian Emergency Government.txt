@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Government of National Salvation"
+	desc = "PAT_GOVERNMENT_OF_NATIONAL_SALVATION_DESC"
+	picture = "Portrait_PAT_Government_of_National_Salvation.dds"
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}

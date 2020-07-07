@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
+
+create_country_leader = {
+	name = "Birendra Bir Bikram Shah"
+	desc = "NEP_BIRENDRA_BIR_BIKRAM_SHAH_DESC"
+	picture = "Portrait_NEP_Birendra_Bir_Bikram_Shah.dds"
+	expire = "2020.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
