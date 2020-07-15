@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = maoism_ideology
+	ruling_party = proletarian_dictatorship
 	elections_allowed = no
 }
 set_popularities = {
@@ -19,11 +19,11 @@ set_popularities = {
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 0
+	proletarian_dictatorship = 57
 	neo_fascism = 0
 	autocracy = 0
-	bureaucratic_socialism = 28
-	maoism_ideology = 57
+	bureaucratic_socialism = 0
+	maoism_ideology = 28
 }
 
 create_country_leader = {
@@ -31,7 +31,7 @@ create_country_leader = {
 	desc = "CEY_ROHANA_WIJEWEERA_DESC"
 	picture = "Portrait_CEY_Rohana_Wijeweera.dds"
 	expire = "2020.1.1"
-	ideology = radical_maoism
+	ideology = cultural_socialism
 	traits = {
 		#
 	}

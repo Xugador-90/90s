@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = proletarian_dictatorship
+	ruling_party = bureaucratic_socialism
 	elections_allowed = no
 }
 set_popularities = {
@@ -19,10 +19,10 @@ set_popularities = {
 	neo_medievalism = 19
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 41
+	proletarian_dictatorship = 13
 	neo_fascism = 0
 	autocracy = 17
-	bureaucratic_socialism = 13
+	bureaucratic_socialism = 41
 	maoism_ideology = 0
 }
 
@@ -31,7 +31,7 @@ create_country_leader = {
 	desc = "PSR_VALENTIN_VARENNIKOV_DESC"
 	picture = "Portrait_PSR_Valentin_Varennikov.dds"
 	expire = "2020.1.1"
-	ideology = centralized_socialism
+	ideology = military_socialism
 	traits = {
 		#
 	}
