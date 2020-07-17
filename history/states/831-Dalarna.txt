@@ -1,0 +1,25 @@
+state={
+	id=831
+	name="Dalarna"
+	history={
+		owner = JMT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = JMT
+	}
+	provinces={
+		77 114 156 202 3005 3070 3148 6093 6123 6147 9068 9117 9173 9182 9193 11053 11197
+	}
+	victory_points = {
+		9068 15
+	}
+	victory_points = {
+		156 1 
+	}
+	manpower=4000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

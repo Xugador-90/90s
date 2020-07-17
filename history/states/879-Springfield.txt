@@ -1,9 +1,0 @@
-state={
-	id=879
-	name="Springfield"
-	provinces={
-		720 7611 10457 12497 12697 
-	}
-	manpower=1
-	state_category = rural
-}

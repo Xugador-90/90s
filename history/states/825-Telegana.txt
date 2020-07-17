@@ -1,0 +1,23 @@
+state={
+	id=825
+	name="Telegana"
+
+	history={
+		owner = BHA
+		add_core_of = BHA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+
+	}
+
+	provinces={
+		1275 1317 1359 4280 4472 5104 8087 10324 11950 12114 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=town
+}

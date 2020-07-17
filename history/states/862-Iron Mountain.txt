@@ -1,9 +1,0 @@
-state={
-	id=862
-	name="Iron Mountain"
-	provinces={
-		4854 10599 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

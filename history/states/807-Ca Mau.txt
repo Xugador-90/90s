@@ -1,0 +1,17 @@
+state={
+	id=807
+	name="Ca Mau"
+	provinces={
+		1423 4223 4284 4341 7303 7331 12133 12288 1396
+	}
+	history={
+		owner = SVI
+		add_core_of = SVI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+}

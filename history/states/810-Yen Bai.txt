@@ -1,0 +1,17 @@
+state={
+	id=810
+	name="Yen Bai"
+	provinces={
+		4339 4529 4568 4613 7075 7103 7218 9961 9988 10016 10103 10129 11909 11936 12392 12433 
+	}
+	history={
+		owner = IOC
+		add_core_of = IOC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+}

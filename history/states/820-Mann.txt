@@ -1,0 +1,19 @@
+state={
+	id=820
+	name="Mann"
+	provinces={
+		3311 
+	}
+	history={
+		victory_points = {
+			3311 1 
+		}
+		owner = MNX
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = MNX
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

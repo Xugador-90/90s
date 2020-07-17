@@ -1,9 +1,0 @@
-state={
-	id=877
-	name="Cairo"
-	provinces={
-		954 1604 7626 7831 12305 
-	}
-	manpower=1
-	state_category = rural
-}

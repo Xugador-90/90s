@@ -1,0 +1,23 @@
+
+state={
+	id=834
+	name="Bascilicata"
+
+	history={
+		owner = SCI
+		add_core_of = SCI
+		buildings = {
+			infrastructure = 5
+			dockyard = 4
+			fuel_silo = 1
+
+		}
+
+	}
+
+	provinces={
+		851 3958 3968 6843 6972 9784 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+}

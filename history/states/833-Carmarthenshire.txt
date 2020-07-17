@@ -1,0 +1,29 @@
+
+state={
+	id=833
+	name="Carmarthenshire"
+
+	history={
+		owner = RFM
+		add_core_of = RFM
+		victory_points = {
+			377 5 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			377 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		377 3241 6301 6378 
+	}
+	manpower=9784571
+	buildings_max_level_factor=1.000
+}

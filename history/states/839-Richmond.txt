@@ -1,9 +1,0 @@
-state={
-	id=839
-	name="Richmond"
-	provinces={
-		3925 9931 10412 11841 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

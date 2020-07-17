@@ -1,9 +1,0 @@
-state={
-	id=883
-	name="Lexington"
-	provinces={
-		1445 1582 4452 4988 7547 9727 12568 12637 12709 
-	}
-	manpower=1
-	state_category = rural
-}

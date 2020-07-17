@@ -1,9 +1,0 @@
-state={
-	id=880
-	name="Puducah"
-	provinces={
-		4402 10586 
-	}
-	manpower=1
-	state_category = rural
-}

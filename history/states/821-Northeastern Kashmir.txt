@@ -1,0 +1,21 @@
+state={
+	id=821
+	name="Northeastern Kashmir"
+	state_category = rural
+	
+	history={
+		owner = XIN
+		add_core_of = XIN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5042 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
