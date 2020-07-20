@@ -5,8 +5,8 @@ state={
 		1464 1507 7356 10330 10356 10456 10496 12332 
 	}
 	history={
-		owner = KHM
-		add_core_of = KHM
+		owner = SVI
+		add_core_of = SVI
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

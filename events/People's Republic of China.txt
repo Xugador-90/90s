@@ -1,0 +1,29 @@
+﻿###########################
+# Baltic Events
+###########################
+
+add_namespace = PRC
+
+# Renegade Affair
+country_event = {
+	id = PRC.1
+	title = PRC.1.t
+	desc = PRC.1.d
+	picture = GFX_report_event_renegade_affair
+	
+	mean_time_to_happen = {
+		days = 30
+	}
+	
+	option = { # Interesting
+		name = PRC.1.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+		SOV = {
+			country_event = { days = 5 id = soviet.6 }
+		}
+	}
+}

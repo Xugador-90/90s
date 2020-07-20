@@ -1,0 +1,663 @@
+focus_tree = {
+	id = chinese_workers_union
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CWU
+		}
+	}
+	#Focus for Liberty Prevails
+	focus = {
+		id = CWU_liberty_prevails
+		icon = GFX_goal_unknown
+		x = 6
+		y = 7
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_hold_general_elections 
+		}
+		prerequisite = { 
+			focus = CWU_reinstate_the_46_constitution 
+		}
+		prerequisite = { 
+			focus = CWU_unite_with_the_roc 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Hold General Elections
+	focus = {
+		id = CWU_hold_general_elections
+		icon = GFX_goal_unknown
+		x = 4
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_republican_coalition }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Reinstate the '46 Constitution
+	focus = {
+		id = CWU_reinstate_the_46_constitution
+		icon = GFX_goal_unknown
+		x = 6
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_republican_coalition }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Unite with the ROC
+	focus = {
+		id = CWU_unite_with_the_roc
+		icon = GFX_goal_unknown
+		x = 8
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_blue_moon_coup }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Incorporate Local Governance
+	focus = {
+		id = CWU_incorporate_local_governance
+		icon = GFX_goal_unknown
+		x = 4
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_rice_for_work_initiative 
+		}
+		prerequisite = { 
+			focus = CWU_restructure_changqing 
+		}
+		mutually_exclusive = { focus = CWU_blue_moon_coup }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Pardon Zhao Ziyang
+	focus = {
+		id = CWU_pardon_zhao_ziyang
+		icon = GFX_goal_unknown
+		x = 6
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_prioritize_domestic_issues }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Rice for Work Initiative
+	focus = {
+		id = CWU_rice_for_work_initiative
+		icon = GFX_goal_unknown
+		x = 4
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_prioritize_domestic_issues }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Restructure Changqing
+	focus = {
+		id = CWU_restructure_changqing
+		icon = GFX_goal_unknown
+		x = 6
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_pardon_zhao_ziyang }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for A Nation Demoralized
+	focus = {
+		id = CWU_a_nation_demoralized
+		icon = GFX_goal_unknown
+		x = 3
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Prioritize Domestic Issues
+	focus = {
+		id = CWU_prioritize_domestic_issues
+		icon = GFX_goal_unknown
+		x = 5
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_a_nation_demoralized }
+		mutually_exclusive = { focus = CWU_all_sights_set_on_war }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Bo's Brigades
+	focus = {
+		id = CWU_bos_brigades
+		icon = GFX_goal_unknown
+		x = 0
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_all_sights_set_on_war }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Army Benifits
+	focus = {
+		id = CWU_army_benifits
+		icon = GFX_goal_unknown
+		x = 0
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_bos_brigades }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Blue Moon Coup
+	focus = {
+		id = CWU_blue_moon_coup
+		icon = GFX_goal_unknown
+		x = 8
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_restructure_changqing 
+		}
+		prerequisite = { 
+			focus = CWU_ally_the_republic 
+		}
+		mutually_exclusive = { focus = CWU_incorporate_local_governance }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Collectivist Propaganda
+	focus = {
+		id = CWU_collectivist_propaganda
+		icon = GFX_goal_unknown
+		x = 2
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_all_sights_set_on_war }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Prepare for the Inevitable
+	focus = {
+		id = CWU_prepare_for_the_inevitable
+		icon = GFX_goal_unknown
+		x = 10
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_traitors_of_the_grand_campaign }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Diplomacy Pervails
+	focus = {
+		id = CWU_diplomacy_pervails
+		icon = GFX_goal_unknown
+		x = 12
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_traitors_of_the_grand_campaign }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Influence the Warlords
+	focus = {
+		id = CWU_influence_the_warlords
+		icon = GFX_goal_unknown
+		x = 10
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_prepare_for_the_inevitable 
+			focus = CWU_allies_in_taiyuan 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Seize the Flood Basin
+	focus = {
+		id = CWU_seize_the_flood_basin
+		icon = GFX_goal_unknown
+		x = 10
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_influence_the_warlords }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Ally the Republic
+	focus = {
+		id = CWU_ally_the_republic
+		icon = GFX_goal_unknown
+		x = 8
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_influence_the_warlords }
+		mutually_exclusive = { focus = CWU_seize_the_flood_basin }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Yangtze Supply Routes
+	focus = {
+		id = CWU_yangtze_supply_routes
+		icon = GFX_goal_unknown
+		x = 12
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_influence_the_warlords }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Push Towards the Sea
+	focus = {
+		id = CWU_push_towards_the_sea
+		icon = GFX_goal_unknown
+		x = 12
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_yangtze_supply_routes 
+		}
+		prerequisite = { 
+			focus = CWU_victory_over_the_maoists 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Yellow Sea Patrols
+	focus = {
+		id = CWU_yellow_sea_patrols
+		icon = GFX_goal_unknown
+		x = 10
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_push_towards_the_sea }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Chinese Unification
+	focus = {
+		id = CWU_chinese_unification
+		icon = GFX_goal_unknown
+		x = 12
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_push_towards_the_sea }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Deployment in Tibet
+	focus = {
+		id = CWU_deployment_in_tibet
+		icon = GFX_goal_unknown
+		x = 17
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Stomp Out Local Resistance
+	focus = {
+		id = CWU_stomp_out_local_resistance
+		icon = GFX_goal_unknown
+		x = 20
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_deployment_in_tibet }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Incorporate Tibet
+	focus = {
+		id = CWU_incorporate_tibet
+		icon = GFX_goal_unknown
+		x = 20
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_stomp_out_local_resistance }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Form the PRX
+	focus = {
+		id = CWU_form_the_prx
+		icon = GFX_goal_unknown
+		x = 18
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_cross_the_ngari_line }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Incorporate Xinjiang
+	focus = {
+		id = CWU_incorporate_xinjiang
+		icon = GFX_goal_unknown
+		x = 16
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_cross_the_ngari_line }
+		mutually_exclusive = { focus = CWU_form_the_prx }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Conflict in the Kashmir Valley
+	focus = {
+		id = CWU_conflict_in_the_kashmir_valley
+		icon = GFX_goal_unknown
+		x = 17
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_form_the_prx 
+			focus = CWU_incorporate_xinjiang 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Invasion of India
+	focus = {
+		id = CWU_invasion_of_india
+		icon = GFX_goal_unknown
+		x = 17
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_conflict_in_the_kashmir_valley }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Return to Indochina
+	focus = {
+		id = CWU_return_to_indochina
+		icon = GFX_goal_unknown
+		x = 15
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_conflict_in_the_kashmir_valley 
+		}
+		prerequisite = { 
+			focus = CWU_victory_over_the_maoists 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Support the Khmer Union
+	focus = {
+		id = CWU_support_the_khmer_union
+		icon = GFX_goal_unknown
+		x = 14
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_return_to_indochina }
+		mutually_exclusive = { focus = CWU_new_occupation_corps }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for New Occupation Corps
+	focus = {
+		id = CWU_new_occupation_corps
+		icon = GFX_goal_unknown
+		x = 16
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_return_to_indochina }
+		mutually_exclusive = { focus = CWU_support_the_khmer_union }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Traitors of the Grand Campaign
+	focus = {
+		id = CWU_traitors_of_the_grand_campaign
+		icon = GFX_goal_unknown
+		x = 12
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Allies in Taiyuan
+	focus = {
+		id = CWU_allies_in_taiyuan
+		icon = GFX_goal_unknown
+		x = 12
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_traitors_of_the_grand_campaign }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Worker's War
+	focus = {
+		id = CWU_workers_war
+		icon = GFX_goal_unknown
+		x = 14
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_traitors_of_the_grand_campaign }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Victory Over the Maoists
+	focus = {
+		id = CWU_victory_over_the_maoists
+		icon = GFX_goal_unknown
+		x = 14
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_workers_war }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Cross the Ngari Line
+	focus = {
+		id = CWU_cross_the_ngari_line
+		icon = GFX_goal_unknown
+		x = 17
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_deployment_in_tibet }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Conquest of Thailand
+	focus = {
+		id = CWU_conquest_of_thailand
+		icon = GFX_goal_unknown
+		x = 15
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_support_the_khmer_union 
+			focus = CWU_new_occupation_corps 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for All Sights Set on War
+	focus = {
+		id = CWU_all_sights_set_on_war
+		icon = GFX_goal_unknown
+		x = 1
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_a_nation_demoralized }
+		mutually_exclusive = { focus = CWU_prioritize_domestic_issues }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Implement Military Districts
+	focus = {
+		id = CWU_implement_military_districts
+		icon = GFX_goal_unknown
+		x = 2
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_army_benifits 
+		}
+		prerequisite = { 
+			focus = CWU_collectivist_propaganda 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Republican Coalition
+	focus = {
+		id = CWU_republican_coalition
+		icon = GFX_goal_unknown
+		x = 5
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = CWU_blue_moon_coup }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Socialism for the Workers
+	focus = {
+		id = CWU_socialism_for_the_workers
+		icon = GFX_goal_unknown
+		x = 3
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = CWU_incorporate_local_governance 
+			focus = CWU_implement_military_districts 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+#End of focuses 
+ }

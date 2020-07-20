@@ -1,0 +1,727 @@
+focus_tree = {
+	id = people's_republic_of_china
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = PRC
+		}
+	}
+	#Focus for Reunification Doctrine
+	focus = {
+		id = PRC_reunification_doctrine
+		icon = GFX_goal_unknown
+		x = 17
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_renegade_affair }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Victory Against the Warlords
+	focus = {
+		id = PRC_victory_against_the_warlords
+		icon = GFX_goal_unknown
+		x = 19
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_yangtze_canal_corps 
+		}
+		prerequisite = { 
+			focus = PRC_east_chinese_sea_dominance 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Manchuria Concordant
+	focus = {
+		id = PRC_manchuria_concordant
+		icon = GFX_goal_unknown
+		x = 22
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_renegade_affair }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Allies in the Far East
+	focus = {
+		id = PRC_allies_in_the_far_east
+		icon = GFX_goal_unknown
+		x = 22
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_manchuria_concordant }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Request Northern Manchuria
+	focus = {
+		id = PRC_request_northern_manchuria
+		icon = GFX_goal_unknown
+		x = 22
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_allies_in_the_far_east }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Unrest on the Peninsula
+	focus = {
+		id = PRC_unrest_on_the_peninsula
+		icon = GFX_goal_unknown
+		x = 28
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Bolster the Red Guards
+	focus = {
+		id = PRC_bolster_the_red_guards
+		icon = GFX_goal_unknown
+		x = 27
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_unrest_on_the_peninsula }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Suppress the Red Guards
+	focus = {
+		id = PRC_suppress_the_red_guards
+		icon = GFX_goal_unknown
+		x = 29
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_unrest_on_the_peninsula }
+		mutually_exclusive = { focus = PRC_bolster_the_red_guards }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Meet with the KIA
+	focus = {
+		id = PRC_meet_with_the_kia
+		icon = GFX_goal_unknown
+		x = 29
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_suppress_the_red_guards }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Night of the Red Dragon
+	focus = {
+		id = PRC_night_of_the_red_dragon
+		icon = GFX_goal_unknown
+		x = 27
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_bolster_the_red_guards }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Escalate the Korean Conflict
+	focus = {
+		id = PRC_escalate_the_korean_conflict
+		icon = GFX_goal_unknown
+		x = 24
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_unrest_on_the_peninsula }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Scorched Earth Tactics
+	focus = {
+		id = PRC_scorched_earth_tactics
+		icon = GFX_goal_unknown
+		x = 25
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_escalate_the_korean_conflict }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for FER Volunteer Army
+	focus = {
+		id = PRC_fer_volunteer_army
+		icon = GFX_goal_unknown
+		x = 24
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_allies_in_the_far_east 
+		}
+		prerequisite = { 
+			focus = PRC_escalate_the_korean_conflict 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Taiyuan Trials
+	focus = {
+		id = PRC_taiyuan_trials
+		icon = GFX_goal_unknown
+		x = 1
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_let_rebels_flood_the_streets 
+		}
+		prerequisite = { 
+			focus = PRC_consolidate_chairman_powers 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for The Eternal Leader
+	focus = {
+		id = PRC_the_eternal_leader
+		icon = GFX_goal_unknown
+		x = 1
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_taiyuan_trials }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Reach Nirvana
+	focus = {
+		id = PRC_reach_nirvana
+		icon = GFX_goal_unknown
+		x = 16
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_pacify_the_gobi }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Chinese Resettlement Program
+	focus = {
+		id = PRC_chinese_resettlement_program
+		icon = GFX_goal_unknown
+		x = 14
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_pacify_the_gobi }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Strike South
+	focus = {
+		id = PRC_strike_south
+		icon = GFX_goal_unknown
+		x = 19
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_reunification_doctrine }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Blood in the Yangtze
+	focus = {
+		id = PRC_blood_in_the_yangtze
+		icon = GFX_goal_unknown
+		x = 18
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_strike_south }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Yangtze Canal Corps
+	focus = {
+		id = PRC_yangtze_canal_corps
+		icon = GFX_goal_unknown
+		x = 18
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_blood_in_the_yangtze }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for White Lotus Council
+	focus = {
+		id = PRC_white_lotus_council
+		icon = GFX_goal_unknown
+		x = 9
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_adherents_of_maoism 
+		}
+		prerequisite = { 
+			focus = PRC_renegade_affair 
+		}
+		mutually_exclusive = { focus = PRC_second_cultural_revolution }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Talks with the CWU
+	focus = {
+		id = PRC_talks_with_the_cwu
+		icon = GFX_goal_unknown
+		x = 10
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_white_lotus_council }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Unity Through Peace
+	focus = {
+		id = PRC_unity_through_peace
+		icon = GFX_goal_unknown
+		x = 9
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_talks_with_the_cwu 
+		}
+		prerequisite = { 
+			focus = PRC_replace_the_central_comittee 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for The Revolution Must End
+	focus = {
+		id = PRC_the_revolution_must_end
+		icon = GFX_goal_unknown
+		x = 5
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_second_cultural_revolution }
+		mutually_exclusive = { focus = PRC_continue_the_class_stuggle }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Urban Industrialization
+	focus = {
+		id = PRC_urban_industrialization
+		icon = GFX_goal_unknown
+		x = 9
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_unity_through_peace }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for March of the Exiles
+	focus = {
+		id = PRC_march_of_the_exiles
+		icon = GFX_goal_unknown
+		x = 4
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_the_revolution_must_end }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Proletarian Might
+	focus = {
+		id = PRC_proletarian_might
+		icon = GFX_goal_unknown
+		x = 5
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_empower_the_pla 
+		}
+		prerequisite = { 
+			focus = PRC_ten_year_plan 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Purge the Red Guard
+	focus = {
+		id = PRC_purge_the_red_guard
+		icon = GFX_goal_unknown
+		x = 11
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_unity_through_peace }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Continue the Class Stuggle
+	focus = {
+		id = PRC_continue_the_class_stuggle
+		icon = GFX_goal_unknown
+		x = 1
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_second_cultural_revolution }
+		mutually_exclusive = { focus = PRC_the_revolution_must_end }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Let Rebels Flood the Streets
+	focus = {
+		id = PRC_let_rebels_flood_the_streets
+		icon = GFX_goal_unknown
+		x = 2
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_continue_the_class_stuggle }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Consolidate Chairman Powers
+	focus = {
+		id = PRC_consolidate_chairman_powers
+		icon = GFX_goal_unknown
+		x = 0
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_continue_the_class_stuggle }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Second Cultural Revolution
+	focus = {
+		id = PRC_second_cultural_revolution
+		icon = GFX_goal_unknown
+		x = 3
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_adherents_of_maoism }
+		mutually_exclusive = { focus = PRC_white_lotus_council }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Re-Ignite the Civil War
+	focus = {
+		id = PRC_reignite_the_civil_war
+		icon = GFX_goal_unknown
+		x = 13
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_renegade_affair }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Mobilize the Red Guard
+	focus = {
+		id = PRC_mobilize_the_red_guard
+		icon = GFX_goal_unknown
+		x = 12
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_reignite_the_civil_war }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Political Education Camps
+	focus = {
+		id = PRC_political_education_camps
+		icon = GFX_goal_unknown
+		x = 14
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_reignite_the_civil_war }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Adherents of Maoism
+	focus = {
+		id = PRC_adherents_of_maoism
+		icon = GFX_goal_unknown
+		x = 3
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Renegade Affair
+	focus = {
+		id = PRC_renegade_affair
+		icon = GFX_goal_unknown
+		x = 13
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		available = { has_country_flag = renegades_arrived }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Replace the Central Comittee
+	focus = {
+		id = PRC_replace_the_central_comittee
+		icon = GFX_goal_unknown
+		x = 8
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_white_lotus_council }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Empower the PLA
+	focus = {
+		id = PRC_empower_the_pla
+		icon = GFX_goal_unknown
+		x = 7
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_unity_through_peace 
+			focus = PRC_down_to_the_countryside 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Down to the Countryside
+	focus = {
+		id = PRC_down_to_the_countryside
+		icon = GFX_goal_unknown
+		x = 6
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_the_revolution_must_end }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Ten Year Plan
+	focus = {
+		id = PRC_ten_year_plan
+		icon = GFX_goal_unknown
+		x = 4
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_march_of_the_exiles }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Pacify the Gobi
+	focus = {
+		id = PRC_pacify_the_gobi
+		icon = GFX_goal_unknown
+		x = 16
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_reunification_doctrine }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Extend the Gansu Line
+	focus = {
+		id = PRC_extend_the_gansu_line
+		icon = GFX_goal_unknown
+		x = 14
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_chinese_resettlement_program }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Inner Mongolia Autonomous Region
+	focus = {
+		id = PRC_inner_mongolia_autonomous_region
+		icon = GFX_goal_unknown
+		x = 16
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_chinese_resettlement_program }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Retake Shanghai
+	focus = {
+		id = PRC_retake_shanghai
+		icon = GFX_goal_unknown
+		x = 20
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_strike_south }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for East Chinese Sea Dominance
+	focus = {
+		id = PRC_east_chinese_sea_dominance
+		icon = GFX_goal_unknown
+		x = 20
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = PRC_retake_shanghai }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for One China Policy
+	focus = {
+		id = PRC_one_china_policy
+		icon = GFX_goal_unknown
+		x = 17
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_victory_against_the_warlords 
+		}
+		prerequisite = { 
+			focus = PRC_inner_mongolia_autonomous_region 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Reconstruction Program
+	focus = {
+		id = PRC_reconstruction_program
+		icon = GFX_goal_unknown
+		x = 28
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = PRC_meet_with_the_kia 
+			focus = PRC_night_of_the_red_dragon 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+#End of focuses 
+ }

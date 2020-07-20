@@ -18,7 +18,7 @@ bookmarks = {
 			}
 		}
 
-		"ARE"={
+		"FPR"={
 			history = "ARE_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
 			ideology = atomic_dictatorship
 			ideas = {
@@ -40,7 +40,7 @@ bookmarks = {
 			}
 		}
 		
-		"EGE"={
+		"SGR"={
 			history = "EGE_REMNANTS_OF_A_FORGOTTEN_WORLD_DESC"
 			ideology = proletarian_dictatorship
 			ideas = {
