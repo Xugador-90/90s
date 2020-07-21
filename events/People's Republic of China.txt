@@ -8,12 +8,8 @@ add_namespace = PRC
 country_event = {
 	id = PRC.1
 	title = PRC.1.t
-	desc = PRC.1.d
+	desc = PRC.1.desc
 	picture = GFX_report_event_renegade_affair
-	
-	mean_time_to_happen = {
-		days = 30
-	}
 	
 	option = { # Interesting
 		name = PRC.1.a
@@ -22,8 +18,83 @@ country_event = {
 			modifier = {
 			}
 		}
-		SOV = {
-			country_event = { days = 5 id = soviet.6 }
+	}
+}
+
+#Renegade Trial
+country_event = {
+	id = PRC.2
+	title = PRC.2.t
+	desc = PRC.2.desc
+	picture = GFX_report_event_renegade_trial
+	
+	option = { # Execution
+		name = PRC.2.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Imprisonment
+		name = PRC.2.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Return to the CWU
+		name = PRC.2.c
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Red Guard Demonstation Outside the Forbidden City
+country_event = {
+	id = PRC.3
+	title = PRC.3.t
+	desc = PRC.3.desc
+	picture = GFX_report_event_red_guards_01
+	
+	option = { # Allow the demonstation
+		name = PRC.3.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Protect the Forbidden City
+		name = PRC.3.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Zhang Chunqiao Proclaims the Second Cultural Revolution
+country_event = {
+	id = PRC.4
+	title = PRC.4.t
+	desc = PRC.4.desc
+	picture = GFX_report_event_red_guards_01
+	
+	option = { # History repeats
+		name = PRC.4.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
 		}
 	}
 }

@@ -1,0 +1,20 @@
+﻿l_english:
+ MINIMIZE_EVENT:0 "§GClick§! to Minimize. Event will be placed in the Event Queue under §HEvents and Decisions§!."
+ lar_test.1.t:0 "TODO_LAR_BC: Test Title"
+ lar_test.1.d:0 "TODO_LAR_BC: this is a test\nThis:[This.GetName]\nFrom:[From.GetName]\nFrom.From:[From.From.GetName]\nRoot:[Root.GetName]\n"
+ lar_collab_gov.1.t:0 "[From.GetAdjective] Partisans in [Root.GetNameDef]"
+ lar_collab_gov.1.d:0 "[From.GetNameDefCap] have recently increased their efforts to build collaboration within our nation. A number of [This.GetAdjective] politicians have started speaking rather sympathetically about the [From.GetAdjective] regime, and many partisans within our nation are turning their [From.GetRulingIdeology] sentiment into direct support for [From.GetNameDef].\n\nThe growing [From.GetAdjective] influence in our nation will undoubtedly lower [Root.GetAdjective] resistance and may even lead to a new [From.GetRulingIdeology] government in collaboration with [From.GetNameDef] in the event that [Root.GetNameDef] should capitulate."
+
+ #People's Republic of China
+ PRC.1.t:0 "Prominent Union Renegades Caught at Border"
+ PRC.1.desc:0 "A border patrol was suprised when at around 11 PM last night a convoy of people attempted to cross the border in a retrofitted technical. While refugees from the Union are common due to the abhorrent conditions of those living there, it soon became apparent that these were no ordinary refugees. Upon arriving in Beijing under escort from trusted PLA members it was revealed that the refugee groups consisted of several major members of the Union's upper echelon, including Zhang Dejiang, the Chairman of Infastructure and Housing; Zhang Lianzhong, who was previously considered the Union's lead admiral; and Deng Xiaoping, a founder of the Union who while officaly having retired from politics still held a lot of political sway. While the exact reason that these people attempted to enter our nation has yet to be ascetained, this is sure to shock and humiliate the Union."
+ PRC.1.a:0 "We will have to wait and see how this situation develops."
+ PRC.2.t:0 "The Fate of the Renegades"
+ PRC.2.desc:0 "Since their arrival in Beijing the Union refugees have been kept under close surveillance both to prevent their escape and for their own saftey. Against the wishes of othe party members, Zhang Chunqiao expressed his intent to have the refugees, dubbed renegades by the masses, tried for high treason. At the trial the renegades were made to read prepared speeches containing Maoist propaganda, although Deng Xiaoping deviated from his assigned speech and was forcibly removed from the courtroom. After several hours of largely theatrical proceedings, it has now come down to the judge to decide to adequate punishment, which will likely align with the wishes of the CPC."
+ PRC.2.a:0 "Having been found guilty of high treason, the renegades are sentenced to death!"
+ PRC.2.b:0 "It is best not to strain tensions with the Union too much, life imprisonment will suffice for now."
+ PRC.2.c:0 "We must not upset the careful balance in the region, return the renegades to the Union."
+ PRC.3.t:0 "Red Guard Demonstration Outside the Forbidden City"
+ PRC.3.desc:0 "Thousands of Red Guards have gathered outside the Forbidden City to espouse their support for Mao Zedong. While Red Guard demonstrations are common, they often are points of tension between themselves and the army. The demonstration took a violent turn when Red Guard members entered the Forbidden City, which has stood since 1420 as a symbol of the glory days of the Chinese Empire and was repurposed as a museum in 1925, and began to destroy the palace grounds in the name of Mao. Outraged, citizens of Beijing and members of the People's Liberation Army's Beijing Garrison have arrived at the palace to stop the Guards. However, the Red Guards are an unoffical extension of the CPC and supressing their demonstration is bound to cause issues in the future."
+ PRC.3.a:0 "The Forbidden City is an important part of our history and must be preserved!"
+ PRC.3.b:0 "Hurrah for the Red Guard! The grand symbol of the cruel emperors has finally been destroyed!"
