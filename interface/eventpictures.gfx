@@ -2424,5 +2424,15 @@ spriteTypes = {
 		name = "GFX_report_event_second_cultural_revolution"
 		texturefile = "gfx/event_pictures/report_event_second_cultural_revolution.dds"
 	}	
+
+	spriteType = {
+		name = "GFX_report_event_PLA_clash_with_red_guard"
+		texturefile = "gfx/event_pictures/report_event_PLA_clash_with_red_guard.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_qingdao_massacre"
+		texturefile = "gfx/event_pictures/report_event_qingdao_massacre.dds"
+	}	
 	
 }

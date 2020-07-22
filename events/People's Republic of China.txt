@@ -87,10 +87,97 @@ country_event = {
 	id = PRC.4
 	title = PRC.4.t
 	desc = PRC.4.desc
-	picture = GFX_report_event_red_guards_01
+	picture = GFX_report_event_second_cultural_revolution
 	
 	option = { # History repeats
 		name = PRC.4.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Red Guards Rally in Support of the Cultural Revolution
+country_event = {
+	id = PRC.5
+	title = PRC.5.t
+	desc = PRC.5.desc
+	picture = GFX_report_event_red_guards_02
+	
+	option = { # The rally shall be held
+		name = PRC.5.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Break up the rally
+		name = PRC.5.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#PLA Clashes with Red Guard
+country_event = {
+	id = PRC.6
+	title = PRC.6.t
+	desc = PRC.6.desc
+	picture = GFX_report_event_PLA_clash_with_red_guard
+	
+	option = { # Detain the soilders responsible
+		name = PRC.6.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # It's good to see someone standing up to the Red Guard
+		name = PRC.6.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Qingdao Massacre
+country_event = {
+	id = PRC.7
+	title = PRC.7.t
+	desc = PRC.7.desc
+	picture = GFX_report_event_qingdao_massacre
+	
+	option = { # The rally shall be held
+		name = PRC.7.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Break up the rally
+		name = PRC.7.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Break up the rally
+		name = PRC.7.c
 		ai_chance = {
 			base = 10
 			modifier = {
