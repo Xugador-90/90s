@@ -1,5 +1,5 @@
-﻿###########################
-# Baltic Events
+###########################
+# PRC Events
 ###########################
 
 add_namespace = PRC
@@ -158,7 +158,7 @@ country_event = {
 	desc = PRC.7.desc
 	picture = GFX_report_event_qingdao_massacre
 	
-	option = { # The rally shall be held
+	option = { # Execute the PLA soldiers responsible
 		name = PRC.7.a
 		ai_chance = {
 			base = 10
@@ -167,7 +167,7 @@ country_event = {
 		}
 	}
 
-	option = { # Break up the rally
+	option = { # Detain the soldiers responsible to placate the Red Guards, but do not fully give in to their demands
 		name = PRC.7.b
 		ai_chance = {
 			base = 10
@@ -176,8 +176,352 @@ country_event = {
 		}
 	}
 
-	option = { # Break up the rally
+	option = { # The Red Guard was out of control, the soldiers are not the ones at fault
 		name = PRC.7.c
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Yantai Hydrocarbon Plant Destroye
+country_event = {
+	id = PRC.8
+	title = PRC.8.t
+	desc = PRC.8.desc
+	picture = GFX_report_event_yantai_hydrocarbon
+	
+	option = { # Round up the Red Guards
+		name = PRC.8.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Let the Red Guards go
+		name = PRC.8.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Standoff Over Qiao Shi
+country_event = {
+	id = PRC.9
+	title = PRC.9.t
+	desc = PRC.9.desc
+	picture = GFX_report_event_qiao_shi_standoff
+	
+	option = { # Qiao Shi must remain in CPC custody
+		name = PRC.9.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Turn him over to Red Guard Custody
+		name = PRC.9.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#The End of the Revolution
+country_event = {
+	id = PRC.10
+	title = PRC.10.t
+	desc = PRC.10.desc
+	picture = GFX_report_event_end_of_the_revolution
+	
+	option = { # Perhaps we have finally learned from the mistakes of our past
+		name = PRC.10.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#March on the New Great Hall of the People
+country_event = {
+	id = PRC.11
+	title = PRC.11.t
+	desc = PRC.11.desc
+	picture = GFX_report_event_great_hall_march
+	
+	option = { # Accept the ultimatium
+		name = PRC.11.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Civil war
+		name = PRC.11.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Wang's Speech
+country_event = {
+	id = PRC.12
+	title = PRC.12.t
+	desc = PRC.12.desc
+	picture = GFX_report_event_red_guard_in_government
+	
+	option = { # The revolution continues
+		name = PRC.12.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Red Guard Civil War
+country_event = {
+	id = PRC.13
+	title = PRC.13.t
+	desc = PRC.13.desc
+	picture = GFX_report_event_red_guard_civil_war
+	
+	option = { # Crush the Red Guard
+		name = PRC.13.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#CWU Invasion
+country_event = {
+	id = PRC.14
+	title = PRC.14.t
+	desc = PRC.14.desc
+	picture = GFX_report_event_CWU_invasion
+	
+	option = { # Will we survive?
+		name = PRC.14.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Victory in the Civil War
+country_event = {
+	id = PRC.15
+	title = PRC.15.t
+	desc = PRC.15.desc
+	picture = GFX_report_event_victory_over_the_red_guards
+	
+	option = { # Glory to the republic
+		name = PRC.15.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Taiyuan Trials
+country_event = {
+	id = PRC.16
+	title = PRC.16.t
+	desc = PRC.16.desc
+	picture = GFX_report_event_taiyuan_trials
+	
+	option = { # Purge Yao
+		name = PRC.16.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Keep Yao
+		name = PRC.16.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#March of the Exiles
+country_event = {
+	id = PRC.17
+	title = PRC.17.t
+	desc = PRC.17.desc
+	picture = GFX_report_event_march_of_the_exiles
+	
+	option = { # Ironic
+		name = PRC.17.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#A New Central Committee
+country_event = {
+	id = PRC.18
+	title = PRC.18.t
+	desc = PRC.18.desc
+	picture = GFX_report_event_li_yuan_interview
+	
+	option = { # Military committee
+		name = PRC.18.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Politican committee
+		name = PRC.18.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Liu Yuan rules alone
+		name = PRC.18.c
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Reunification with the PRC
+country_event = {
+	id = PRC.19
+	title = PRC.19.t
+	desc = PRC.19.desc
+	picture = GFX_report_event_proposed_reunification
+	
+	option = { # Attend the negotiations
+		name = PRC.19.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Listen to the old guard
+		name = PRC.19.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#PRC-CWU Reunification Negotiations
+country_event = {
+	id = PRC.20
+	title = PRC.20.t
+	desc = PRC.20.desc
+	picture = GFX_report_event_reunification_negotiations
+	
+	option = { # Reunification
+		name = PRC.20.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Deny the terms
+		name = PRC.20.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#PRC Accepts Terms
+country_event = {
+	id = PRC.21
+	title = PRC.21.t
+	desc = PRC.21.desc
+	picture = GFX_report_event_PRC_accepts_terms
+	
+	option = { # China whole again
+		name = PRC.21.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#PRC Refuses Terms
+country_event = {
+	id = PRC.22
+	title = PRC.22.t
+	desc = PRC.22.desc
+	picture = GFX_report_event_PRC_refuses_terms
+	
+	option = { # Prepare for war
+		name = PRC.22.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Chinese Reunification Realized
+country_event = {
+	id = PRC.23
+	title = PRC.23.t
+	desc = PRC.23.desc
+	picture = GFX_report_event_reunification_celebration
+	
+	option = { # China united
+		name = PRC.23.a
 		ai_chance = {
 			base = 10
 			modifier = {

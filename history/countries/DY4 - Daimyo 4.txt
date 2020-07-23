@@ -21,3 +21,15 @@ set_popularities = {
 	techno_dictatorship = 0
 	proletarian_dictatorship = 6
 }
+
+create_country_leader = {
+	name = "Imperial Committee"
+	desc = "DAIMYO_IMPERIAL_COMMITTEE_DESC"
+	picture = "Portrait_Daimyo_Imperial_Committee.dds"
+	expire = "2020.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+

@@ -30,7 +30,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Nguyễn Cao Kỳ"
+	name = "Nguyen Cao Ky"
 	desc = "SVI_NGUYEN_CAO_KY_DESC"
 	picture = "Portrait_SVI_Nguyen_Cao_Ky.dds"
 	expire = "2020.1.1"

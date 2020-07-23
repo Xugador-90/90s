@@ -2391,13 +2391,13 @@ spriteTypes = {
 	}	
 
 	spriteType = {
-		name = "GFX_report_event_flood_the_streets"
-		texturefile = "gfx/event_pictures/report_event_flood_the_streets.dds"
+		name = "GFX_report_event_great_hall_march"
+		texturefile = "gfx/event_pictures/report_event_great_hall_march.dds"
 	}	
 
 	spriteType = {
-		name = "GFX_report_event_industrial_riot"
-		texturefile = "gfx/event_pictures/report_event_industrial_riot.dds"
+		name = "GFX_report_event_yantai_hydrocarbon"
+		texturefile = "gfx/event_pictures/report_event_yantai_hydrocarbon.dds"
 	}	
 
 	spriteType = {
@@ -2406,8 +2406,8 @@ spriteTypes = {
 	}	
 
 	spriteType = {
-		name = "GFX_report_event_qiao_shi_yacht"
-		texturefile = "gfx/event_pictures/report_event_qiao_shi_yacht.dds"
+		name = "GFX_report_event_qiao_shi_standoff"
+		texturefile = "gfx/event_pictures/report_event_qiao_shi_standoff.dds"
 	}	
 
 	spriteType = {
@@ -2434,5 +2434,64 @@ spriteTypes = {
 		name = "GFX_report_event_qingdao_massacre"
 		texturefile = "gfx/event_pictures/report_event_qingdao_massacre.dds"
 	}	
+
+	spriteType = {
+		name = "GFX_report_event_end_of_the_revolution"
+		texturefile = "gfx/event_pictures/report_event_end_of_the_revolution.dds"
+	}	
 	
+	spriteType = {
+		name = "GFX_report_event_red_guard_in_government"
+		texturefile = "gfx/event_pictures/report_event_red_guard_in_government.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_red_guard_civil_war"
+		texturefile = "gfx/event_pictures/report_event_red_guard_civil_war.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_CWU_invasion"
+		texturefile = "gfx/event_pictures/report_event_CWU_invasion.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_victory_over_the_red_guards"
+		texturefile = "gfx/event_pictures/report_event_victory_over_the_red_guards.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_taiyuan_trials"
+		texturefile = "gfx/event_pictures/report_event_taiyuan_trials.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_march_of_the_exiles"
+		texturefile = "gfx/event_pictures/report_event_march_of_the_exiles.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_proposed_reunification"
+		texturefile = "gfx/event_pictures/report_event_proposed_reunification.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_reunification_negotiations"
+		texturefile = "gfx/event_pictures/report_event_reunification_negotiations.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_PRC_accepts_terms"
+		texturefile = "gfx/event_pictures/report_event_PRC_accepts_terms.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_PRC_refuses_terms"
+		texturefile = "gfx/event_pictures/report_event_PRC_refuses_terms.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_reunification_celebration"
+		texturefile = "gfx/event_pictures/report_event_reunification_celebration.dds"
+	}	
 }
