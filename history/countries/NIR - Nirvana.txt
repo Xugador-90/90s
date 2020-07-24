@@ -23,7 +23,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Victory Pelevin"
+	name = "Victor Pelevin"
 	desc = "NIR_VICTOR_PELEVIN_DESC"
 	picture = "Portrait_NIR_Victor_Pelevin.dds"
 	expire = "2020.1.1"

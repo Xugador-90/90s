@@ -2381,13 +2381,8 @@ spriteTypes = {
 	}	
 
 	spriteType = {
-		name = "GFX_report_event_border_conflict_04"
-		texturefile = "gfx/event_pictures/report_event_border_conflict_04.dds"
-	}	
-
-	spriteType = {
-		name = "GFX_report_event_border_conflict_05"
-		texturefile = "gfx/event_pictures/report_event_border_conflict_05.dds"
+		name = "GFX_report_event_escalate_the_korean_conflict"
+		texturefile = "gfx/event_pictures/report_event_escalate_the_korean_conflict.dds"
 	}	
 
 	spriteType = {
@@ -2408,11 +2403,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_report_event_qiao_shi_standoff"
 		texturefile = "gfx/event_pictures/report_event_qiao_shi_standoff.dds"
-	}	
-
-	spriteType = {
-		name = "GFX_report_event_second_chinese_civil_war"
-		texturefile = "gfx/event_pictures/report_event_second_chinese_civil_war.dds"
 	}	
 
 	spriteType = {
@@ -2494,4 +2484,35 @@ spriteTypes = {
 		name = "GFX_report_event_reunification_celebration"
 		texturefile = "gfx/event_pictures/report_event_reunification_celebration.dds"
 	}	
+
+	spriteType = {
+		name = "GFX_report_event_second_chinese_civil_war_resumes"
+		texturefile = "gfx/event_pictures/report_event_second_chinese_civil_war_resumes.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_red_guard_recruitment"
+		texturefile = "gfx/event_pictures/report_event_red_guard_recruitment.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_nirvana_response_to_PRC"
+		texturefile = "gfx/event_pictures/report_event_nirvana_response_to_PRC.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_PRC_demands_refugees"
+		texturefile = "gfx/event_pictures/report_event_PRC_demands_refugees.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_reach_nirvana"
+		texturefile = "gfx/event_pictures/report_event_reach_nirvana.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_PRC_invasion_of_nirvana"
+		texturefile = "gfx/event_pictures/report_event_PRC_invasion_of_nirvana.dds"
+	}
+
 }

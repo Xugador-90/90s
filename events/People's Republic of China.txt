@@ -529,3 +529,221 @@ country_event = {
 		}
 	}
 }
+
+#Border Skirmish 1
+country_event = {
+	id = PRC.24
+	title = PRC.24.t
+	desc = PRC.24.desc
+	picture = GFX_report_event_border_conflict_01
+	
+	option = { # Offhand remark about CWU military
+		name = PRC.24.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Border Skirmish 2
+country_event = {
+	id = PRC.25
+	title = PRC.25.t
+	desc = PRC.25.desc
+	picture = GFX_report_event_border_conflict_02
+	
+	option = { # Offhand remark about CWU military
+		name = PRC.25.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Battle of Fir Ridge
+country_event = {
+	id = PRC.26
+	title = PRC.26.t
+	desc = PRC.26.desc
+	picture = GFX_report_event_border_conflict_03
+	
+	option = { # War seems inevitable
+		name = PRC.26.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Second Chinese Civil War Resumes
+country_event = {
+	id = PRC.27
+	title = PRC.27.t
+	desc = PRC.27.desc
+	picture = GFX_report_event_second_chinese_civil_war_resumes
+	
+	option = { # Visible as PRC
+		name = PRC.27.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+		trigger = {
+			tag = PRC
+		}
+	}
+
+	option = { # Visible as CWU
+		name = PRC.27.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+		trigger = {
+			tag = CWU
+		}
+	}
+
+	option = { # Visible as Chinese minor
+		name = PRC.27.c
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+		trigger = {
+			NOT = {
+				tag = PRC
+				tag = CWU
+			}
+		}
+	}
+}
+
+#Red Guards Volunteer for Combat
+country_event = {
+	id = PRC.28
+	title = PRC.28.t
+	desc = PRC.28.desc
+	picture = GFX_report_event_red_guard_recruitment
+	
+	option = { # To our boys in red
+		name = PRC.28.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Reach Nirvana
+country_event = {
+	id = PRC.29
+	title = PRC.29.t
+	desc = PRC.29.desc
+	picture = GFX_report_event_reach_nirvana
+	
+	option = { # Diplomatic Route
+		name = PRC.29.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Invasion
+		name = PRC.29.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#PRC Requests Return of Cultists
+country_event = {
+	id = PRC.30
+	title = PRC.30.t
+	desc = PRC.30.desc
+	picture = GFX_report_event_PRC_demands_refugees
+	
+	option = { # Return cultists
+		name = PRC.30.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+
+	option = { # Invasion
+		name = PRC.30.b
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Nirvana Returns Cultists
+country_event = {
+	id = PRC.31
+	title = PRC.31.t
+	desc = PRC.31.desc
+	picture = GFX_report_event_nirvana_response_to_PRC
+	
+	option = { # Okay
+		name = PRC.31.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#Nirvana Doesn't Return Cultists
+country_event = {
+	id = PRC.32
+	title = PRC.32.t
+	desc = PRC.32.desc
+	picture = GFX_report_event_nirvana_response_to_PRC
+	
+	option = { # Invasion
+		name = PRC.32.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}
+
+#PRC Invades Nirvana to Resuce Cultists
+country_event = {
+	id = PRC.33
+	title = PRC.33.t
+	desc = PRC.33.desc
+	picture = GFX_report_event_PRC_invasion_of_nirvana
+	
+	option = { # Fight to the last man
+		name = PRC.33.a
+		ai_chance = {
+			base = 10
+			modifier = {
+			}
+		}
+	}
+}

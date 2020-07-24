@@ -7,8 +7,8 @@ state={
 		victory_points = {
 			2054 1 
 		}
-		owner = RSS
-		add_core_of = RSS
+		owner = PSR
+		add_core_of = PSR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
