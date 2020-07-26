@@ -1,0 +1,339 @@
+focus_tree = {
+	id = el_turco
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = ARG
+		}
+	}
+	default = no
+	focus = {
+		id = the_rose_house
+		icon = GFX_focus_spa_the_spanish_miracle
+		cost = 10,00
+		x = 8
+		y = 0
+
+	}
+	focus = {
+		id = meet_bureaucrats
+		icon = GFX_goal_generic_major_alliance
+		cost = 10,00
+		prerequisite = {
+			focus = the_rose_house
+		}
+		x = 6
+		y = 1
+
+	}
+	focus = {
+		id = meet_captains
+		icon = GFX_focus_mex_privatisation
+		cost = 10,00
+		prerequisite = {
+			focus = the_rose_house
+		}
+		x = 10
+		y = 1
+
+	}
+	focus = {
+		id = meeting_intellectuals
+		icon = GFX_goal_generic_scientific_exchange
+		cost = 10,00
+		prerequisite = {
+			focus = the_rose_house
+		}
+		x = 8
+		y = 1
+
+	}
+	focus = {
+		id = discuss_organisation
+		icon = GFX_goal_generic_position_armies
+		cost = 10,00
+		prerequisite = {
+			focus = meet_captains
+		}
+		prerequisite = {
+			focus = meeting_intellectuals
+		}
+		prerequisite = {
+			focus = meet_bureaucrats
+		}
+		x = 7
+		y = 2
+
+	}
+	focus = {
+		id = discussing_cost
+		icon = GFX_goal_generic_production
+		cost = 10,00
+		prerequisite = {
+			focus = meet_captains
+		}
+		prerequisite = {
+			focus = meeting_intellectuals
+		}
+		prerequisite = {
+			focus = meet_bureaucrats
+		}
+		x = 9
+		y = 2
+
+	}
+	focus = {
+		id = plan_rosa
+		icon = GFX_focus_spa_save_the_alcazar
+		cost = 10,00
+		prerequisite = {
+			focus = discussing_cost
+		}
+		prerequisite = {
+			focus = discuss_organisation
+		}
+		x = 8
+		y = 3
+
+	}
+	focus = {
+		id = plan_passes
+		icon = GFX_focus_hol_the_foundations_of_defense
+		cost = 10,00
+		prerequisite = {
+			focus = plan_rosa
+		}
+		mutually_exclusive = {
+			focus = bill_fails
+		}
+		x = 3
+		y = 4
+
+	}
+	focus = {
+		id = bill_fails
+		icon = GFX_focus_renounce_the_treaty_of_triannon
+		cost = 10,00
+		prerequisite = {
+			focus = plan_rosa
+		}
+		mutually_exclusive = {
+			focus = plan_passes
+		}
+		x = 13
+		y = 4
+
+	}
+	focus = {
+		id = unifying_front
+		icon = GFX_goal_support_democracy
+		cost = 10,00
+		prerequisite = {
+			focus = bill_fails
+		}
+		x = 13
+		y = 5
+
+	}
+	focus = {
+		id = contact_elite
+		icon = GFX_focus_eng_concessions_to_the_trade_unions
+		cost = 10,00
+		prerequisite = {
+			focus = unifying_front
+		}
+		x = 11
+		y = 6
+
+	}
+	focus = {
+		id = contact_monte_videan
+		icon = GFX_focus_por_the_fifth_empire
+		cost = 10,00
+		prerequisite = {
+			focus = unifying_front
+		}
+		x = 13
+		y = 6
+
+	}
+	focus = {
+		id = urquizas_agreement
+		icon = GFX_focus_por_iberian_summit
+		cost = 10,00
+		prerequisite = {
+			focus = contact_monte_videan
+		}
+		x = 13
+		y = 7
+
+	}
+	focus = {
+		id = promise_more_control
+		icon = GFX_focus_generic_the_giant_wakes
+		cost = 10,00
+		prerequisite = {
+			focus = contact_elite
+		}
+		x = 11
+		y = 7
+
+	}
+	focus = {
+		id = menemist_theory
+		icon = GFX_goal_generic_positive_trade_relations
+		cost = 10,00
+		prerequisite = {
+			focus = plan_passes
+		}
+		x = 3
+		y = 5
+
+	}
+	focus = {
+		id = break_the_dam
+		icon = GFX_focus_hol_prepare_the_inundation_lines
+		cost = 10,00
+		prerequisite = {
+			focus = menemist_theory
+		}
+		x = 1
+		y = 6
+
+	}
+	focus = {
+		id = bring_in_masses
+		icon = GFX_focus_spr_the_anti_fascist_workers_revolution
+		cost = 10,00
+		prerequisite = {
+			focus = menemist_theory
+		}
+		x = 5
+		y = 6
+
+	}
+	focus = {
+		id = even_questionable
+		icon = GFX_goal_generic_forceful_treaty
+		cost = 10,00
+		prerequisite = {
+			focus = bring_in_masses
+		}
+		x = 5
+		y = 7
+
+	}
+	focus = {
+		id = peronist_spirit
+		icon = GFX_goal_generic_national_unity
+		cost = 10,00
+		prerequisite = {
+			focus = menemist_theory
+		}
+		x = 3
+		y = 7
+
+	}
+	focus = {
+		id = mixed_system
+		icon = GFX_goal_generic_consumer_goods
+		cost = 10,00
+		prerequisite = {
+			focus = break_the_dam
+		}
+		x = 1
+		y = 7
+
+	}
+	focus = {
+		id = proudly_standing
+		icon = GFX_focus_por_salazar
+		cost = 10,00
+		prerequisite = {
+			focus = even_questionable
+		}
+		prerequisite = {
+			focus = peronist_spirit
+		}
+		prerequisite = {
+			focus = mixed_system
+		}
+		x = 3
+		y = 8
+
+	}
+	focus = {
+		id = deal_with_remnants
+		icon = GFX_focus_spa_eliminate_the_carlists
+		cost = 10,00
+		prerequisite = {
+			focus = proudly_standing
+		}
+		x = 3
+		y = 9
+
+	}
+	focus = {
+		id = sway_masses
+		icon = GFX_goal_generic_radar
+		cost = 10,00
+		prerequisite = {
+			focus = unifying_front
+		}
+		x = 15
+		y = 6
+
+	}
+	focus = {
+		id = raise_loyalists
+		icon = GFX_focus_fra_milice
+		cost = 10,00
+		prerequisite = {
+			focus = sway_masses
+		}
+		x = 15
+		y = 7
+
+	}
+	focus = {
+		id = bring_tyrant_down
+		icon = GFX_focus_focus_fra_down_marianne
+		cost = 10,00
+		prerequisite = {
+			focus = urquizas_agreement
+		}
+		prerequisite = {
+			focus = promise_more_control
+		}
+		prerequisite = {
+			focus = raise_loyalists
+		}
+		x = 13
+		y = 8
+
+	}
+	focus = {
+		id = pass_reforms
+		icon = GFX_focus_spr_torchbearers_of_tomorrow
+		cost = 10,00
+		prerequisite = {
+			focus = bring_tyrant_down
+		}
+		x = 13
+		y = 9
+
+	}
+	focus = {
+		id = looking_outwards
+		icon = GFX_focus_por_recover_latin_america
+		cost = 10,00
+		prerequisite = {
+			focus = pass_reforms
+			focus = deal_with_remnants
+		}
+		x = 8
+		y = 10
+
+	}
+}
