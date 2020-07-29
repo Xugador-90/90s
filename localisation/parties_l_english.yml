@@ -95,3 +95,8 @@
  UST_techno_dictatorship_party:0 "Buerau Influence"
  UST_proletarian_dictatorship_party:0 "SPDA"
  UST_proletarian_dictatorship_party_long:0 "The Social Democratic Party of America"
+ IZM_republicanism_party:0 "DSP"
+ IZM_republicanism_party_long:0 "Demokratik Sol Parti (Democratic Left Party)"
+ IZM_bureaucratic_socialism:0 "SDP"
+ IZM_bureaucratic_socialism_long:0 "Sosyal Devlet Partisi (Social State Party)"
+
