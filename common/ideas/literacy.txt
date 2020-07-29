@@ -10,7 +10,8 @@ ideas = {
 			
 
 			modifier = {
-				
+				research_speed_factor = -0.5
+				party_popularity_stability_factor = 0.20
 			}
 
 			cost = 0
@@ -24,10 +25,12 @@ ideas = {
 
 		#Literate Elites
 		literacy_literate_elites = {
-			
+
+			default = yes
 
 			modifier = {
-				
+				research_speed_factor = -0.25
+				party_popularity_stability_factor = 0.1
 			}
 
 			cost = 150
@@ -44,7 +47,7 @@ ideas = {
 			
 
 			modifier = {
-				
+				research_speed_factor = -0.10
 			}
 
 			cost = 300
@@ -61,7 +64,8 @@ ideas = {
 			
 
 			modifier = {
-				
+				research_speed_factor = 0.1
+				party_popularity_stability_factor = -0.1
 			}
 
 			cost = 450
@@ -78,7 +82,8 @@ ideas = {
 			
 
 			modifier = {
-				
+				research_speed_factor = 0.25
+				party_popularity_stability_factor = -0.2
 			}
 
 			cost = 600

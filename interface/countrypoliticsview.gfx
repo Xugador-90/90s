@@ -645,8 +645,8 @@ spriteTypes = {
 		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}
-
-	### Custom Ideologies ###
+	
+### Custom Ideologies ###
 	spriteType = {
 		name = "GFX_ideology_autocracy_group"
 		texturefile = "gfx/interface/ideologies/autocracy_group.dds"

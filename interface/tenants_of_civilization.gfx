@@ -1,0 +1,42 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_literacy_commonplace_literacy"
+		texturefile = "gfx/interface/ideas/literacy_commonplace_literacy.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_literacy_illiterate_society"
+		texturefile = "gfx/interface/ideas/literacy_illiterate_society.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_literacy_moderate_literacy"
+		texturefile = "gfx/interface/ideas/literacy_moderate_literacy.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_literacy_literate_elites"
+		texturefile = "gfx/interface/ideas/literacy_literate_elites.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_literacy_literate_masses"
+		texturefile = "gfx/interface/ideas/literacy_literate_masses.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_industrialization_agrarian_society"
+		texturefile = "gfx/interface/ideas/industrialization_agrarian_society.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_industrialization_rural_industry"
+		texturefile = "gfx/interface/ideas/industrialization_rural_industry.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_industrialization_small_scale_factories"
+		texturefile = "gfx/interface/ideas/industrialization_small_scale_factories.dds"
+	}
+}

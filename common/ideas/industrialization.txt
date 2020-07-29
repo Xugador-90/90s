@@ -7,10 +7,16 @@ ideas = {
 		
 		#Agrarian Society
 		industrialization_agrarian_society = {
-			
+
+			default = yes
 
 			modifier = {
-				
+				production_factory_max_efficiency_factor = -0.5
+				line_change_production_efficiency_factor = -0.25
+				production_speed_buildings_factor = -0.35
+				conversion_cost_civ_to_mil_factor = 1
+				industry_repair_factor = -1
+				production_oil_factor = -0.75
 			}
 
 			cost = 0
@@ -27,7 +33,12 @@ ideas = {
 			
 
 			modifier = {
-				
+				production_factory_max_efficiency_factor = -0.25
+				line_change_production_efficiency_factor = -0.1
+				production_speed_buildings_factor = -0.15
+				conversion_cost_civ_to_mil_factor = 0.5
+				industry_repair_factor = -0.5
+				production_oil_factor = -0.25
 			}
 
 			cost = 150
@@ -44,7 +55,12 @@ ideas = {
 			
 
 			modifier = {
-				
+				production_factory_max_efficiency_factor = -0.1
+				line_change_production_efficiency_factor = -0.05
+				production_speed_buildings_factor = 0.05
+				conversion_cost_civ_to_mil_factor = -0.1
+				industry_repair_factor = 0.05
+				production_oil_factor = -0.1
 			}
 
 			cost = 300
@@ -61,7 +77,12 @@ ideas = {
 			
 
 			modifier = {
-				
+				production_factory_max_efficiency_factor = 0.05
+				line_change_production_efficiency_factor = 0.1
+				production_speed_buildings_factor = 0.15
+				conversion_cost_civ_to_mil_factor = -0.2
+				industry_repair_factor = 0.25
+				production_oil_factor = 0.1
 			}
 
 			cost = 450
@@ -78,7 +99,12 @@ ideas = {
 			
 
 			modifier = {
-				
+				production_factory_max_efficiency_factor = 0.05
+				line_change_production_efficiency_factor = 0.1
+				production_speed_buildings_factor = 0.15
+				conversion_cost_civ_to_mil_factor = -0.2
+				industry_repair_factor = 0.25
+				production_oil_factor = 0.1
 			}
 
 			cost = 600

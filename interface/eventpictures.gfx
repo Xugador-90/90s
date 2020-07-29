@@ -2481,8 +2481,8 @@ spriteTypes = {
 	}	
 
 	spriteType = {
-		name = "GFX_report_event_reunification_celebration"
-		texturefile = "gfx/event_pictures/report_event_reunification_celebration.dds"
+		name = "GFX_report_event_reunification_celebration_01"
+		texturefile = "gfx/event_pictures/report_event_reunification_celebration_01.dds"
 	}	
 
 	spriteType = {
@@ -2496,8 +2496,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_report_event_nirvana_response_to_PRC"
-		texturefile = "gfx/event_pictures/report_event_nirvana_response_to_PRC.dds"
+		name = "GFX_report_event_blank"
+		texturefile = "gfx/event_pictures/report_event_blank.dds"
 	}
 
 	spriteType = {
@@ -2515,4 +2515,53 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/report_event_PRC_invasion_of_nirvana.dds"
 	}
 
+	spriteType = {
+		name = "GFX_report_event_reunification_celebration_02"
+		texturefile = "gfx/event_pictures/report_event_reunification_celebration_02.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_report_event_subjugate_southern_warlords"
+		texturefile = "gfx/event_pictures/report_event_subjugate_southern_warlords.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_unrest_in_korea"
+		texturefile = "gfx/event_pictures/report_event_unrest_in_korea.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_korean_rebellion"
+		texturefile = "gfx/event_pictures/report_event_korean_rebellion.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_zhang_youxia_assassinated"
+		texturefile = "gfx/event_pictures/report_event_zhang_youxia_assassinated.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_zhang_youxia_assassinated"
+		texturefile = "gfx/event_pictures/report_event_zhang_youxia_assassinated.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_korean_conflict_ends_01"
+		texturefile = "gfx/event_pictures/report_event_korean_conflict_ends_01.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_korean_conflict_ends_02"
+		texturefile = "gfx/event_pictures/report_event_korean_conflict_ends_02.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_FER_volunteers"
+		texturefile = "gfx/event_pictures/report_event_FER_volunteers.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_talks_with_the_KIF"
+		texturefile = "gfx/event_pictures/report_event_talks_with_the_KIF.dds"
+	}
 }
