@@ -1,21 +1,20 @@
-
 state={
 	id=804
 	name="Cusco"
 
 	history={
-		owner = SHI
+		owner = PRU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 
 		}
-		add_core_of = SHI
+		add_core_of = PRU
 
 	}
 
 	provinces={
-		2182 5166 8160 8191 10940 12953 13260 13262 13263 
+		5166 8191 10940 13262 13263 
 	}
 	manpower=70020
 	buildings_max_level_factor=1.000

@@ -1,0 +1,22 @@
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		add_core_of = KAR
+		owner = KAR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1253 4319 4348 4408 4566 4654 7312 7441 7559 7587 7675 10193 12238 12317 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

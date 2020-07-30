@@ -1,0 +1,22 @@
+state={
+	id=837
+	name="STATE_837"
+
+	history={
+		add_core_of = YAW
+		owner = YAW
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1170 1566 1607 2061 4175 4210 7400 7562 7603 7647 7909 7974 12363 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

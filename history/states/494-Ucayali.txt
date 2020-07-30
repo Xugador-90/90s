@@ -4,17 +4,17 @@ state={
 	name="STATE_494"
 
 	history={
-		owner = PRU
+		owner = SHI
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = PRU
+		add_core_of = SHI
 
 	}
 
 	provinces={
-		2212 2226 13259 13265 13266 
+		2162 2212 2226 8160 12953 13260 13265 13266 
 	}
 	manpower=735826
 	buildings_max_level_factor=1.000

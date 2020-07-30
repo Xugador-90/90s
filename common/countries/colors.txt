@@ -215,11 +215,6 @@ KYU = {
 	color_ui = rgb { 75 136 162 }
 }
 
-UST = {
-	color = rgb { 0 96 169 }
-	color_ui = rgb { 0 96 169 }
-}
-
 SLA = {
 	color = rgb { 130 97 70 }
 	color_ui = rgb { 130 97 70 }
@@ -289,11 +284,6 @@ DEN = {
 	color = rgb { 191 129 45 }
 	color_ui = rgb { 191 129 45 }
 }
-
-#TAG = {
-#	color = rgb {151 151 151 }
-#	color_ui = rgb { 151 151 151 }
-#}
 
 TAI = {
 	color = rgb { 194 208 118 }

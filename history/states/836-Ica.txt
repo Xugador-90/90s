@@ -1,0 +1,26 @@
+state={
+	id=836
+	name="Ica"
+
+	history={
+		owner = PRU
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 3
+
+		}
+		add_core_of = PRU
+		victory_points = {
+			12997 5 
+		}
+
+	}
+
+	provinces={
+		2210 2225 5202 13086 13256 13257 13258 13259 13261 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+}
