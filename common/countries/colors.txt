@@ -660,3 +660,8 @@ IZM = {
 	color = rgb { 64 252 255 }
 	color_ui = rgb { 64 252 255 }
 }
+
+IST = {
+	color = rgb { 245 216 0 }
+	color_ui = rgb { 245 216 0 }
+}

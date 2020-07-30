@@ -1,0 +1,40 @@
+capital = 341
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1988.1.30"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 70
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 10
+	autocracy = 0
+	bureaucratic_socialism = 20
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Cem Uzan"
+	#desc = "SGR_RICHARD_VON_WEIZSACKER_DESC"
+	#picture = "Portrait_SGR_Richard_von_Weizsacker.dds"
+	expire = "2020.1.1"
+	ideology = trader_republic
+	traits = {
+		#
+	}
+}

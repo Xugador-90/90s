@@ -99,4 +99,11 @@
  IZM_republicanism_party_long:0 "Demokratik Sol Parti (Democratic Left Party)"
  IZM_bureaucratic_socialism:0 "SDP"
  IZM_bureaucratic_socialism_long:0 "Sosyal Devlet Partisi (Social State Party)"
+ IST_republicanism_party:0 "IŞB"
+ IST_republicanism_party_long:0 "Istanbul Şirketler Birliği (Istanbul Corporation Union)"
+ IST_bureaucratic_socialism_party:0 "IKH"
+ IST_bureaucratic_socialism_party_long:0 "Istanbul Komünist Hareketi (Istanbul Communist Movement)"
+ IST_neo_fascism_party:0 "IBÇ"
+ IST_neo_fascism_party_long:0 "Istanbul Bozkurt Çeteleri (Istanbul Greywolf Gangs)"
+
 
