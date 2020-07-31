@@ -660,3 +660,38 @@ ADA = {
 	color = rgb { 235 55 52 }
 	color_ui = rgb { 235 55 52 }
 }
+
+MYA = {
+	color = rgb { 39 144 87 }
+	color_ui = rgb { 39 144 87 }
+}
+
+YAW = {
+	color = rgb { 84 23 99 }
+	color_ui = rgb { 84 23 99 }
+}
+
+KAR = {
+	color = rgb { 23 77 100 }
+	color_ui = rgb { 23 77 100 }
+}
+
+THA = {
+	color = rgb { 54 89 89 }
+	color_ui = rgb { 54 89 89 }
+}	
+
+ISN = {
+	color = rgb { 36 51 107 }
+	color_ui = rgb { 36 51 107 }
+}	
+
+CAB = {
+	color = rgb { 100 117 6 }
+	color_ui = rgb { 100 117 6 }
+}	
+
+LAO = {
+	color = rgb { 74 130 107 }
+	color_ui = rgb { 74 130 107 }
+}	

@@ -1,6 +1,6 @@
 state={
 	id=839
-	name="STATE_839"
+	name="Isan"
 
 	history={
 		owner = ISN

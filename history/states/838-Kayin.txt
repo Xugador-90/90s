@@ -1,6 +1,6 @@
 state={
 	id=838
-	name="STATE_838"
+	name="Kayin"
 
 	history={
 		add_core_of = KAR

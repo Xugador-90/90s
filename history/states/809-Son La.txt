@@ -5,8 +5,8 @@ state={
 		1464 1507 7356 10330 10356 10456 10496 12332 
 	}
 	history={
-		owner = SVI
-		add_core_of = SVI
+		owner = ISN
+		add_core_of = ISN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
