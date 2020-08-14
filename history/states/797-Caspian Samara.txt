@@ -2,7 +2,7 @@ state={
 	id=797
 	name="Caspian Samara"
 	history={
-		owner = SAM
+		owner = g
 		buildings = {
 			infrastructure = 1
 			7477 = {
@@ -12,7 +12,7 @@ state={
 		victory_points = {
 			7477 1 
 		}
-		add_core_of = SAM
+		add_core_of = g
 	}
 	provinces={
 		7477 7563 10406 4563

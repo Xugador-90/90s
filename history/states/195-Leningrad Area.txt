@@ -4,7 +4,7 @@ state={
 	name="STATE_195"
 
 	history={
-		owner = BAL
+		owner = LEN
 		victory_points = {
 			3151 30.0 
 		}
@@ -19,9 +19,21 @@ state={
 				coastal_bunker = 5
 
 			}
+			9100 = {
+				bunker = 2
+
+			}
+			9105 = {
+				bunker = 2
+
+			}
+			9206 = {
+				coastal_bunker = 1
+
+			}
 
 		}
-		add_core_of = BAL
+		add_core_of = LEN
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 7
@@ -33,7 +45,7 @@ state={
 	}
 
 	provinces={
-		79 6174 9164 11068 
+		79 149 3060 3151 6174 9100 9105 9150 9164 9206 11068 11162 
 	}
 	manpower=3750158
 	buildings_max_level_factor=1.000

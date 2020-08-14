@@ -1,4 +1,0 @@
-graphical_culture = asian_gfx
-graphical_culture_2d = asian_gfx
-
-color = rgb { 24 32 67 }

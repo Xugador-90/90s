@@ -4,7 +4,7 @@ state={
 	name="STATE_247"
 
 	history={
-		owner = RUP
+		owner = NWC
 		victory_points = {
 			6245 10 
 		}
@@ -13,12 +13,12 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = RUP
+		add_core_of = NWC
 
 	}
 
 	provinces={
-		85 150 3143 3323 6022 6122 6203 6245 6346 9046 9144 9256 11084 
+		85 150 3077 3143 6056 6101 6122 6143 6167 6203 9144 9188 11039 11084 11166 13128 
 	}
 	manpower=1331211
 	buildings_max_level_factor=1.000

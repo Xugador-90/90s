@@ -4,17 +4,17 @@ state={
 	name="STATE_587"
 
 	history={
-		owner = I09
+		owner = TEM
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = I09
+		add_core_of = TEM
 
 	}
 
 	provinces={
-		475 1517 3593 4523 4620 7541 7641 10262 10348 10435 10485 11701 12383 12454 12474 13207 
+		475 1517 3593 4523 4620 7641 10262 11701 12383 
 	}
 	manpower=245133
 	buildings_max_level_factor=1.000

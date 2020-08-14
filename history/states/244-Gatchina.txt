@@ -4,12 +4,12 @@ state={
 	name="STATE_244"
 
 	history={
-		owner = DEA
+		owner = NWC
 		buildings = {
 			infrastructure = 5
 
 		}
-		add_core_of = DEA
+		add_core_of = NWC
 		victory_points = {
 			9197 1 
 		}
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		57 70 152 172 3140 3142 6131 9082 9184 9190 9197 11059 11174 
+		57 70 152 172 3140 3142 6131 6169 9082 9107 9184 9190 9197 11059 11174 
 	}
 	manpower=195325
 	buildings_max_level_factor=1.000
