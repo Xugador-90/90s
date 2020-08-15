@@ -6,6 +6,13 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = {
+	TEM_oil
+	TEM_Karaoghlanlar
+	TEM_Poison
+	TEM_Tamag
+}
+
 set_convoys = 0
 
 set_politics = {
@@ -27,11 +34,11 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "#"
-	desc = "#"
-	picture = "#"
+	name = "Erlik Khan"
+	desc = "TEM_ERLIK_KHAN_DESC"
+	picture = "gfx/leaders/TEM/TEM_Erlik_Khan.tga"
 	expire = "2020.1.1"
-	ideology = paramilitary_dictatorship
+	ideology = post_punk_dictatorship
 	traits = {
 		#
 	}

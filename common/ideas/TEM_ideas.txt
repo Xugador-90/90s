@@ -1,0 +1,45 @@
+ideas = {
+
+	country = { 
+		TEM_oil = {
+			
+			allowed = {
+				original_tag = TEM
+			}
+
+			picture = TEM_oil
+			
+			removal_cost = -1
+		}
+		TEM_Karaoghlanlar = {
+			
+			allowed = {
+				original_tag = TEM
+			}
+
+			picture = TEM_Karaoghlanlar
+			
+			removal_cost = -1
+		}
+		TEM_Poison = {
+			
+			allowed = {
+				original_tag = TEM
+			}
+
+			picture = TEM_Poison
+			
+			removal_cost = -1
+		}
+		TEM_Tamag = {
+			
+			allowed = {
+				original_tag = TEM
+			}
+
+			picture = TEM_Tamag
+			
+			removal_cost = -1
+		}
+	}
+}

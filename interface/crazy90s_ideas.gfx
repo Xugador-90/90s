@@ -1,0 +1,24 @@
+spriteTypes = {	
+
+	###################
+	## The Crazy 90s ##
+	#### Ideas GFX ####
+	###################
+
+	spriteType = {
+		name = "GFX_idea_TEM_oil"
+		texturefile = "gfx/interface/ideas/TEM/TEM_oil.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEM_Karaoghlanlar"
+		texturefile = "gfx/interface/ideas/TEM/TEM_Karaoghlanlar.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEM_Poison"
+		texturefile = "gfx/interface/ideas/TEM/TEM_Poison.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEM_Tamag"
+		texturefile = "gfx/interface/ideas/TEM/TEM_Tamag.png"
+	}
+}
