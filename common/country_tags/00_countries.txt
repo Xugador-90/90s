@@ -131,3 +131,4 @@ COS = "countries/Imperial Cossack Union.txt"
 TEM = "countries/Temir Orda"
 FIN = "countries/Finish Khanagate.txt"
 TUR = "countries/Kemalist Turkey.txt"
+JIT = "countries/JITEM.txt

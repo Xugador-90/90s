@@ -574,4 +574,9 @@ TEM = {
 TUR = {
 	color = rgb { 175 13 0 }
 	color_ui = rgb { 175 13 0 }
+}
+
+JIT = {
+	color = rgb { 70 61 134 }
+	color_ui = rgb { 70 61 134 }
 }	
