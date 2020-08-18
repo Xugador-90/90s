@@ -109,8 +109,11 @@
  ADA_republicanism_party_long:0 "Milliyetçi Hareket Partisi (National Movement Party)"
  ADA_neo_fascism_party:0 "Türkeşçiler Birliği (Turkeshists)"
  ADA_autocracy_party:0 "Cuntacılar"
- ADA_autocracy_party:0 "Cuntacılar (Army Junta-Ankara Loyalists)"
+ ADA_autocracy_party_long:0 "Cuntacılar (Army Junta-Ankara Loyalists)"
  TEM_atomic_dictatorship_party:0 "Karaoğlanlar"
+ TUR_neo_fascism_party:0 "Kemalist Ordu Yönetim Kurulu"
+ TUR_neo_fascism_party_long:0 "Kemalist Ordu Yönetim Kurulu (Kemalist Army Administiration Council)"
+
  
 
 

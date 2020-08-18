@@ -566,8 +566,12 @@ LAO = {
 	color_ui = rgb { 74 130 107 }
 }	
 
-
 TEM = {
 	color = rgb { 140 24 39 }
 	color_ui = rgb { 140 24 39 }
+}
+
+TUR = {
+	color = rgb { 175 13 0 }
+	color_ui = rgb { 175 13 0 }
 }	
