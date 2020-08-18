@@ -101,6 +101,8 @@
  IZM_bureaucratic_socialism_long:0 "Sosyal Devlet Partisi (Social State Party)"
  IST_republicanism_party:0 "IŞB"
  IST_republicanism_party_long:0 "Istanbul Şirketler Birliği (Istanbul Corporation Union)"
+ IST_atomic_dictatorship_party:0 "Yeni Gençlik Klübü"
+ IST_atomic_dictatorship_party_long:0 "Yeni Gençlik Klübü (New Youth Club)"
  IST_bureaucratic_socialism_party:0 "IKH"
  IST_bureaucratic_socialism_party_long:0 "Istanbul Komünist Hareketi (Istanbul Communist Movement)"
  IST_neo_fascism_party:0 "IBÇ"
@@ -111,10 +113,11 @@
  ADA_autocracy_party:0 "Cuntacılar"
  ADA_autocracy_party_long:0 "Cuntacılar (Army Junta-Ankara Loyalists)"
  TEM_atomic_dictatorship_party:0 "Karaoğlanlar"
- TUR_neo_fascism_party:0 "Kemalist Ordu Yönetim Kurulu"
- TUR_neo_fascism_party_long:0 "Kemalist Ordu Yönetim Kurulu (Kemalist Army Administiration Council)"
+ TUR_autocracy_party:0 "Kemalist Ordu Yönetim Kurulu"
+ TUR_autocracy_party_long:0 "Kemalist Ordu Yönetim Kurulu (Kemalist Army Administiration Council)"
  JIT_autocracy_party:0 "JITEM Kurulu"
  JIT_tribalism_party:0 "Aşiret Vakfı"
+ TBL_proletarian_dictatorship_party:0 "Anarchist Comittee"
 
  
 

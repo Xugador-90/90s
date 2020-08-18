@@ -1,0 +1,31 @@
+ideas = {
+
+country = {
+
+IST_Bateman = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea IST_Bateman" }
+			picture = IST_Bateman
+			modifier = {
+			political_power_gain = 0.5
+			stability_factor = -0.05
+			war_support_factor = -0.30
+			production_speed_buildings_factor = 0.2
+			republicanism_drift = 0.01
+			}
+		}
+IST_Youth_Wild = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea IST_Youth_Wild" }
+			picture = IST_Youth_Wild
+			modifier = {
+			stability_factor = -0.20
+			war_support_factor = -0.30
+			production_speed_buildings_factor = 0.2
+			army_org = -10
+			army_attack_factor = -0.1
+			neo_fascism_drift = 0.01
+			bureaucratic_socialism_drift = 0.01	
+			atomic_dictatorship_drift = 0.09
+			}
+		}		
+	}
+}		

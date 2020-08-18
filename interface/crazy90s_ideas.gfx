@@ -21,4 +21,12 @@ spriteTypes = {
 		name = "GFX_idea_TEM_Tamag"
 		texturefile = "gfx/interface/ideas/TEM/TEM_Tamag.png"
 	}
+	spriteType = {
+		name = "GFX_idea_IST_Bateman"
+		texturefile = "gfx/interface/ideas/IST/IST_Bateman.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_IST_Youth_Wild"
+		texturefile = "gfx/interface/ideas/IST/IST_Youth_Wild.tga"
+	}
 }

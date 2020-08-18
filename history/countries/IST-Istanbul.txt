@@ -6,6 +6,9 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = IST_Bateman
+add_ideas = IST_Youth_Wild
+
 set_convoys = 0
 
 set_politics = {
@@ -15,14 +18,14 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 70
-	atomic_dictatorship = 0
+	republicanism = 50
+	atomic_dictatorship = 30
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
-	neo_fascism = 10
+	neo_fascism = 0
 	autocracy = 0
 	bureaucratic_socialism = 20
 	maoism_ideology = 0

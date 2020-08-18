@@ -1,4 +1,4 @@
-capital = 49
+capital = 341
 
 oob = ""
 
@@ -9,10 +9,10 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = proletarian_dictatorship
 	last_election = "1988.1.30"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	republicanism = 0
@@ -21,19 +21,19 @@ set_popularities = {
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 0
+	proletarian_dictatorship = 100
 	neo_fascism = 0
-	autocracy = 100
+	autocracy = 0
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
 
 create_country_leader = {
-	name = "Kenan Evren"
+	name = "Turkish Anarchist Comitee"
 	#desc = "SGR_RICHARD_VON_WEIZSACKER_DESC"
-	#picture = "Portrait_SGR_Richard_von_Weizsacker.dds"
+	picture = "Portrait_IST_Cem_Uzan.dds"
 	expire = "2020.1.1"
-	ideology = military_junta
+	ideology = anarcho_socialism
 	traits = {
 		#
 	}

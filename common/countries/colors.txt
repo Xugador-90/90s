@@ -579,4 +579,9 @@ TUR = {
 JIT = {
 	color = rgb { 70 61 134 }
 	color_ui = rgb { 70 61 134 }
+}
+
+TBL = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
 }	
