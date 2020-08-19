@@ -1,0 +1,33 @@
+capital = 44
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+set_politics = {
+	ruling_party = bureaucratic_socialism
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 100
+	messianism = 0
+	neo_medievalism = 0 
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	bureaucratic_socialism = 0
+}
+
+create_country_leader = {
+	name = "Idajet Beqiri"
+	#desc = "SES_Zeljko_Raznatovic_desc"
+	#picture = "SES_Zeljko_Raznatovic.tga"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
+}

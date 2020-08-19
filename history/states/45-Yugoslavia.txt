@@ -7,7 +7,7 @@ state={
 		victory_points = {
 			619 3 
 		}
-		owner = SEK
+		owner = SFR
 		buildings = {
 			infrastructure = 6
 

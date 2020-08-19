@@ -2,8 +2,8 @@ state={
 	id=828
 	name="Slavonia"
 	history = {
-		owner = NRB
-		add_core_of = NRB
+		owner = SFR
+		add_core_of = SFR
 		buildings = {
 			infrastructure = 5
 		}

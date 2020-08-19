@@ -2,8 +2,8 @@ state={
 	id=827
 	name="Herzegovina"
 	history = {
-		owner = SES
-		add_core_of = SES
+		owner = SFR
+		add_core_of = SFR
 		buildings = {
 			infrastructure = 5
 

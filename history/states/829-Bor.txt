@@ -2,8 +2,8 @@ state={
 	id=829
 	name="Bor"
 	history = {
-		owner = SEC
-		add_core_of = SEC
+		owner = SFR
+		add_core_of = 
 		buildings = {
 			infrastructure = 5
 		}
