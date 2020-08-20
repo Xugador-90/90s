@@ -37,4 +37,16 @@ spriteTypes = {
 		name = "GFX_idea_ROM_Memory_Revolution"
 		texturefile = "gfx/interface/ideas/ROM/ROM_Memory_Revolution.png"
 	}
+	spriteType = {
+		name = "GFX_idea_SFR_Police_State"
+		texturefile = "gfx/interface/ideas/SFR/SFR_Police_State.png"
+	}
+	spriteType = {
+		name = "GFX_idea_SFR_Divided_Army"
+		texturefile = "gfx/interface/ideas/SFR/SFR_Divided_Army.png"
+	}
+	spriteType = {
+		name = "GFX_idea_SFR_Criminal_Cliques"
+		texturefile = "gfx/interface/ideas/SFR/SFR_Criminal_Cliques.png"
+	}
 }

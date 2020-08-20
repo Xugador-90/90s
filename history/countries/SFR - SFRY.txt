@@ -5,6 +5,12 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = {
+	SFR_Police_State
+	SFR_Divided_Army
+	SFR_Criminal_Cliques
+}
+
 set_convoys = 0
 set_politics = {
 	ruling_party = bureaucratic_socialism
