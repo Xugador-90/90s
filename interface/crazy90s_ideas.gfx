@@ -29,4 +29,12 @@ spriteTypes = {
 		name = "GFX_idea_IST_Youth_Wild"
 		texturefile = "gfx/interface/ideas/IST/IST_Youth_Wild.tga"
 	}
+	spriteType = {
+		name = "GFX_idea_ROM_death_cult_state"
+		texturefile = "gfx/interface/ideas/ROM/ROM_death_cult_state.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ROM_Memory_Revolution"
+		texturefile = "gfx/interface/ideas/ROM/ROM_Memory_Revolution.png"
+	}
 }

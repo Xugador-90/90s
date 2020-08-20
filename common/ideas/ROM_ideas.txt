@@ -1,0 +1,25 @@
+ideas = {
+
+	country = { 
+		ROM_death_cult_state = {
+			
+			allowed = {
+				original_tag = ROM
+			}
+
+			picture = ROM_death_cult_state
+			
+			removal_cost = -1
+		}
+		ROM_Memory_Revolution = {
+			
+			allowed = {
+				original_tag = ROM
+			}
+
+			picture = ROM_Memory_Revolution
+			
+			removal_cost = -1
+		}
+	}
+}
