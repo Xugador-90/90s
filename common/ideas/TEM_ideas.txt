@@ -30,6 +30,10 @@ ideas = {
 			picture = TEM_Poison
 			
 			removal_cost = -1
+
+			modifier = {
+				MONTHLY_POPULATION = -0.3
+			}
 		}
 		TEM_Tamag = {
 			

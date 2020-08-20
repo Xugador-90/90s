@@ -1,0 +1,40 @@
+﻿capital = 141
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = messianism
+	last_election = "1987.5.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 15
+	messianism = 85
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Bogdan Kacmajor"
+	desc = "PHC_Bogdan_Kacmajor_desc"
+	picture = "PHC_Bogdan_Kacmajor.tga"
+	expire = "2020.1.1"
+	ideology = utopian_messianism
+	traits = {
+		#
+	}
+}

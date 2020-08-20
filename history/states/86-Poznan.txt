@@ -6,7 +6,7 @@ state={
 	
 	state_category = city
 	history={
-		owner = 
+		owner = PDP
 		victory_points = {
 			6558 10
 		}
@@ -27,13 +27,10 @@ state={
 			}
 			air_base = 3
 		}
-		add_core_of = 
-		1938.3.12 = {
-			add_claim_by = 
-		}
+		add_core_of = PDP
 	}
 
 	provinces={
-		17 243 279 388 3295 3381 3460 3532 6347 6558 9532 11232 11558
+		17 243 279 388 3295 3381 3460 3532 6347 6558 9532 11232
 	}
 }

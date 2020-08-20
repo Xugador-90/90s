@@ -585,3 +585,66 @@ TBL = {
 	color = rgb { 0 0 0 }
 	color_ui = rgb { 0 0 0 }
 }	
+
+
+
+SLF = {
+	color = rgb { 255 242 0 }
+	color_ui = rgb { 255 242 0 }
+}	
+PPA = {
+	color = rgb { 128 0 0 }
+	color_ui = rgb { 128 0 0 }
+}	
+POL = {
+	color = rgb { 123 27 2 }
+	color_ui = rgb { 123 27 2 }
+}	
+PDP = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
+}	
+PHC = {
+	color = rgb { 127 127 127 }
+	color_ui = rgb { 127 127 127 }
+}	
+KAB = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}	
+FCG = {
+	color = rgb { 255 127 39 }
+	color_ui = rgb { 255 127 39 }
+}	
+CTH = {
+	color = rgb { 195 195 195 }
+	color_ui = rgb { 195 195 195 }
+}	
+RPS = {
+	color = rgb { 94 57 38 }
+	color_ui = rgb { 94 57 38 }
+}	
+KOP = {
+	color = rgb { 204 158 0 }
+	color_ui = rgb { 204 158 0 }
+}	
+PSC = {
+	color = rgb { 239 228 176 }
+	color_ui = rgb { 239 228 176 }
+}	
+PPD = {
+	color = rgb { 112 146 190 }
+	color_ui = rgb { 112 146 190 }
+}	
+PDO = {
+	color = rgb { 63 72 204 }
+	color_ui = rgb { 63 72 204 }
+}	
+UNS = {
+	color = rgb { 0 162 232 }
+	color_ui = rgb { 0 162 232 }
+}	
+TUL = {
+	color = rgb { 55 0 9 }
+	color_ui = rgb { 55 0 9 }
+}	

@@ -1,0 +1,40 @@
+﻿capital = 141
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = atomic_dictatorship
+	last_election = "1987.5.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 20
+	atomic_dictatorship = 68
+	messianism = 0
+	neo_medievalism = 1
+	tribalism = 0
+	techno_dictatorship = 3
+	proletarian_dictatorship = 0
+	neo_fascism = 0
+	autocracy = 6
+	bureaucratic_socialism = 4
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Pawel Musiol"
+	desc = "SLF_Pawel_Musiol_desc"
+	picture = "SLF_Pawel_Musiol.tga"
+	expire = "2020.1.1"
+	ideology = paramilitary_dictatorship
+	traits = {
+		#
+	}
+}

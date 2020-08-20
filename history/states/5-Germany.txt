@@ -12,12 +12,12 @@ state={
 		#victory_points = {
 		#	11386 1
 		#}
-		owner = BAL
+		owner = CTH
 		
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = BAL
+		add_core_of = CTH
 	}
 
 	provinces={

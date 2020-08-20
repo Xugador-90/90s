@@ -1,0 +1,40 @@
+﻿capital = 141
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = proletarian_dictatorship
+	last_election = "1987.5.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 18
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 82
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Stanislaw Kania"
+	desc = "PDP_Stanislaw_Kania_desc"
+	picture = "PDP_Stanislaw_Kania.tga"
+	expire = "2020.1.1"
+	ideology = centralized_socialism
+	traits = {
+		#
+	}
+}

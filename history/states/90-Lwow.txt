@@ -19,11 +19,11 @@ state={
 		#victory_points = {
 		#	562 3
 		#}
-		owner = 
+		owner = PPD
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = 
+		add_core_of = PPD
 	}
 
 	provinces={

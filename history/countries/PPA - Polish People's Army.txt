@@ -1,0 +1,40 @@
+﻿capital = 141
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = bureaucratic_socialism
+	last_election = "1987.5.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 1
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 1
+	proletarian_dictatorship = 2
+	neo_fascism = 0
+	autocracy = 8
+	bureaucratic_socialism = 84
+	maoism_ideology = 4
+}
+
+create_country_leader = {
+	name = "Wojciech Jaruzelski"
+	desc = "PPA_Wojciech_Jaruzelski_desc"
+	picture = "PPA_Wojciech_Jaruzelski.tga"
+	expire = "2020.1.1"
+	ideology = military_socialism
+	traits = {
+		#
+	}
+}
