@@ -8,6 +8,12 @@ set_technology = {
 
 set_convoys = 0
 
+add_ideas = {
+	SWE_Carl_XVI_Gustaf
+	SWE_Bourgeoisie_Paradise
+	SWE_Broken_Apart
+}
+
 set_politics = {
 	ruling_party = neo_medievalism
 	last_election = "1987.5.6"
@@ -15,13 +21,17 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 0
 	atomic_dictatorship = 0
+	republicanism = 0
 	messianism = 0
-	neo_medievalism = 100 
-	tribalism = 0
-	techno_dictatorship = 0
+	neo_medievalism = 55
+	tribalism = 12
+	techno_dictatorship = 14
 	proletarian_dictatorship = 0
+	neo_fascism = 4
+	autocracy = 15
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
 }
 
 create_country_leader = {

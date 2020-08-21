@@ -49,4 +49,8 @@ spriteTypes = {
 		name = "GFX_idea_SFR_Criminal_Cliques"
 		texturefile = "gfx/interface/ideas/SFR/SFR_Criminal_Cliques.png"
 	}
+	spriteType = {
+		name = "GFX_idea_HUN_Buddhist_Order"
+		texturefile = "gfx/interface/ideas/HUN/HUN_Buddhist_Order.png"
+	}
 }

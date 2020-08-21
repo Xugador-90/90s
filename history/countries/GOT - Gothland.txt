@@ -6,6 +6,11 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = {
+	GOT_Home_of_the_Revolution
+	GOT_Revolutionary_Army
+}
+
 set_convoys = 0
 
 set_politics = {
@@ -13,13 +18,17 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 0
 	atomic_dictatorship = 0
+	republicanism = 15
 	messianism = 0
-	neo_medievalism = 0 
+	neo_medievalism = 2
 	tribalism = 0
 	techno_dictatorship = 0
-	proletarian_dictatorship = 100
+	proletarian_dictatorship = 39
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 25
+	maoism_ideology = 19
 }
 create_country_leader = {
 	name = "Sven Wollter"

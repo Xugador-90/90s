@@ -1,0 +1,54 @@
+ideas = {
+
+	country = { 
+		SWE_Carl_XVI_Gustaf = {
+			
+			allowed = {
+				original_tag = SWE
+			}
+
+			picture = SWE_Carl_XVI_Gustaf
+			
+			modifier = {
+				conscription_factor = 0.15
+			}
+			
+			removal_cost = -1
+		}
+		SWE_Bourgeoisie_Paradise = {
+			
+			allowed = {
+				original_tag = SWE
+			}
+
+			picture = SWE_Bourgeoisie_Paradise
+			
+			modifier = {
+				stability_factor = -0.1
+				political_power_gain = -0.25
+				production_factory_max_efficiency_factor = 0.05
+				local_resources_factor = -0.15
+				production_speed_buildings_factor = 0.15
+			}
+			
+			removal_cost = -1
+		}
+		SWE_Broken_Apart = {
+			
+			allowed = {
+				original_tag = SWE
+			}
+
+			picture = SWE_Broken_Apart
+			
+			modifier = {
+				stability_factor = -0.25
+				war_support_factor = -0.05
+				army_defence_factor = -0.10
+				army_attack_factor = -0.10
+			}
+			
+			removal_cost = -1
+		}
+	}
+}

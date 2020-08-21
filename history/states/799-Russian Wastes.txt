@@ -2,7 +2,7 @@ state={
 	id=799
 	name="Russian Wastes"
 	history={
-		owner = INW
+		owner = BRO
 		buildings = {
 			infrastructure = 1
 
@@ -10,7 +10,7 @@ state={
 		victory_points = {
 			11061 1 3079 1
 		}
-		add_core_of = INW
+		add_core_of = BRO
 	}
 	provinces={
 		11061 3079 11178 3031 6051 3130 9130 9187 11071 6034 6075 3064 72 183 9101 6166 11074 11086 11061 6088 9113 84 3166 6193 9213 6100 3079 9124 3065 6199 6091

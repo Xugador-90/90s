@@ -6,6 +6,10 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = {
+	HUN_Buddhist_Order
+}
+
 set_convoys = 0
 
 set_politics = {
@@ -24,14 +28,14 @@ set_popularities = {
 	proletarian_dictatorship = 0
 	neo_fascism = 100
 	autocracy = 0
-	bureaucratic_socialism = 8
+	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
 
 create_country_leader = {
 	name = "Laszlo Andras"
-	desc = "IND_SONIA_GANDHI_DESC"
-	picture = "Portrait_IND_Laszlo_Andras.dds"
+	desc = "HUN_Laszlo_Andras_DESC"
+	picture = "HUN_Laszlo_Andras.tga"
 	expire = "2020.1.1"
 	ideology = esoteric_hitlerism
 	traits = {

@@ -1,0 +1,37 @@
+capital = 47
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = bureaucratic_socialism
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 100
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Grigor Shopov"
+	desc = "BUL_Grigor_Shopov_desc"
+	picture = "BUL_Grigor_Shopov.tga"
+	expire = "2020.1.1"
+	ideology = military_socialism
+	traits = {
+		#
+	}
+}

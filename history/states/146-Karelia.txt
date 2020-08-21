@@ -4,8 +4,8 @@ state={
 	name="STATE_146"
 
 	history={
-		owner = FIN
-		add_core_of = FIN
+		owner = UOB
+		add_core_of = UOB
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

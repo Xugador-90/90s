@@ -8,8 +8,8 @@ state={
 		victory_points = {
 			6626 1 
 		}
-		owner = SOL
-		add_core_of = SOL
+		owner = SFR
+		add_core_of = SFR
 		buildings = {
 			infrastructure = 2
 			6626 = {

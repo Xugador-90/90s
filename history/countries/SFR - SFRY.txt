@@ -28,9 +28,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Mirijana Markovic"
-	#desc = "SES_Zeljko_Raznatovic_desc"
-	#picture = "SES_Zeljko_Raznatovic.tga"
+	name = "Mirjana Marković"
+	desc = "SFR_Mirjana_Markovic_desc"
+	picture = "SFR_Mirjana_Markovic.tga"
 	expire = "2020.1.1"
 	ideology = party_oligarchy
 	traits = {

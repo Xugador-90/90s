@@ -1,0 +1,41 @@
+ideas = {
+
+	country = { 
+		GOT_Home_of_the_Revolution = {
+			
+			allowed = {
+				original_tag = GOT
+			}
+
+			picture = GOT_Home_of_the_Revolution
+			
+			modifier = {
+				stability_factor = 0.1
+				production_factory_max_efficiency_factor = -0.15
+				local_resources_factor = 0.25
+				production_speed_buildings_factor = -0.10
+				targeted_modifier = { tag = SWE trade_opinion_factor = -1.0 }
+				targeted_modifier = { tag = DEN trade_opinion_factor = -1.0 }
+				targeted_modifier = { tag = NOR trade_opinion_factor = -1.0 }
+			}
+			
+			removal_cost = -1
+		}
+		GOT_Revolutionary_Army = {
+			
+			allowed = {
+				original_tag = GOT
+			}
+
+			picture = GOT_Revolutionary_Army
+			
+			modifier = {
+				conscription_factor = 0.15
+				army_defence_factor = 0.10
+				army_attack_factor = 0.10
+			}
+			
+			removal_cost = -1
+		}
+	}
+}

@@ -28,8 +28,8 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Iustin Parvu"
-	#desc = "SES_Zeljko_Raznatovic_desc"
-	#picture = "SES_Zeljko_Raznatovic.tga"
+	desc = "ROM_Iustin_Parvu_desc"
+	picture = "ROM_Iustin_Parvu.tga"
 	expire = "2020.1.1"
 	ideology = theocracy
 	traits = {

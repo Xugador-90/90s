@@ -7,7 +7,7 @@ state=
 	state_category = town
 	
 	history= {
-		owner = KIE
+		owner = ROM
 		victory_points = {
 			3707 1
 		}
@@ -15,7 +15,7 @@ state=
 			infrastructure = 4
 			air_base = 2
 		}
-		add_core_of = KIE
+		add_core_of = ROM
 	}
 	provinces=
 	{

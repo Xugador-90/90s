@@ -648,3 +648,39 @@ TUL = {
 	color = rgb { 55 0 9 }
 	color_ui = rgb { 55 0 9 }
 }	
+ROM = {
+	color = rgb { 50 132 45 }
+	color_ui = rgb { 50 132 45 }
+}	
+BUL = {
+	color = rgb { 0 150 110 }
+	color_ui = rgb { 0 150 110 }
+}	
+LEN = {
+	color = rgb { 133 16 34 }
+	color_ui = rgb { 133 16 34 }
+}
+NWC = {
+	color = rgb { 132 138 83 }
+	color_ui = rgb { 132 138 83 }
+}
+MOS = {
+	color = rgb { 146 12 18 }
+	color_ui = rgb { 146 12 18 }
+}
+YNG = {
+	color = rgb { 113 204 129 }
+	color_ui = rgb { 113 204 129 }
+}
+LUC = {
+	color = rgb { 155 149 113 }
+	color_ui = rgb { 155 149 113 }
+}
+SAM = {
+	color = rgb { 18 95 41 }
+	color_ui = rgb { 18 95 41 }
+}
+UOB = {
+	color = rgb { 21 11 40 }
+	color_ui = rgb { 21 11 40 }
+}

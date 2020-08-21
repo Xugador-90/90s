@@ -7,11 +7,11 @@ state={
 	state_category = town
 
 	history={
-		owner = I03
+		owner = MOS
 		buildings = {
 			infrastructure = 5
 		}
-		add_core_of = I03
+		add_core_of = MOS
 		victory_points = {
 			382 1
 		}

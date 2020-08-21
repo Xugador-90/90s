@@ -10,7 +10,7 @@ state=
 		victory_points = {
 			6727 1
 		}
-		owner = KIE
+		owner = ROM
 		buildings = {
 			infrastructure = 4
 			dockyard = 1
@@ -18,7 +18,7 @@ state=
 				naval_base = 3
 			}
 		}
-		add_core_of = KIE
+		add_core_of = ROM
 	}
 	provinces=
 	{

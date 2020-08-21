@@ -1,0 +1,25 @@
+ideas = {
+
+	country = { 
+		HUN_Buddhist_Order = {
+			
+			allowed = {
+				original_tag = HUN
+			}
+
+			picture = HUN_Buddhist_Order
+			
+			modifier = {
+				stability_factor = 0.10
+				attrition = -0.1
+				defence = 0.1
+				consumer_goods_factor = -0.10
+				production_speed_buildings_factor = -0.5
+				production_factory_max_efficiency_factor = -0.3
+				conscription = 0.05
+			}
+			
+			removal_cost = -1
+		}
+	}
+}

@@ -9,19 +9,23 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = tribalism
+	ruling_party = republicanism
 	last_election = "1987.5.6"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 0
 	atomic_dictatorship = 0
+	republicanism = 100
 	messianism = 0
-	neo_medievalism = 0 
-	tribalism = 100
+	neo_medievalism = 0
+	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
+	neo_fascism = 0
+	autocracy = 0
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
 }
 
 create_country_leader = {
@@ -29,7 +33,7 @@ create_country_leader = {
 	desc = "SML_Erik_Kroenmark_desc"
 	picture = "SML_Erik_Kroenmark.tga"
 	expire = "2020.1.1"
-	ideology = radical_tribalists
+	ideology = pre_collapse_constitutionalism
 	traits = {
 		#
 	}
