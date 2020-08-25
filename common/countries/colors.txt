@@ -684,3 +684,23 @@ UOB = {
 	color = rgb { 21 11 40 }
 	color_ui = rgb { 21 11 40 }
 }
+BRO = {
+	color = rgb { 105 154 235 }
+	color_ui = rgb { 105 154 235 }
+}
+PMG = {
+	color = rgb { 18 125 148 }
+	color_ui = rgb { 18 125 148 }
+}
+PAM = {
+	color = rgb { 21 11 40 }
+	color_ui = rgb { 21 11 40 }
+}
+TAT = {
+	color = rgb { 96 28 131 }
+	color_ui = rgb { 96 28 131 }
+}
+RUS = {
+	color = rgb { 66 24 82 }
+	color_ui = rgb { 66 24 82  }
+}

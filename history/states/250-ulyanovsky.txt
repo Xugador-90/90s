@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = TTC
+		owner = TAT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = TTC
+		add_core_of = TAT
 		victory_points = {
 			392 1
 		}
