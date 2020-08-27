@@ -1,0 +1,34 @@
+capital = 574
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = republicanism
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 100
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 15
+	techno_dictatorship = 0
+	proletarian_dictatorship = 5
+}
+
+create_country_leader = {
+	name = "Yegor Borisov"
+	#desc = "KER_James_Whetter_DESC"
+	#picture = "KER_James_Whetter.dds"
+	expire = "2020.1.1"
+	ideology = plutocratic_oligarchy
+	traits = {
+		#
+	}
+}

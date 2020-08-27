@@ -2,7 +2,7 @@ state={
 	id=802
 	name="Bidzhan Steppes"
 	history={
-		owner = FER
+		owner = 
 		buildings = {
 			infrastructure = 3
 		}

@@ -704,3 +704,15 @@ RUS = {
 	color = rgb { 66 24 82 }
 	color_ui = rgb { 66 24 82  }
 }
+OKE = {
+	color = rgb { 0 204 0 }
+	color_ui = rgb { 0 204 0 }
+}
+STE = {
+	color = rgb { 127 127 127 }
+	color_ui = rgb { 127 127 127 }
+}
+YAK = {
+	color = rgb { 109 177 191 }
+	color_ui = rgb { 109 177 191 }
+}

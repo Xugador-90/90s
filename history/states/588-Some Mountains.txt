@@ -9,12 +9,12 @@ state={
 	}
 
 	history={
-		owner = USR
+		owner = SIB
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = USR
+		add_core_of = SIB
 		victory_points = {
 			12594 1
 		}

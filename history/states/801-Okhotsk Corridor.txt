@@ -2,7 +2,7 @@ state={
 	id=801
 	name="Okhostk Corridor"
 	history={
-		owner = FER
+		owner = OKE
 		buildings = {
 			infrastructure = 3
 			1772 = {
@@ -12,7 +12,7 @@ state={
 		victory_points = {
 			1772 1 
 		}
-		add_core_of = FER
+		add_core_of = OKE
 	}
 	provinces={
 		1772 1807 1724 10590 7871 1842

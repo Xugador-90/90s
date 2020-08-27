@@ -7,12 +7,12 @@ state={
 	}
 
 	history={
-		owner = GAZ
+		owner = SIB
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = GAZ
+		add_core_of = SIB
 
 	}
 

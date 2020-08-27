@@ -1,0 +1,14 @@
+state={
+	id=840
+	name="STATE_840"
+	history = {
+		owner = OKE
+		add_core_of = OKE
+	}
+	provinces={
+		1819 4455 4744 5264 12592 13062 13063 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

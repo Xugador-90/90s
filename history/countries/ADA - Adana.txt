@@ -9,31 +9,31 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = republicanism
+	ruling_party = neo_fascism
 	last_election = "1988.1.30"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 50
+	republicanism = 30
 	atomic_dictatorship = 0
 	messianism = 0
 	neo_medievalism = 0
 	tribalism = 0
 	techno_dictatorship = 0
 	proletarian_dictatorship = 0
-	neo_fascism = 40
-	autocracy = 10
+	neo_fascism = 70
+	autocracy = 0
 	bureaucratic_socialism = 0
 	maoism_ideology = 0
 }
 
 create_country_leader = {
-	name = "Aytaç Durak"
-	desc = "SGR_RICHARD_VON_WEIZSACKER_DESC"
-	#picture = "Portrait_SGR_Richard_von_Weizsacker.dds"
+	name = "Alparslan Türkesh"
+	#desc = "SGR_RICHARD_VON_WEIZSACKER_DESC"
+	picture = "Portrait_ADA_Alparslan_Turkes.dds"
 	expire = "2020.1.1"
-	ideology = pre_collapse_constitutionalism
+	ideology = revolutionary_neo_fascism
 	traits = {
 		#
 	}
