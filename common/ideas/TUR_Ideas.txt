@@ -1,0 +1,45 @@
+ideas = {
+
+country = {
+
+TUR_War_Comittee = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TUR_War_Comittee" }
+			picture = TUR_War_State
+			modifier = {
+			political_power_gain = 0.5
+			stability_factor = -0.30
+			war_support_factor = 0.30
+			planning_speed = 0.10
+			army_org = 3
+			minimum_training_level = 0.2
+			navy_leader_start_attack_level = 1	
+			}
+		}
+TUR_Kemalist_Anger = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TUR_Kemalist_Anger" }
+			picture = TUR_Kemal
+			modifier = {
+			surrender_limit = 0.4	
+			army_leader_start_attack_level = 1
+			}
+		}
+TUR_Cucked_War= {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TUR_Cucked_War" }
+			picture = TUR_Cuckd
+			modifier = { army_morale_factor = -0.2 }
+			targeted_modifier = { tag = IST attack_bonus_against = -0.1 }
+			targeted_modifier = { tag = ADA attack_bonus_against = -0.1 }
+			targeted_modifier = { tag = IZM attack_bonus_against = -0.1 }
+			
+		}
+TUR_Deep_Jitem = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TUR_Deep_Jitem" }
+			picture = TUR_Jitem
+			modifier = {
+			decryption_factor = 0.2
+			encryption_factor = 0.2
+			attrition = -0.1
+			}
+		}		
+	}
+}		

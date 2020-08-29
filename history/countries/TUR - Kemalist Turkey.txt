@@ -6,6 +6,11 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = TUR_Kemalist_Anger
+add_ideas = TUR_War_Comittee
+add_ideas = TUR_Cucked_War
+add_ideas = TUR_Deep_Jitem
+
 set_convoys = 0
 
 set_politics = {
