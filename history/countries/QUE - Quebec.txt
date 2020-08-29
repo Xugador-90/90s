@@ -1,0 +1,43 @@
+﻿capital = 841
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 50
+
+set_research_slots = 2
+set_stability = 0.7
+
+add_ideas = {
+	
+}
+
+set_politics = {
+	ruling_party = republicanism
+	last_election = "1987.5.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 80
+	atomic_dictatorship = 10
+	messianism = 8
+	neo_medievalism = 0 
+	tribalism = 2
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+}
+
+#create_country_leader = {
+#	name = "Quebecoise Leader"
+#	#desc = "Quebec_Leader_DESC"
+#	picture = "Portrait_QUE_Quebec_Leader.dds"
+#	expire = "2020.1.1"
+#	ideology = pre_collapse_constitutionalism 
+#	traits = {
+#		#
+#	}
+#}

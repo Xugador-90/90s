@@ -716,3 +716,8 @@ YAK = {
 	color = rgb { 109 177 191 }
 	color_ui = rgb { 109 177 191 }
 }
+
+QUE = {
+	color = rgb { 0 51 153 }
+	color_ui = rgb {0 26 77}
+}
