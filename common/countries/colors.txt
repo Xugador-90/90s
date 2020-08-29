@@ -126,28 +126,28 @@ NOR = {
 }
 
 JMT = {
-	color = rgb { 26 152 80 }
-	color_ui = rgb { 26 152 80 }
+	color = rgb { 98 174 203 }
+	color_ui = rgb { 98 174 203 }
 }
 
 SMI = {
-	color = rgb { 253 184 99 }
-	color_ui = rgb { 253 184 99 }
+	color = rgb { 194 179 9 }
+	color_ui = rgb { 194 179 9 }
 }
 
 GOT = {
-	color = rgb { 204 51 51 }
-	color_ui = rgb { 204 51 51 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
 }
 
 SWE = {
-	color = rgb { 31 120 180 }
-	color_ui = rgb { 31 120 180 }
+	color = rgb { 31 60 120 }
+	color_ui = rgb { 31 60 120 }
 }
 
 SML = {
-	color = rgb { 31 120 180 }
-	color_ui = rgb { 31 120 180 }
+	color = rgb { 41 117 41 }
+	color_ui = rgb { 41 117 41 }
 }
 
 DEN = {
@@ -720,4 +720,39 @@ YAK = {
 QUE = {
 	color = rgb { 0 51 153 }
 	color_ui = rgb {0 26 77}
+}
+
+CAU = {
+	color = rgb { 142 107 214 }
+	color_ui = rgb { 142 107 214 }
+}
+
+ICU = {
+	color = rgb { 39 65 124 }
+	color_ui = rgb { 39 65 124 }
+}
+
+ABK = {
+	color = rgb { 128 125 36 }
+	color_ui = rgb { 128 125 36 }
+}
+
+AZR = {
+	color = rgb { 0 185 228 }
+	color_ui = rgb { 0 185 228 }
+}
+
+ARM = {
+	color = rgb { 242 168 0 }
+	color_ui = rgb { 242 168 0 }
+}
+
+GEO = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+
+KAL = {
+	color = rgb { 87 56 11 }
+	color_ui = rgb { 87 56 11 }
 }

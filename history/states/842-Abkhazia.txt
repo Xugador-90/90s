@@ -1,0 +1,34 @@
+
+state={
+	id=842
+	name="Abkhazia" # Saint Lawrence
+	manpower = 2949413
+	
+	state_category = town
+	
+	resources={
+		aluminium=1 # was: 4
+	}
+
+	history={
+		owner = ABK
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 3
+			9663 = {
+				naval_base = 2
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = ABK
+		victory_points = {
+			9663 1
+		}
+
+	}
+
+	provinces={
+		9663 11599 11617 11647
+	}
+}

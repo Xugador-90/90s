@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = RUH
+		owner = CAU
 		buildings = {
 			infrastructure = 4
 
@@ -15,12 +15,12 @@ state={
 		victory_points = {
 			3672 5 
 		}
-		add_core_of = RUH
+		add_core_of = CAU
 
 	}
 
 	provinces={
-		683 700 712 728 1450 3668 3672 3682 3711 4458 4463 4545 6689 6701 6730 6748 7495 7554 7624 7661 9645 11632 
+		683 700 712 728 1450 3668 3672 3682 3711 4463 6689 6701 6730 6748 7554 7624 9645 11632 
 	}
 	manpower=1658292
 	buildings_max_level_factor=1.000

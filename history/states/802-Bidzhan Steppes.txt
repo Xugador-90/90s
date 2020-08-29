@@ -2,11 +2,11 @@ state={
 	id=802
 	name="Bidzhan Steppes"
 	history={
-		owner = 
+		owner = OKE
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = FER
+		add_core_of = OKE
 	}
 	provinces={
 		10722 12678 4246 7616 4829 4779 4725 1802 7801 10655 12654 7763
