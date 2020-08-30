@@ -7,12 +7,12 @@ state={
 	}
 
 	history={
-		owner = NRF
+		owner = PAM
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = NRF
+		add_core_of = PAM
 
 	}
 

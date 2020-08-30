@@ -6,12 +6,12 @@ state={
 	}
 
 	history={
-		owner = TTC
+		owner = PMG
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = TTC
+		add_core_of = PMG
 
 	}
 

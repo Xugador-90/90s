@@ -166,5 +166,6 @@ GEO = "countries/Russia.txt"
 AZR = "countries/Russia.txt"
 ARM = "countries/Russia.txt"
 KAL = "countries/Russia.txt"
-
 QUE = "countries/Quebec.txt"
+DVA = "countries/Russia.txt"
+PSY = "countries/Russia.txt"
