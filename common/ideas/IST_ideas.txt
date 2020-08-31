@@ -26,6 +26,16 @@ IST_Youth_Wild = {
 			bureaucratic_socialism_drift = 0.01	
 			atomic_dictatorship_drift = 0.09
 			}
+		}
+IST_Soon = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea IST_Bateman" }
+			picture = IST_Soon
+			modifier = {
+			war_support_factor = -0.10
+			stability_weekly = -0.05
+			targeted_modifier = { tag = TUR attack_bonus_against = -0.2 }
+			targeted_modifier = { tag = TUR defense_bonus_against = -0.2 }			
+			}
 		}		
 	}
 }		

@@ -1,0 +1,44 @@
+ideas = {
+
+country = {
+
+TBL_Anarchi = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TBL_Anarchi" }
+			picture = TUR_Anarchi
+			modifier = {
+			attrition = -0.2
+			war_support_factor = 0.10
+			surrender_limit = 0.5
+			political_power_gain = -0.5
+			conscription = 0.20
+			research_speed_factor = -0.30
+			army_core_defence_factor = 0.3
+			army_attack_factor = -0.2
+			line_change_production_efficiency_factor = 0.4
+			consumer_goods_factor = -0.10
+			stability_factor = 0.15
+			army_org_factor = -0.10
+			training_time_army_factor = -0.20
+			}
+		}
+TBL_Armenians = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TBL_Armenians" }
+			picture = TUR_Armenians
+			modifier = {
+			line_change_production_efficiency_factor = -0.2
+			production_speed_buildings_factor = -0.4
+			no_supply_grace = -48
+			}
+		}
+TBL_Terrorists = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TBL_Terrorists" }
+			picture = TUR_Terrorists
+			modifier = {
+			political_power_gain = -0.5
+			improve_relations_maintain_cost_factor = 1.00
+			opinion_gain_monthly_factor	= 1.00
+			}
+			targeted_modifier = { tag = JIT defense_bonus_against = -0.3 }
+		}		
+	}
+}		

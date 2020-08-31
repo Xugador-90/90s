@@ -69,4 +69,20 @@ spriteTypes = {
 		name = "GFX_idea_TUR_Cuckd"
 		texturefile = "gfx/interface/ideas/TUR/TUR_Cuckd.tga"
 	}
+	spriteType = {
+		name = "GFX_idea_IST_Soon"
+		texturefile = "gfx/interface/ideas/IST/IST_war_soon.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_TBL_Anarchi"
+		texturefile = "gfx/interface/ideas/TBL/TBL_Anarchi.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_TUR_Armenians"
+		texturefile = "gfx/interface/ideas/TBL/TBL_Armenians.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_TUR_Terrorists"
+		texturefile = "gfx/interface/ideas/TBL/TBL_Terrorists.tga"
+	}
 }

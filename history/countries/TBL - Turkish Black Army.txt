@@ -6,6 +6,10 @@ oob = ""
 set_technology = {
 }
 
+add_ideas = TBL_Anarchi
+add_ideas = TBL_Terrorists
+add_ideas = TBL_Armenians
+
 set_convoys = 0
 
 set_politics = {

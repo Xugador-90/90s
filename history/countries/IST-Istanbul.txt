@@ -8,6 +8,7 @@ set_technology = {
 
 add_ideas = IST_Bateman
 add_ideas = IST_Youth_Wild
+add_ideas = IST_Soon
 
 set_convoys = 0
 
