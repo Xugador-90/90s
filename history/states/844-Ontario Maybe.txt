@@ -1,0 +1,28 @@
+
+state={
+	id=844
+	name="STATE_844"
+	manpower = 20480
+	
+	state_category = forest
+
+	history={
+		owner = CAN
+		victory_points = {
+			3326 5 
+		}
+		victory_points = {
+			6377 10 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of =  CAN
+
+ 	}
+
+	provinces={
+		4775 777 602 12582
+	}
+}
