@@ -4,7 +4,7 @@ state={
 	name="STATE_844"
 	manpower = 20480
 	
-	state_category = forest
+	state_category = rural
 
 	history={
 		owner = CAN
@@ -23,6 +23,6 @@ state={
  	}
 
 	provinces={
-		4775 777 602 12582
+		4775 777 602 12582 7899 1769
 	}
 }

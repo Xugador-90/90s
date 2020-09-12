@@ -1,0 +1,30 @@
+
+state={
+	id=847
+	name="STATE_847"
+	manpower = 361655
+	
+	state_category = city
+	
+	resources={
+		steel= 12 
+	}
+
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		add_core_of = USA
+		victory_points = {
+			7896 5 
+		}
+
+	}
+
+	provinces={
+	7896 6767 1734 12550 6827 1719 12588 12693
+}
+}

@@ -13232,7 +13232,7 @@
 13231;184;117;163;land;false;hills;1
 13232;122;77;196;land;false;plains;1
 13233;230;236;122;land;false;mountain;1
-13234;157;60;150;land;false;unknown;0
+13234;157;60;150;land;true;hills;3
 13235;239;248;77;land;false;unknown;0
 13236;212;221;160;land;false;unknown;0
 13237;128;9;200;land;false;unknown;0

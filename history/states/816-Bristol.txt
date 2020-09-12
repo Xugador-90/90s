@@ -1,18 +1,23 @@
+
 state={
 	id=816
 	name="Bristol"
-	provinces={
-		3369 
-	}
+
 	history={
 		victory_points = {
-			3369 20
+			3369 20 
 		}
 		owner = LON
 		buildings = {
 			infrastructure = 5
+
 		}
 		add_core_of = LON
+
+	}
+
+	provinces={
+		3369 
 	}
 	manpower=158954
 	buildings_max_level_factor=1.000
