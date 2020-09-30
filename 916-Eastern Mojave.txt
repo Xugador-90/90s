@@ -1,0 +1,9 @@
+state={
+	id=916
+	name="Eastern Mojave"
+	provinces={
+		850 11814 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

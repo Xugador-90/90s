@@ -1,0 +1,9 @@
+state={
+	id=930
+	name="Colorado Plateau"
+	provinces={
+		1740 1756 4742 7764 7818 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

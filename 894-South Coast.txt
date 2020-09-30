@@ -1,0 +1,9 @@
+state={
+	id=894
+	name="South Coast"
+	provinces={
+		1562 7517 11757 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

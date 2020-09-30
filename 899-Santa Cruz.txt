@@ -1,0 +1,9 @@
+state={
+	id=899
+	name="Santa Cruz"
+	provinces={
+		9637 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

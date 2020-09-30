@@ -1,0 +1,9 @@
+state={
+	id=903
+	name="North Coast"
+	provinces={
+		610 3644 6681 6757 6772 9730 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

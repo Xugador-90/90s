@@ -1,0 +1,9 @@
+state={
+	id=905
+	name="Shasta Cascades"
+	provinces={
+		781 3588 4331 6482 6665 10159 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
