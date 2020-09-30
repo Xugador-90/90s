@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = PRF
+		owner = PLA
 		buildings = {
 			infrastructure = 4
 
@@ -16,12 +16,12 @@ state={
 		victory_points = {
 			3768 1 
 		}
-		add_core_of = PRF
+		add_core_of = PLA
 
 	}
 
 	provinces={
-		641 3589 3650 3768 6639 6668 6784 9590 11794 
+		641 778 3650 6639 6668 9590 9603 11573 11794 
 	}
 	manpower=1007500
 	buildings_max_level_factor=1.000

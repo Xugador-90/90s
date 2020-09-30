@@ -240,26 +240,6 @@ KOR = {
 	color_ui = rgb { 178 68 95 }
 }
 
-PRF = {
-	color = rgb { 193 46 38 }
-	color_ui = rgb { 193 46 38 }
-}
-
-FFT = {
-	color = rgb { 196 33 61 }
-	color_ui = rgb { 196 33 61 }
-}
-
-FRS = {
-	color = rgb { 50 87 117 }
-	color_ui = rgb { 50 87 117 }
-}
-
-BRI = {
-	color = rgb { 104 86 120 }
-	color_ui = rgb { 104 86 120 }
-}
-
 SGR = {
 	color = rgb { 98 134 168 }
 	color_ui = rgb { 98 134 168 }
@@ -756,3 +736,48 @@ KAL = {
 	color = rgb { 87 56 11 }
 	color_ui = rgb { 87 56 11 }
 }
+
+FRS = {
+	color = rgb { 50 87 117 }
+	color_ui = rgb { 50 87 117 }
+}
+
+PRR = {
+	color = rgb { 70 110 69 }
+	color_ui = rgb { 70 110 69 }
+}
+
+GRA = {
+	color = rgb { 102 72 110 }
+	color_ui = rgb { 102 72 110 }
+}
+
+FSR = {
+	color = rgb { 193 46 38 }
+	color_ui = rgb { 193 46 38 }
+}
+
+PRS = {
+	color = rgb { 232 5 5 }
+	color_ui = rgb { 232 5 5 }
+}
+
+PLA = {
+	color = rgb { 102 93 58 }
+	color_ui = rgb { 102 93 58 }
+}
+
+#PRF = {
+#	color = rgb { 193 46 38 }
+#	color_ui = rgb { 193 46 38 }
+#}
+
+#FFT = {
+#	color = rgb { 196 33 61 }
+#	color_ui = rgb { 196 33 61 }
+#}
+
+#BRI = {
+#	color = rgb { 104 86 120 }
+#	color_ui = rgb { 104 86 120 }
+#}

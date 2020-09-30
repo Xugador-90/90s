@@ -4,7 +4,7 @@ state={
 	name="STATE_24"
 
 	history={
-		owner = PRF
+		owner = FSR
 		victory_points = {
 			3671 10 
 		}
@@ -16,19 +16,12 @@ state={
 			industrial_complex = 2
 
 		}
-		add_core_of = PRF
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-
-			}
-
-		}
+		add_core_of = FSR
 
 	}
 
 	provinces={
-		512 651 669 3493 3655 3671 6518 6533 6651 6688 9492 9629 11596 11611 11631 
+		512 651 669 3493 3655 3671 6518 6533 6651 6688 9492 9629 11611 11631 
 	}
 	manpower=1546300
 	buildings_max_level_factor=1.000

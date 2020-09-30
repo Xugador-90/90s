@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FFT
+		owner = PRR
 		victory_points = {
 			6657 5 
 		}
@@ -20,12 +20,12 @@ state={
 			}
 
 		}
-		add_core_of = FFT
+		add_core_of = PRR
 
 	}
 
 	provinces={
-		595 629 655 3659 6657 9597 9631 11582 11600 
+		595 629 655 3659 6657 9597 11582 11596 
 	}
 	manpower=1603100
 	buildings_max_level_factor=1.000

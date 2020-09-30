@@ -1,0 +1,38 @@
+﻿capital = 27
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = neo_fascism
+	elections_allowed = no
+}
+set_popularities = {
+	atomic_dictatorship = 0
+	republicanism = 0
+	messianism = 0
+	neo_medievalism = 0
+	tribalism = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+	neo_fascism = 100
+	autocracy = 0
+	bureaucratic_socialism = 0
+	maoism_ideology = 0
+}
+
+create_country_leader = {
+	name = "Jean-François Thiriart"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = revolutionary_neo_fascism
+	traits = {
+		#
+	}
+}

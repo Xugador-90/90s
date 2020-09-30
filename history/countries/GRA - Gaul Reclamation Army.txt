@@ -1,0 +1,35 @@
+﻿capital = 14
+
+oob = ""
+
+# Starting tech
+set_technology = {
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = tribalism
+	elections_allowed = no
+}
+set_popularities = {
+	republicanism = 0
+	atomic_dictatorship = 0
+	messianism = 0
+	neo_fascism = 0
+	tribalism = 100
+	autocracy = 0
+	techno_dictatorship = 0
+	proletarian_dictatorship = 0
+}
+
+create_country_leader = {
+	name = "Le Conseil Drudiste"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = tribal_revivalists
+	traits = {
+		#
+	}
+}

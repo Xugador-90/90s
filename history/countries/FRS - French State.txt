@@ -25,3 +25,14 @@ set_popularities = {
 	bureaucratic_socialism = 0
 	maoism_ideology = 20
 }
+
+create_country_leader = {
+	name = "Jean-Jacques Susini"
+	#desc = ""
+	#picture = ""
+	expire = "2020.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}
