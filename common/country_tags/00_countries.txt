@@ -177,3 +177,5 @@ PRR = "countries/Pure Race Realm.txt"
 GRA = "countries/Gaul Reclamation Army.txt"
 PLA = "countries/Pan-European Liberation Army.txt"
 
+CEZ = "countries/Chernobyl Exclusion Zone.txt"
+

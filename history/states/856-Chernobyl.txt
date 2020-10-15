@@ -1,0 +1,19 @@
+state={
+	id=856
+	name="STATE_856"
+	
+	history={
+		owner = CEZ
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = CEZ
+	}
+	
+	provinces={
+		6556 9466 9568 11453 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
