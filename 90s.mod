@@ -1,5 +1,4 @@
 name="The Crazy 90s"
-path="mod/90s"
 tags={
 	"Alternative History"
 	"Map"
@@ -44,3 +43,7 @@ replace_path = "gfx/flags/small"
 #History
 replace_path = "history/units"
 replace_path = "history/countries"
+replace_path = "history/states"
+
+#map
+replace_path = "map"
