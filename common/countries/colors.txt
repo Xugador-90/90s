@@ -788,31 +788,31 @@ CEZ = {
 #}
 
 GLC = {
-	color = rgb { 192 192 192 }
+	color = rgb { 95 179 177 }
 }
 
 AST = {
-	color = rgb { 192 192 192 }
+	color = rgb { 173 57 65 }
 }
 
 EUS = {
-	color = rgb { 192 192 192 }
+	color = rgb { 156 214 129 }
 }
 
 FLS = {
-	color = rgb { 192 192 192 }
+	color = rgb { 133 113 64 }
 }
 
 KSP = {
-	color = rgb { 192 192 192 }
+	color = rgb { 191 164 94 }
 }
 
 CAT = {
-	color = rgb { 192 192 192 }
+	color = rgb { 183 184 130 }
 }
 
 POS = {
-	color = rgb { 192 192 192 }
+	color = rgb { 57 99 77 }
 }
 
 SPR = {
@@ -820,13 +820,13 @@ SPR = {
 }
 
 FCS = {
-	color = rgb { 192 192 192 }
+	color = rgb { 179 167 91 }
 }
 
 POR = {
-	color = rgb { 192 192 192 }
+	color = rgb { 81 140 109 }
 }
 
 ASR = {
-	color = rgb { 192 192 192 }
+	color = rgb { 122 59 66 }
 }
