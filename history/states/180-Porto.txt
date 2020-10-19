@@ -7,7 +7,9 @@ state={
 	state_category = large_town
 
 	history={
-		owner = POR
+		owner = POS
+		add_core_of = POS
+		add_core_of = POR
 		victory_points = {
 			9817 10
 		}
@@ -22,7 +24,6 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = POR
 	}
 
 	provinces={

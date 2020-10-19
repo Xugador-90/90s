@@ -786,3 +786,47 @@ CEZ = {
 #	color = rgb { 104 86 120 }
 #	color_ui = rgb { 104 86 120 }
 #}
+
+GLC = {
+	color = rgb { 192 192 192 }
+}
+
+AST = {
+	color = rgb { 192 192 192 }
+}
+
+EUS = {
+	color = rgb { 192 192 192 }
+}
+
+FLS = {
+	color = rgb { 192 192 192 }
+}
+
+KSP = {
+	color = rgb { 192 192 192 }
+}
+
+CAT = {
+	color = rgb { 192 192 192 }
+}
+
+POS = {
+	color = rgb { 192 192 192 }
+}
+
+SPR = {
+	color = rgb { 161 106 161 }
+}
+
+FCS = {
+	color = rgb { 192 192 192 }
+}
+
+POR = {
+	color = rgb { 192 192 192 }
+}
+
+ASR = {
+	color = rgb { 192 192 192 }
+}

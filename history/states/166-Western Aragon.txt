@@ -1,3 +1,4 @@
+
 state={
 	id=166
 	name="STATE_166"
@@ -6,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = FLS
 		victory_points = {
 			3816 3 
 		}
@@ -22,12 +23,12 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = SPR
+		add_core_of = FLS
 
 	}
 
 	provinces={
-		813 948 3816 6878 6901 7213 9812 9840 9842 11737 11838 
+		813 948 3816 6878 6901 9840 9842 11737 11838 
 	}
 	manpower=668365
 	buildings_max_level_factor=1.000

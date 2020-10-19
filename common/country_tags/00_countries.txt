@@ -179,3 +179,15 @@ PLA = "countries/Pan-European Liberation Army.txt"
 
 CEZ = "countries/Chernobyl Exclusion Zone.txt"
 
+GLC = "countries/Galicia.txt"
+AST = "countries/Asturian Workers Army.txt"
+EUS = "countries/Euskadi Free State.txt"
+FLS = "countries/Falangist Spain.txt"
+KSP = "countries/Kingdom of Spain.txt"
+CAT = "countries/Catalonia.txt"
+POS = "countries/Portugese State.txt"
+SPR = "countries/Spanish Republic.txt"
+FCS = "countries/Francoist Spain.txt"
+POR = "countries/Portugese Republic.txt"
+ASR = "countries/Andalusian Soviet Republic.txt"
+
