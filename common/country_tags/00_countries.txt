@@ -191,3 +191,11 @@ FCS = "countries/Francoist Spain.txt"
 POR = "countries/Portugese Republic.txt"
 ASR = "countries/Andalusian Soviet Republic.txt"
 
+CRP = "countries/Carpathia.txt"
+UKS = "countries/Ukrainian State.txt"
+USR = "countries/Ukrainian Socialist Republic.txt"
+KEV = "countries/Kievan Rus.txt"
+UAS = "countries/Ukrainian Anarchist State.txt"
+NOV = "countries/Novorossiya.txt"
+CRM = "countries/Crimea.txt"
+
