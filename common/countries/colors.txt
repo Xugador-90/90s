@@ -832,25 +832,25 @@ ASR = {
 }
 
 CRP = {
-	color = rbg { 192 192 192 }
+	color = rgb { 192 192 192 }
 }
 
 UKS = {
-	color = rbg { 192 192 192 }
+	color = rgb { 192 192 192 }
 }
 
-USR = {
-	color = rbg { 192 192 192 }
+TAR = {
+	color = rgb { 192 192 192 }
 }
 
 KEV = {
-	color = rbg { 192 192 192 }
+	color = rgb { 192 192 192 }
 }
 
 NOV = {
-	color = rbg { 192 192 192 }
+	color = rgb { 192 192 192 }
 }
 
 CRM = {
-	color = rbg { 192 192 192 }
+	color = rgb { 192 192 192 }
 }

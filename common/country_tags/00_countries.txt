@@ -193,7 +193,7 @@ ASR = "countries/Andalusian Soviet Republic.txt"
 
 CRP = "countries/Carpathia.txt"
 UKS = "countries/Ukrainian State.txt"
-USR = "countries/Ukrainian Socialist Republic.txt"
+TAR = "countries/Taurida.txt"
 KEV = "countries/Kievan Rus.txt"
 UAS = "countries/Ukrainian Anarchist State.txt"
 NOV = "countries/Novorossiya.txt"
